@@ -25,7 +25,7 @@ corpus:
   fragment_words: 1500
 
 topics:
-  distance_thresholds: {primary: 0.45, alt: 0.35}  # cosine distance; alt is the robustness resolution
+  distance_thresholds: {primary: 0.55, alt: 0.45}  # set on pilot1 (Nov 6): 0.45 gave 4 topics  # cosine distance; alt is the robustness resolution
   domain_weight: 0.5   # share of similarity from the polarity-free "domain" field
   min_claims: 15
   min_texts: 5
