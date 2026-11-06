@@ -132,3 +132,37 @@ class FakeLLM(LLM):
 
     def call(self, prompt: str, retries: int = 0):
         return self.fn(prompt)
+
+
+class QueueLLM(LLM):
+    """No API: answers come from the disk cache; missing prompts are queued for agents.
+
+    Run a pipeline stage once to fill work/queue/<model>.jsonl, let agents answer the queue
+    (see tools/agents.py), ingest the answers into the cache, then run the stage again.
+    """
+
+    def __init__(self, model: str, cache_dir, queue_file, **kw):
+        super().__init__(model, cache_dir, workers=1, client=object(), **kw)
+        self.queue_file = Path(queue_file)
+        self.queue_file.parent.mkdir(parents=True, exist_ok=True)
+        self.queued = 0
+
+    def call(self, prompt: str, retries: int = 0):
+        path = self.cache_dir / f"{self._key(prompt)}.json"
+        if path.exists():
+            return json.loads(path.read_text())["parsed"]
+        with self._lock:
+            with self.queue_file.open("a", encoding="utf-8") as f:
+                f.write(json.dumps({"key": self._key(prompt), "model": self.model, "prompt": prompt}) + "\n")
+            self.queued += 1
+        return None
+
+    def ingest(self, key: str, prompt: str, raw: str) -> bool:
+        try:
+            parsed = parse_json(raw)
+        except Exception:
+            return False
+        (self.cache_dir / f"{key}.json").write_text(json.dumps(
+            {"prompt": prompt, "raw": raw, "parsed": parsed, "model": self.model + " (agent batch)",
+             "time": time.time()}))
+        return True

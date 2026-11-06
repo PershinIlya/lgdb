@@ -1,24 +1,24 @@
 text_id,title,author,year,period,region,format,translator,translation_year,split,mask_terms
-analects,Analects,Confucius and disciples,5th-3rd c. BCE,before 1500,East Asia,collection,James Legge,1861,pilot,Analects:TITLE; Confucius:PERSON; K'ung:PERSON; Chung-ni:PERSON
-gita,Bhagavad Gita,Vyasa,c. 200 BCE-200 CE,before 1500,South Asia,thesis,Edwin Arnold,1885,pilot,Bhagavad-Gita:TITLE; Bhagavad Gita:TITLE; Song Celestial:TITLE; Krishna:PERSON; Krishna's:PERSON; Arjuna:PERSON; Sanjaya:PERSON; Dhritirashtra:PERSON; Kurukshetra:PLACE
-vivekachudamani,Vivekachudamani,Adi Shankara,8th-14th c.,before 1500,South Asia,thesis,Swami Madhavananda,1921,pilot,Vivekachudamani:TITLE; Sankara:PERSON; Shankara:PERSON; Sankaracharya:PERSON
-meditations,Meditations,Marcus Aurelius,c. 170-180,before 1500,Western (Europe and the Americas),collection,George Long,1862,pilot,Antoninus:PERSON; Marcus:PERSON; Aurelius:PERSON; Verus:PERSON
+analects,Analects,Confucius and disciples,5th-3rd c. BCE,before 1500,East Asia,collection,James Legge,1861,pilot1,Analects:TITLE; Confucius:PERSON; K'ung:PERSON; Chung-ni:PERSON
+gita,Bhagavad Gita,Vyasa,c. 200 BCE-200 CE,before 1500,South Asia,thesis,Edwin Arnold,1885,pilot1,Bhagavad-Gita:TITLE; Bhagavad Gita:TITLE; Song Celestial:TITLE; Krishna:PERSON; Krishna's:PERSON; Arjuna:PERSON; Sanjaya:PERSON; Dhritirashtra:PERSON; Kurukshetra:PLACE
+vivekachudamani,Vivekachudamani,Adi Shankara,8th-14th c.,before 1500,South Asia,thesis,Swami Madhavananda,1921,pilot1,Vivekachudamani:TITLE; Sankara:PERSON; Shankara:PERSON; Sankaracharya:PERSON
+meditations,Meditations,Marcus Aurelius,c. 170-180,before 1500,Western (Europe and the Americas),collection,George Long,1862,pilot1,Antoninus:PERSON; Marcus:PERSON; Aurelius:PERSON; Verus:PERSON
 enchiridion,Enchiridion,Epictetus,c. 125,before 1500,Western (Europe and the Americas),collection,Thomas Wentworth Higginson,1865,main,Enchiridion:TITLE; Epictetus:PERSON
 confessions,Confessions,Augustine,c. 397-400,before 1500,Western (Europe and the Americas),thesis,E. B. Pusey,1838,pilot,Augustine:PERSON; Monica:PERSON; Ambrose:PERSON; Carthage:PLACE; Milan:PLACE; Thagaste:PLACE
-republic,Republic,Plato,c. 375 BCE,before 1500,Western (Europe and the Americas),thesis,Benjamin Jowett,1871,pilot,Socrates:PERSON; Glaucon:PERSON; Thrasymachus:PERSON; Adeimantus:PERSON; Polemarchus:PERSON; Cephalus:PERSON
+republic,Republic,Plato,c. 375 BCE,before 1500,Western (Europe and the Americas),thesis,Benjamin Jowett,1871,pilot1,Socrates:PERSON; Glaucon:PERSON; Thrasymachus:PERSON; Adeimantus:PERSON; Polemarchus:PERSON; Cephalus:PERSON
 art_of_war,The Art of War,Sunzi,5th-4th c. BCE,before 1500,East Asia,thesis,Lionel Giles,1910,pilot,Sun Tzu:PERSON; Sun Tzŭ:PERSON; Sun Tzu's:PERSON; Sun Tzŭ's:PERSON
-xiaojing,Classic of Filial Piety,Confucius/Zengzi,3rd-2nd c. BCE,before 1500,East Asia,thesis,Ivan Chen,1908,pilot,Hsiao King:TITLE; Confucius:PERSON; Tseng Tzu:PERSON; Tsang:PERSON
+xiaojing,Classic of Filial Piety,Confucius/Zengzi,3rd-2nd c. BCE,before 1500,East Asia,thesis,Ivan Chen,1908,pilot1,Hsiao King:TITLE; Confucius:PERSON; Tseng Tzu:PERSON; Tsang:PERSON
 satakatraya,Satakatraya,Bhartrihari,5th-7th c.,before 1500,South Asia,collection,B. Hale Wortham,1886,pilot,Bhartrihari:PERSON; Bhartrhari:PERSON
 sutta_nipata,Sutta Nipata,the Buddha,c. 3rd c. BCE,before 1500,South Asia,collection,V. Fausboll,1881,pilot,Sutta Nipata:TITLE; Gotama:PERSON; Buddha:PERSON
-worldly_wisdom,The Art of Worldly Wisdom,Baltasar Gracian,1647,1500 to 1945,Western (Europe and the Americas),collection,Joseph Jacobs,1892,pilot,Gracian:PERSON; Gracián:PERSON
+worldly_wisdom,The Art of Worldly Wisdom,Baltasar Gracian,1647,1500 to 1945,Western (Europe and the Americas),collection,Joseph Jacobs,1892,pilot1,Gracian:PERSON; Gracián:PERSON
 poor_richard,Poor Richard's Almanack,Benjamin Franklin,1732-1758,1500 to 1945,Western (Europe and the Americas),collection,original English,1758,pilot,Poor Richard:PERSON; Richard Saunders:PERSON; Father Abraham:PERSON; Franklin:PERSON
 walden,Walden,Henry David Thoreau,1854,1500 to 1945,Western (Europe and the Americas),thesis,original English,1854,pilot,Walden:PLACE; Thoreau:PERSON; Concord:PLACE
 devout_life,Introduction to the Devout Life,Francis de Sales,1609,1500 to 1945,Western (Europe and the Americas),thesis,anonymous,1869,main,Philothea:PERSON; Francis de Sales:PERSON
 chuanxilu,Instructions for Practical Living,Wang Yangming,1518-1572,1500 to 1945,East Asia,collection,Frederick G. Henke,1916,pilot,Wang Yang-ming:PERSON; Yang-ming:PERSON; Wang:PERSON
 book_of_tea,The Book of Tea,Okakura Kakuzo,1906,1500 to 1945,East Asia,thesis,original English,1906,pilot,Okakura:PERSON; Teaism:TERM
 tukaram,Tukaram Gatha,Tukaram,17th c.,1500 to 1945,South Asia,collection,J. Nelson Fraser and K. B. Marathe,1909,main,Tukaram:PERSON; Tukarama:PERSON; Tuka:PERSON; Vithoba:PERSON
-ramcharitmanas,Ramcharitmanas,Tulsidas,1574-1577,1500 to 1945,South Asia,thesis,F. S. Growse,1883,pilot,Tulsi Das:PERSON; Tulsi:PERSON; Rama:PERSON; Ram:PERSON; Sita:PERSON; Lakshman:PERSON; Lachhman:PERSON; Ravan:PERSON; Ravana:PERSON; Hanuman:PERSON; Bharat:PERSON
+ramcharitmanas,Ramcharitmanas,Tulsidas,1574-1577,1500 to 1945,South Asia,thesis,F. S. Growse,1883,pilot1,Tulsi Das:PERSON; Tulsi:PERSON; Rama:PERSON; Ram:PERSON; Sita:PERSON; Lakshman:PERSON; Lachhman:PERSON; Ravan:PERSON; Ravana:PERSON; Hanuman:PERSON; Bharat:PERSON
 hind_swaraj,Hind Swaraj,M. K. Gandhi,1909,1500 to 1945,South Asia,thesis,M. K. Gandhi,1910,pilot,Gandhi:PERSON; Hind Swaraj:TITLE
 rule_of_benedict,Rule of Saint Benedict,Benedict of Nursia,c. 530-560,before 1500,Western (Europe and the Americas),collection,D. Oswald Hunter Blair,1886,pilot,Benedict:PERSON; Saint Benedict:PERSON; St. Benedict:PERSON
-vemana,Verses of Vemana,Vemana,17th-18th c.,1500 to 1945,South Asia,collection,C. P. Brown,1829,pilot,Vemana:PERSON; Vema:PERSON
-buddha_dhamma,The Buddha and His Dhamma,B. R. Ambedkar,1957,after 1945,South Asia,thesis,original English,1957,pilot,The Buddha and His Dhamma:TITLE; Ambedkar:PERSON; Babasaheb:PERSON; Buddha:PERSON; Gotama:PERSON; Gautama:PERSON; Siddharth:PERSON
+vemana,Verses of Vemana,Vemana,17th-18th c.,1500 to 1945,South Asia,collection,C. P. Brown,1829,pilot1,Vemana:PERSON; Vema:PERSON
+buddha_dhamma,The Buddha and His Dhamma,B. R. Ambedkar,1957,after 1945,South Asia,thesis,original English,1957,pilot1,The Buddha and His Dhamma:TITLE; Ambedkar:PERSON; Babasaheb:PERSON; Buddha:PERSON; Gotama:PERSON; Gautama:PERSON; Siddharth:PERSON
