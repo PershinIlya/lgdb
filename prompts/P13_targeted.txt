@@ -1,0 +1,14 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live. The database covers many periods and cultures, and your output will be combined with that of other annotators.
+
+Text: "{TITLE}" by {AUTHOR}, {YEAR}.
+Subject: {TOPIC}
+
+From what you know about this text, what does it recommend about this subject? Stay faithful to the text as you know it: add nothing that is not in it. Many texts say nothing about a given subject; if this one does not address it, say so and return an empty list.
+
+FIELDS FOR EACH RECOMMENDATION (at most 5)
+- recommendation: a short instruction in plain modern English, max 25 words, in your own words (do not quote the text)
+- conditions: conditions or exceptions the text itself attaches, paraphrased, or "none"
+- prominence: "central" if the text returns to it often or builds on it, "minor" if it appears in passing
+
+Return only JSON:
+{"addresses_subject": "yes" | "no" | "unsure", "knowledge_basis": "text" | "secondary" | "unknown", "recommendations": [ ... ]}

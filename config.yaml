@@ -31,7 +31,7 @@ topics:
   min_texts: 5
 
 pairs:
-  partners_per_claim: 10
+  partners_per_claim: 5   # pilot1: halved to fit subscription limits
   cross_topic_pairs: 500
   second_model_fraction: 0.2
 
