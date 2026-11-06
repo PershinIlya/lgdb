@@ -1,0 +1,4 @@
+^(?![^\n]*(?:PHILOSOPHY|PRACTICAL|DISCOURSES|DISCCURSES))[ \t]*\d{1,2}[ \t]+[A-Z][\s\S]{0,1500}?(?=^[ \t]*\S{0,4}[ \t]*(?:(?:THE[ \t]+)?PHILOSOPHY[ \t]+O\S[ \t]+WA\S{2}[ \t]|INSTRUCTIONS[ \t]+FO\S[ \t]+PRACTICAL[ \t]+LIFE[ \t]+\S{1,4}[ \t]*$|INSTRUCTIONS[ \t]+FO\S[ \t]+PRACTICAL[ \t]+LIFE[ \t]*\n\s*PART|BOOK[ \t]+II[ \t]*$|\S{3,8}[ \t]+OF[ \t]+DISC\S+[ \t]+\S{1,4}[ \t]*$))
+^[ \t]*\S{0,6}[ \t]*(?:THE[ \t]+)?PHILOSOPHY[ \t]+O\S[ \t]+WA\S{2}[ \t]+YA\S{2}.?MI\S{2,3}[ \t]*\S{0,4}[ \t]*$
+^[ \t]*\S{0,4}[ \t]*INSTRUCTIONS[ \t]+FO\S[ \t]+PRACTICAL[ \t]+LIFE[ \t]+\S{1,4}[ \t]*$
+^[ \t]*\S{0,4}[ \t]*\S{3,8}[ \t]+OF[ \t]+DISC\S{4,8}[ \t]+\S{1,4}[ \t]*$

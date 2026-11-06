@@ -1,0 +1,14 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live, from many periods and cultures.
+
+A statistical analysis of many texts found the pattern described below. Texts that score high on it tend to contain the groups of recommendations listed under END 1; texts that score low tend to contain the groups listed under END 2. Each group has a 1-sentence definition and a loading that shows how strongly it is tied to the pattern. Either list may be empty.
+
+Task: give the pattern a short name (max 6 words), a 1-sentence description, and a name of 1 to 4 words for each non-empty end. Base everything only on the groups listed. If the groups do not form an interpretable pattern, set "interpretable" to false instead of forcing a name.
+
+Return only JSON:
+{"factor_id": "{FACTOR_ID}", "interpretable": true, "name": "", "description": "", "end_1_name": "", "end_2_name": ""}
+
+END 1:
+{END_1}
+
+END 2:
+{END_2}

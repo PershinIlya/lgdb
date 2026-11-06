@@ -1,0 +1,5 @@
+^\[(?!\d+\])(?:(?!\n\d+(?:, \d+)*\. |\nChapter |\n\[)[\s\S])*?\][ \t]*$(?=\n[ \t]*\n|\s*\Z)
+^\[[^\n]*(?:\n(?![ \t]*\n|\d+(?:, \d+)*\. |Chapter )[^\n]*)*
+^(?=[^\s\d(\[])(?!Chapter )[^\n\[\]]*(?:\n(?![ \t]*\n)[^\n\[\]]*)*\][ \t]*$(?=\n[ \t]*\n|\s*\Z)
+^\][ \t]*$
+^"the world’s coarse thumb\nAnd finger fail to plumb\."$

@@ -1,0 +1,38 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live. The database covers many periods and cultures, and your output will be combined with that of other annotators.
+
+You will receive 1 passage. Its title, author, and proper names have been removed. Work only from the passage. Do not use outside knowledge about the text, its author, or its reputation, even if you think you recognize it.
+
+WHAT TO EXTRACT
+A recommendation is any statement that tells or clearly encourages the reader, or people in general, to do, value, believe, feel, or avoid something. Include explicit recommendations ("Do X", "One must X", "The wise do X") and clearly implied ones (for example, a story that ends by praising someone for doing X). Skip purely descriptive statements, facts, and anecdotes that carry no recommendation. If the same recommendation appears several times, record it once, using the wording that states it most directly.
+
+Stay faithful to the passage: add nothing that is not in it, and leave out nothing it says about each recommendation.
+
+FIELDS FOR EACH RECOMMENDATION
+- id: "{PASSAGE_ID}-1", "{PASSAGE_ID}-2", and so on
+- recommendation: a short instruction in plain modern English, max 25 words, keeping the passage's own wording choices as far as possible
+- evidence_quote: the shortest exact quote from the passage that supports it, max 40 words
+- explicitness: "explicit" or "implied"
+- action_type: "do", "avoid", "feel", "believe", "value", or "other"
+- target: what the recommendation is mainly about: "oneself", "other people", "society or community", "the divine or nature", "work or possessions", or "other"
+- addressee: who is addressed, in 1 to 3 words (for example "reader", "ruler", "student", "child", "spouse", "believer")
+- time_frame: "a single moment or situation", "a regular habit", "the whole of life", or "not specified"
+- domain: the area of life it concerns, 1 to 3 words of your choice
+- wording: the grammatical force of the passage's own wording:
+  "absolute": always, never, must, the only way, without exception, or a law or commandment
+  "direct": a plain instruction or endorsement
+  "hedged": usually, often, generally, or in most cases
+  "tentative": may, might, could, consider, or perhaps
+- rationale: the reason the passage gives, paraphrased in max 30 words, or "none given"
+- rationale_type: 1 or more of "divine or scriptural authority", "authority of a person or tradition", "personal experience or anecdote", "reasoning", "scientific or empirical evidence", "practical consequences", "none"
+- scope: the people or situations the passage says it applies to, paraphrased; "all people" if the passage says everyone; "not stated" if it says nothing
+- conditions: conditions or exceptions the passage itself attaches, paraphrased, or "none"
+- argued_against: the behavior, belief, or kind of person the passage explicitly criticizes or warns against in connection with this recommendation, paraphrased, or "none"
+
+Return only JSON:
+{"passage_id": "{PASSAGE_ID}", "recommendations": [ ... ]}
+If the passage contains no recommendations, return an empty list.
+
+PASSAGE {PASSAGE_ID}:
+<<<
+{TEXT}
+>>>

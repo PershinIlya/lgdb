@@ -1,0 +1,11 @@
+You are helping build a research database that maps the scientific evidence on everyday behaviors and attitudes.
+
+Behavior or attitude: {BEHAVIOR}
+Definition: {DEFINITION}
+
+Task: use web search to find the strongest peer-reviewed empirical studies on how this behavior or attitude relates to well-being, health, relationships, or achievement. Prefer meta-analyses, then preregistered studies, then large samples. List up to 10 sources.
+
+For each source give the authors, year, title, design, sample size, the outcome measured, and the main result in 1 sentence, staying as close as possible to how the authors themselves report it. Do not summarize across sources and do not add your own interpretation. If you find little or no relevant research, say so.
+
+Return only JSON:
+{"behavior": "", "sources": [{"source_id": "", "authors": "", "year": 0, "title": "", "design": "", "n": 0, "outcome": "", "result": ""}], "note": ""}

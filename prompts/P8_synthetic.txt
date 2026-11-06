@@ -1,0 +1,11 @@
+Write {N} short passages, 300 to 600 words each, in the style of texts that offer guidance on how to live. Vary the style across passages: an ancient collection of sayings; an 18th-century moral essay; a 19th-century self-improvement book; a contemporary bestselling self-help book; a contemporary book of short maxims. Do not imitate any specific real author or text, and include no titles, author names, or names of real people.
+
+Each passage must contain exactly the recommendations listed in its specification row, each at the specified wording force, embedded naturally among ordinary non-prescriptive material such as stories and observations. Add no other recommendations on the specified subject.
+
+Wording force: "absolute" (always, never, must), "direct" (plain instruction without hedging), "hedged" (usually, often), and "tentative" (may, might, consider).
+
+Specification, 1 row per passage:
+{SPEC}
+
+Return only JSON:
+{"passages": [{"passage_id": "", "text": "", "implements": "copy of the specification row"}]}

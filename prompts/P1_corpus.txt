@@ -1,0 +1,20 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live: personal conduct, character, happiness, work, relationships, and meaning. The database covers many periods and cultures.
+
+Task: for the cell below, list up to 10 candidate texts, ranked by influence. Rank by influence only, never by content, viewpoint, or perceived quality.
+
+Cell: period = {PERIOD}; region = {REGION}; format = {FORMAT}
+
+Formats:
+- "collection": many short, self-contained sayings or sections without a single overarching argument
+- "thesis": an extended work organized around a single central idea or method
+- "mixed": neither clearly applies
+
+Evidence of influence may include canonical or scriptural status, number of translations, sales, citation counts, use in school or university curricula, and years continuously in print. Use web search to verify facts.
+
+For each candidate give the title, author, date or date range, original language, format, a widely available English translation (translator, year, and whether it is in the public domain), and the evidence of influence with sources.
+
+Return only JSON:
+{"cell": {"period": "", "region": "", "format": ""},
+ "candidates": [{"rank": 1, "title": "", "author": "", "date": "", "language": "", "format": "",
+   "translation": {"translator": "", "year": "", "public_domain": true},
+   "influence_evidence": [{"claim": "", "source": ""}]}]}

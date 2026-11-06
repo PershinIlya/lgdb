@@ -1,0 +1,67 @@
+# Preregistration v1.0 parameters. Change only before freezing.
+seed: 20261104
+
+models:
+  annotator: claude-sonnet-5-5       # P2, P3, P4a, P4b, P5, P6, P7b
+  second_annotator: claude-haiku-5-5 # P5 on 20% of pairs (stability gate)
+  search: claude-sonnet-5-5          # P1, P7a (web search)
+  generator: claude-opus-5-5         # P8 synthetic controls, unblinded side
+  panel: [claude-opus-5-5, claude-haiku-5-5, claude-sonnet-5-5]  # gold labels (P5p, P10, P12); first one proposes P11
+  temperature: 0.0
+  workers: 8
+  web_search_tool: {type: web_search_20250305, name: web_search, max_uses: 8}
+
+embedding:
+  provider: sentence-transformers    # or voyage, or tfidf for dry runs
+  model: all-mpnet-base-v2
+
+cells:   # P1 corpus grid for the pilot; format is crossed in code (collection, thesis)
+  periods: ["before 1500", "1500 to 1945", "after 1945"]
+  regions: ["Western (Europe and the Americas)", "East Asia", "South Asia"]
+
+corpus:
+  whole_max_words: 12000
+  n_fragments: 8
+  fragment_words: 1500
+
+topics:
+  distance_thresholds: {primary: 0.45, alt: 0.35}  # cosine distance; alt is the robustness resolution
+  domain_weight: 0.5   # share of similarity from the polarity-free "domain" field
+  min_claims: 15
+  min_texts: 5
+
+pairs:
+  partners_per_claim: 10
+  cross_topic_pairs: 500
+  second_model_fraction: 0.2
+
+graph:
+  neg_rate_min: 0.15
+  frustration_max: 0.2
+  null_alpha: 0.05
+  n_perm: 1000
+  min_camp_claims: 3
+  min_camp_texts: 2
+
+factors:
+  k_max: 8
+  n_boot: 1000
+  congruence_min: 0.85
+  stable_share: 0.8
+  ridge: 1.0
+
+gates:
+  extraction: {supported_min: 0.90, recall_min: 0.80}
+  compatibility: {kappa_min: 0.6, false_rate_max: 0.10}
+  synthetic: {camp_ari_min: 0.8, wording_kappa_min: 0.7}
+  negative_corpus: {bipolar_share_max: 0.10}
+  stability: {second_model_kappa_min: 0.6, clustering_ari_min: 0.6}
+  panel: {audit_agreement_min: 0.85, audit_share: 0.25, n_pairs: 200, n_claims: 100, n_passages: 10}
+
+thresholds:
+  n_perm: 1000
+  H1: {support: 0.50, refute: 0.20}
+  H2: {support: 0.70, refute: 0.40, minority_share: 0.20, minority_texts: 3, minority_cells: 2}
+  H3: {support: 0.60, refute: 0.35}
+  H4: {support: 0.30, refute: 0.10, min_texts: 15}
+  H5: {support: 0.60, refute_dominant: 0.50}

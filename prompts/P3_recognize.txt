@@ -1,0 +1,10 @@
+Read the passage below. Do you recognize which text it comes from?
+
+Return only JSON:
+{"recognized": true, "title": "", "author": "", "confidence": 0.0}
+"confidence" is your confidence, from 0 to 1, that your identification is correct. If you do not recognize the passage, set "recognized" to false, leave title and author empty, and set confidence to 0.
+
+PASSAGE:
+<<<
+{TEXT}
+>>>

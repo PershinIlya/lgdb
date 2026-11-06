@@ -1,0 +1,14 @@
+Below is a passage from a text that offers guidance on how to live, and the list of recommendations a reader extracted from it. A recommendation is any statement that tells or clearly encourages the reader, or people in general, to do, value, believe, feel, or avoid something, stated or clearly implied by the passage. Descriptions, facts, and stories that carry no recommendation do not count.
+
+List the recommendations the passage makes that are missing from the list. An item counts as present if any list entry expresses the same recommendation, even in other words. If nothing is missing, return an empty list.
+
+Return only JSON:
+{"item_id": "{ITEM_ID}", "missing": [{"recommendation": "max 25 words", "quote": "exact words from the passage"}]}
+
+PASSAGE:
+<<<
+{PASSAGE}
+>>>
+
+LIST:
+{LIST}

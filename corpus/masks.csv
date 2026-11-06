@@ -1,0 +1,26 @@
+text_id,mask_terms
+analects,Analects:TITLE; Confucius:PERSON; K'ung:PERSON; Chung-ni:PERSON
+gita,Bhagavad-Gita:TITLE; Bhagavad Gita:TITLE; Song Celestial:TITLE; Krishna:PERSON; Krishna's:PERSON; Arjuna:PERSON; Sanjaya:PERSON; Dhritirashtra:PERSON; Kurukshetra:PLACE
+vivekachudamani,Vivekachudamani:TITLE; Sankara:PERSON; Shankara:PERSON; Sankaracharya:PERSON
+meditations,Antoninus:PERSON; Marcus:PERSON; Aurelius:PERSON; Verus:PERSON
+enchiridion,Enchiridion:TITLE; Epictetus:PERSON
+confessions,Augustine:PERSON; Monica:PERSON; Ambrose:PERSON; Carthage:PLACE; Milan:PLACE; Thagaste:PLACE
+republic,Socrates:PERSON; Glaucon:PERSON; Thrasymachus:PERSON; Adeimantus:PERSON; Polemarchus:PERSON; Cephalus:PERSON
+art_of_war,Sun Tzu:PERSON; Sun Tzŭ:PERSON; Sun Tzu's:PERSON; Sun Tzŭ's:PERSON
+xiaojing,Hsiao King:TITLE; Confucius:PERSON; Tseng Tzu:PERSON; Tsang:PERSON
+satakatraya,Bhartrihari:PERSON; Bhartrhari:PERSON
+sutta_nipata,Sutta Nipata:TITLE; Gotama:PERSON; Buddha:PERSON
+worldly_wisdom,Gracian:PERSON; Gracián:PERSON
+poor_richard,Poor Richard:PERSON; Richard Saunders:PERSON; Father Abraham:PERSON; Franklin:PERSON
+walden,Walden:PLACE; Thoreau:PERSON; Concord:PLACE
+devout_life,Philothea:PERSON; Francis de Sales:PERSON
+chuanxilu,Wang Yang-ming:PERSON; Yang-ming:PERSON; Wang:PERSON
+book_of_tea,Okakura:PERSON; Teaism:TERM
+kabir,Kabir:PERSON
+tukaram,Tukaram:PERSON; Tukarama:PERSON; Tuka:PERSON; Vithoba:PERSON
+ramcharitmanas,Tulsi Das:PERSON; Tulsi:PERSON; Rama:PERSON; Ram:PERSON; Sita:PERSON; Lakshman:PERSON; Lachhman:PERSON; Ravan:PERSON; Ravana:PERSON; Hanuman:PERSON; Bharat:PERSON
+hind_swaraj,Gandhi:PERSON; Hind Swaraj:TITLE
+rule_of_benedict,Benedict:PERSON; Saint Benedict:PERSON; St. Benedict:PERSON
+vemana,Vemana:PERSON; Vema:PERSON
+think_and_grow_rich,Napoleon Hill:PERSON; Carnegie:PERSON
+buddha_dhamma,The Buddha and His Dhamma:TITLE; Ambedkar:PERSON; Babasaheb:PERSON; Buddha:PERSON; Gotama:PERSON; Gautama:PERSON; Siddharth:PERSON

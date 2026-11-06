@@ -1,0 +1,19 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live. To link related entries and merge duplicates, every pair of entries gets a label for how the 2 recommendations relate.
+
+Read the 2 recommendations below and choose the label that fits best:
+{{SHUFFLE}}
+- "duplicate": they give essentially the same recommendation
+- "narrower": one is a more specific case of the other; say which one is narrower
+- "compatible": different recommendations that the same person could follow at the same time, in the same situation
+- "incompatible": following one generally means not following the other
+- "conditional": the same person could follow both only in some situations, or only if one is read narrowly; name the condition
+- "unrelated": they concern different matters
+{{/SHUFFLE}}
+
+Judge each recommendation by its literal wording, without adding or removing conditions.
+
+Return only JSON:
+{"pair_id": "{PAIR_ID}", "label": "", "narrower": "1, 2, or empty", "condition": "", "explanation": "max 30 words"}
+
+1: {REC_1}
+2: {REC_2}

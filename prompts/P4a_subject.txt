@@ -1,0 +1,9 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live. The recommendations below were grouped automatically because they concern similar subject matter.
+
+Name the subject they address with a short noun phrase (for example "money", "anger", "daily routine") and describe the subject in 1 sentence. Work only from the recommendations as worded.
+
+Return only JSON:
+{"cluster_id": "{CLUSTER_ID}", "subject": "", "description": ""}
+
+RECOMMENDATIONS:
+{RECOMMENDATIONS}

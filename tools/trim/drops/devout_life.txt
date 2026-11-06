@@ -1,0 +1,14 @@
+^[^\n]{0,12}\n\s*P[A-Z]{2}[EK][ \t]*\n\s*Sketch o\S* th\S* Life[\s\S]*?(?=^PART THE FIRST[ \t]*\n\s*CONTAINING THE COUNSELS)
+^[^\n]*(?:Digitized|Google)[^\n]*$
+^[ \t]*[•■]?[ \t]*(?=[^\n]*\d)[\dilIoOSHMn^ ]{1,7}[ \t]*$
+^[ \t]*[\d*][ \t]+(?:[\dix][ \t]+)?(?:Ps|Psa|Ecclus|Gen|Matt?|Mark|Luke|John|Rom|Cor|Gal|Eph|Phil|Col|Thess|Tim|Heb|Jas|Pet|Rev|Prov|Isa|Isaiah|Jer|Song|Cant|Wisd|Kings|Sam|Job|Exod|Deut|Lev|Num|Eccles|Tob|Apoc|Acts)\b[^\n]*$
+(?<=\n\n\n)[^\n]*(?:[©®£@#$%^&<>|{}]|tf[jiy]|fj|ffi|fH|JF|Jg|\banti\b|\banb\b|ebot|Itebot|\b0[nft]t?\b)[^\n]*(?=\n\n\n)
+(?<=\n\n)[^\n]*[©®][^\n]*(?=\n\n)
+^(?![^\n]*\n\s*My Dear Reader)[^\n]{0,24}preface[ \t]*$
+^[ \t]*[xvil'’]{2,7}[ \t]*$
+^[^\n]{0,30}(?:[Pp]reface|rcface|reface|refoce|refact)[^\n]{0,6}$
+(?<=\n\n)(?=[^\n]{1,60}\n\n)[^\n]*(?:[a-z][A-Z]|\b[A-Z]{2}[a-z]|[a-z]\d|\d[a-z]|[©®])[^\n]*$
+^[ \t]*[^\sA-Za-z0-9]{1,4}[ \t]*$
+^[ \t]*[-/\\'"•■]?[A-Za-z][-/\\'".:]?[ \t]*$
+^[ \t]*[\d*•'’i ]{1,6}[ \t]*(?:I{1,2}[ \t]+)?(?:Ps|Psa|Ecclus|Eccles|Eccl|Gen|Ex|Exod|Lev|Num|Deut|Josh|Judg|Ruth|Sam|Kings|Chron|Neh|Esth|Tob|Judith|Job|Prov|Cant|Song|Wisd|Isa|Isaiah|Jer|Lam|Ezek|Dan|Hos|Mic|Zech|Mal|Matt?|Mark|Luke|John|Acts|Rom|Cor|Gal|Eph|Phil|Col|Thess|Tim|Tit|Heb|Jas|Pet|Jude|Rev|Apoc)\b\.?[ \t]+[ivxlcIVXL\d][^\n]*$
+^[ \t]*(?=\S{1,4}[ \t]*$)(?![A-Za-z][a-z]{1,3}[.,;:!?]?[ \t]*$)\S+[ \t]*$

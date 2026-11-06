@@ -1,0 +1,7 @@
+anthropic>=0.40
+numpy
+scipy
+scikit-learn
+pyyaml
+sentence-transformers
+pytest

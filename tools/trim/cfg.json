@@ -1,0 +1,132 @@
+{
+ "analects": {
+  "start": "BOOK I. HSIO R.",
+  "end": "",
+  "note": "Legge English translation only (no Chinese in this PG file). Cut digitizer note and title page. Source keeps original page breaks, so a few sentences are split by blank lines."
+ },
+ "gita": {
+  "start": "CHAPTER I Dhritirashtra:",
+  "end": "[FN#1] Some repetitionary",
+  "note": "Cut title page, dedication, Arnold's preface, contents and the footnote block; inline [FN#n] markers removed. Chapter colophons (HERE ENDETH CHAPTER ...) are part of the translation and kept."
+ },
+ "vivekachudamani": {
+  "start": "ViVekAchudAmani.",
+  "end": "INDEX.",
+  "note": "OCR. Cut title page, foreword, index and ads. Translator's bracketed verse by verse notes removed by regex where the brackets are intact (roughly 90 percent); about 40 notes with broken brackets remain. Devanagari OCR lines and running heads removed heuristically; a few Sanskrit fragments inside remaining notes stay."
+ },
+ "meditations": {
+  "start": "THE THOUGHTS OF MARCUS AURELIUS ANTONIUS. I.",
+  "end": "INDEXES. INDEX OF TERMS.",
+  "note": "Cut Long's biographical sketch, essay on the philosophy and the indexes. Long's indented footnotes and [A] markers removed. Long's bracketed supplied words, [Greek: ...] transliterations and inline cross references like (iii. 7) are inline and kept."
+ },
+ "enchiridion": {
+  "start": "THE ENCHIRIDION I There are things",
+  "end": "Footnotes [1]Happiness",
+  "note": "Carter 1758 not found online in plain text; Higginson is the nearest pre-1931 full translation. Cut the 1948 LLA front matter (note, Salomon introduction, bibliography), footnotes and publisher ads; inline [n] markers removed."
+ },
+ "confessions": {
+  "start": "BOOK I Great art Thou",
+  "end": "GRATIAS TIBI DOMINE",
+  "note": "Cut title lines and the closing GRATIAS TIBI DOMINE line."
+ },
+ "republic": {
+  "start": "BOOK I. I went down yesterday",
+  "end": "",
+  "note": "Cut Jowett's Introduction and Analysis, contents and the persons and scene note. Jowett's short footnotes appear inline in parentheses, e.g. (Bendis, the Thracian Artemis.), and cannot be cut cleanly; left in."
+ },
+ "art_of_war": {
+  "start": "Chapter I. LAYING PLANS",
+  "end": "",
+  "note": "Cut Giles's preface, introduction and its notes. Giles's bracketed commentary (his notes plus the Chinese commentators) interleaved after each verse, and the chapter footnotes, removed by regex; Sun Tzu text only."
+ },
+ "xiaojing": {
+  "start": "CHAPTER I THE MEANING OF FILIAL DUTY",
+  "end": "THE TWENTY-FOUR EXAMPLES No. I",
+  "note": "Legge 1879 is inside SBE vol 3; Chen 1908 is a complete standalone pre-1931 translation. Cut editorial note, introduction, footnotes and The Twenty-Four Examples (a separate later work printed in the same volume)."
+ },
+ "satakatraya": {
+  "start": "NITI SATAKA. Concerning Morality.",
+  "end": "NOTES TO VAIEAGYA S'ATAKA.",
+  "note": "Wortham omits the Sringara Sataka, so only the Niti and Vairagya Satakas. OCR. Cut preface, introduction, the notes to both satakas and the Trubner catalogue; running heads and page numbers removed."
+ },
+ "sutta_nipata": {
+  "ref": "in.ernet.dli.2015.175351",
+  "start": "I. URAGAVAGGA. 1 . URAGASUTTA.",
+  "end": "Pihgiya and Bavari, shed a golden light.",
+  "note": "ref changed to in.ernet.dli.2015.175351 (SBE X, 1881 first edition, DLI scan). Kept Part II only: Dhammapada, Fausboll's introduction and index cut. OCR. Page footnotes (mostly Pali commentary quotations) removed by regex; Fausboll's short italic summary under each sutta title is interleaved and left in."
+ },
+ "worldly_wisdom": {
+  "start": "1 Everything is at its Acme ;",
+  "end": "NOTES NOTES Orig.",
+  "note": "OCR. Cut Jacobs's preface, introduction and list of maxims, Lastanosa's To the Reader (publisher's address, not Gracian), Jacobs's notes and Macmillan ads. Running heads removed."
+ },
+ "poor_richard": {
+  "start": "THE WAY TO WEALTH. COURTEOUS READER,",
+  "end": "[Illustration: FINIS.]",
+  "note": "The Way to Wealth: Franklin's own compilation of Poor Richard's maxims. Cut Darton 1810 title page, ads and introduction; illustration captions removed."
+ },
+ "walden": {
+  "start": "WALDEN Economy When I wrote",
+  "end": "THE END ON THE DUTY OF CIVIL DISOBEDIENCE",
+  "note": "Walden only; On the Duty of Civil Disobedience and the title page epigraph cut."
+ },
+ "devout_life": {
+  "start": "O SWEET Jesus, my Lord, my Saviour",
+  "end": "",
+  "note": "Source switched from IntroductionToTheDevoutLife (1891 Longmans scan, text layer ended at p. 199) to introductiontod01salegoog: 1869 Rivingtons edition of the same anonymous translation, complete through Part V. OCR (Google scan). Kept the author's dedicatory prayer and preface; cut the life of St Francis, contents and Google notice. Bible reference footnotes, page numbers, most running heads and stray OCR marks removed; a few garbled running heads and chapter titles remain.",
+  "ref": "introductiontod01salegoog",
+  "year": "1869"
+ },
+ "chuanxilu": {
+  "start": "BOOK I INSTRUCTIONS FOR PRACTICAL LIFE PART I",
+  "end": "INQUIRY REGARDING THE GREAT LEARNING",
+  "note": "Kept Henke Book I (Instructions for Practical Life, parts I to III) and Book II (Record of Discourses). Cut Dewey introduction, translator's preface, Henke's biography of Wang, Inquiry Regarding the Great Learning, Books III and IV (letters), the prefaces and essays, and index. Page footnotes removed where they start with a clean number; footnotes with garbled numbers and OCR'd Chinese characters in parentheses remain. Henke's topical subheadings kept."
+ },
+ "book_of_tea": {
+  "start": "I. The Cup of Humanity",
+  "end": "",
+  "note": "Original English. Cut producer line and title. Short bracketed glosses like [Sumadera, near Kobe] are inline and kept."
+ },
+ "kabir": {
+  "start": "KABIR'S POEMS",
+  "end": "",
+  "note": "Source is Tagore's Songs of Kabir (100 poems from Sen's collection), not the Bijak. Cut Underhill's introduction; the italic Hindi first line references (e.g. I. 13. _mo ko ..._) removed."
+ },
+ "tukaram": {
+  "start": "I Autobiography 1.—Choughts about the World",
+  "end": "NOTES _Abhanga. Line.",
+  "note": "OCR, three volumes concatenated. Kept the poems of all three (abhangas 1 to 3721). Each volume's title, preface, contents, notes, appendices and index cut (start/end plus two block regexes); running heads removed."
+ },
+ "ramcharitmanas": {
+  "start": "BOOK I. CHILDHOOD. Sanskrit Invocation.",
+  "end": "[the end.]",
+  "note": "OCR. Cut title, Growse's introduction and postscript, printer imprint and library card. Growse's page footnotes removed by regex (a few with garbled numbers remain); running heads and printer signatures removed. Section labels (Doha, Chaupai, Chhand) kept as part of the poem."
+ },
+ "hind_swaraj": {
+  "start": "CHAPTER I THE CONGRESS AND ITS OFFICIALS",
+  "end": "APPENDICES: Some Authorities.",
+  "note": "Kept chapters I to XX. Cut ads, Rajagopalachari's note, Gandhi's 1919 foreword and 1921 Reply to Critics (later additions, not in the 1910 text), contents and the appendices (reading list and testimonies)."
+ },
+ "rule_of_benedict": {
+  "title": "Rule of Saint Benedict",
+  "kind": "ia",
+  "ref": "ruleofstbenedict00bene_1",
+  "translator": "D. Oswald Hunter Blair",
+  "year": "1886",
+  "start": "THE RULE OF OUR MOST HOLY FATHER SAINT BENEDICT.",
+  "end": "Motes 195",
+  "note": "OCR of the 1906 reprint (scan dated 1906; translation first published 1886). Latin and English on facing pages: cut title pages, translator's preface, index of chapters and notes; Latin removed by filter=english plus drop regexes (CAPUT lines, short Latin titles and instrument items, Latin-only paragraphs). Prologue and 73 English chapter headings present. Marginal reading-calendar dates (e.g. 2 Jan.) inside text lines and a few one-word Latin fragments remain.",
+  "filter": "english"
+ },
+ "vemana": {
+  "title": "Verses of Vemana",
+  "kind": "ia",
+  "ref": "in.ernet.dli.2015.367308",
+  "translator": "C. P. Brown",
+  "year": "1829",
+  "start": "THE VERSES OF VEMANA TRANSLATION. BOOK i.",
+  "end": "THE END INDEX TO INITIAL WORDS",
+  "note": "OCR of the 1911 Madras reprint of Brown's 1829 translation. Kept Books I to III of the English translation; cut Brown's preface, various readings, the index of first lines and the Telugu verses (filter=english plus a junk-paragraph regex). Footnotes removed where they start with a marker or mention metre, manuscripts, grammar and similar; about 100 short note fragments and some Telugu OCR noise inside English paragraphs remain.",
+  "filter": "english"
+ }
+}

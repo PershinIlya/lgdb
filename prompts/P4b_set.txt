@@ -1,0 +1,9 @@
+You are helping build a structured database of the recommendations made in influential texts that offer guidance on how to live.
+
+Below is a set of recommendations. Write a 1-sentence rule that states what they recommend in common, specific enough that a reader could decide whether a new recommendation belongs to the set, and give the set a name of 2 to 5 words. Work only from the recommendations as worded. If they have nothing meaningful in common, set "coherent" to false.
+
+Return only JSON:
+{"set_id": "{SET_ID}", "coherent": true, "name": "", "rule": ""}
+
+RECOMMENDATIONS:
+{RECOMMENDATIONS}

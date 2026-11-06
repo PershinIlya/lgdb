@@ -1,0 +1,19 @@
+You are checking entries in a database of advice drawn from books on how to live. Below are 2 pieces of advice. Decide how they relate to each other.
+
+Options:
+{{SHUFFLE}}
+- "duplicate": both say the same thing in different words
+- "narrower": one is a special case of the other
+- "compatible": they differ, but one person could act on both at once, in the same circumstances
+- "incompatible": acting on one generally rules out acting on the other
+- "conditional": one person could act on both only in certain circumstances, or only under a narrow reading of one of them
+- "unrelated": they are about different things
+{{/SHUFFLE}}
+
+Take each piece of advice exactly as worded. Do not add exceptions or qualifications that are not in the text, and do not remove any that are.
+
+Return only JSON:
+{"pair_id": "{PAIR_ID}", "label": ""}
+
+A: {REC_1}
+B: {REC_2}

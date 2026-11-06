@@ -1,0 +1,11 @@
+Below are the instructions given to an annotator in a research project.
+
+Question: based only on these instructions, what do you think the researchers expect to find? Give your 5 best guesses about their hypotheses, ranked, each with a probability from 0 to 1. For each guess, quote the wording in the instructions that suggested it.
+
+Return only JSON:
+{"guesses": [{"hypothesis": "", "probability": 0.0, "cues": [""]}]}
+
+INSTRUCTIONS UNDER REVIEW:
+<<<
+{PROMPT}
+>>>

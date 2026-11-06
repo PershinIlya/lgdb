@@ -1,0 +1,20 @@
+Below is a passage from a text that offers guidance on how to live, and 1 entry that a reader extracted from it as a recommendation the passage makes. Code the entry against the passage. Stay faithful to the passage: use only what it says, not anything you may know about the text.
+
+FIELDS
+- supported: "yes" if the passage itself makes this recommendation, stated or clearly implied; otherwise "no"
+- explicitness: "explicit" or "implied"
+- action_type: "do", "avoid", "feel", "believe", "value", or "other"
+- target: what the recommendation is mainly about: "oneself", "other people", "society or community", "the divine or nature", "work or possessions", or "other"
+- addressee: who is addressed, in 1 to 3 words (for example "reader", "ruler", "student", "child", "spouse", "believer")
+- time_frame: "a single moment or situation", "a regular habit", "the whole of life", or "not specified"
+
+Return only JSON:
+{"item_id": "{ITEM_ID}", "supported": "", "explicitness": "", "action_type": "", "target": "", "addressee": "", "time_frame": ""}
+
+PASSAGE:
+<<<
+{PASSAGE}
+>>>
+
+ENTRY: {RECOMMENDATION}
+QUOTE GIVEN BY THE READER: {QUOTE}

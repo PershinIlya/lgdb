@@ -1,0 +1,12 @@
+^[ \t]*CA\S{2,4}[ \t]+\S{1,8}[ \t]*$
+^[ \t]*(?:DE|De|UT|Ut|SI|Si|QUALITER|QUALIS|QUANTI|QUOD|Qualiter|Quales|Quanti|Quod)[ \t]+[A-Za-z][^\n]*$
+^[ \t]*\d{1,2}[.,][ \t]+(?![^\n]*\b(?:[Nn]ot|[Tt]o|a|an|the|of|and|in|be|one|one’s|his|by|with|for|all|nor|God|man|Christ|evil|good|[Ll]ove|Lorp|Lord)\b)[^\n]{1,60}$
+^[^\n]{0,12}[A-Z]\S{1,5}[ \t]+(?:of[ \t]+)?\S{1,4}[ \t]+\S{0,3}(?:ened|encd|ened)\S*[ \t]*\S{0,3}[ \t]*\d{0,3}[ \t]*$
+^[ \t]*\d{0,3}[ \t]*\S?rofogu\S[ \t]*\d{0,3}[ \t]*$
+^[ \t]*[+*‡†;:. ]*\d{0,2}[ \t]*\.?[ \t]*(?:Jan|Feb|Mar|Apr|Maii|May|Junii|June|unii|Julii|July|Aug|Sept|Oct|Nov|Dec|M)\S*[ \t]*$
+^[ \t]*\*?[ \t]*No[tr]e[ \t]+[A-Z][.,][^\n]*$
+^[ \t]*(?!Amen)\S{1,4}[ \t]*$
+^[ \t]*(?:IN[ \t]+REGULAM[ \t]+SUAM\.|PROLOGUS|REGULA)[ \t]*$
+^[ \t]*\*[ \t]*(?!IN THE)[^\n]*$
+^(?!(?:[^\n]*\n(?![ \t]*\n))*[^\n]*\b(?:the|The|and|of|to|that|be|him|them|let|Let|they|with|for|which|who|shall|thou|thy|this|from|their|may|or|all|is|are|not|by|as)\b)(?=(?:[^\n]*\n(?![ \t]*\n))*[^\n]*\b(?:est|et|Et|ut|Ut|non|qui|quae|quod|quia|sed|Sed|enim|vel|nec|neque|autem|sunt|atque|usque|quam|cum|ad|si|sibi|nihil|eam|eum|eorum|illos|se|super|aut|de|De|in)\b(?:[^\n]*\n(?![ \t]*\n))*[^\n]*\b(?:est|et|Et|ut|Ut|non|qui|quae|quod|quia|sed|Sed|enim|vel|nec|neque|autem|sunt|atque|usque|quam|cum|ad|si|sibi|nihil|eam|eum|eorum|illos|se|super|aut|de|De|in)\b)[^\n]*(?:\n(?![ \t]*\n)[^\n]*)*
+(?:(?<=OBEDIENCE\. \n)|(?<=PRAYER\. \n)|(?<=READER\. \n)|(?<=COMPLINE\. \n))(?:[ \t]*\n)+

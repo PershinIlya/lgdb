@@ -1,0 +1,274 @@
+period,region,cell_format,rank,title,author,date,format_reported,translation,english_year,available,status,split
+before 1500,East Asia,collection,1,Analects (Lunyu),Confucius and disciples,5th-3rd c. BCE,collection,Legge 1861,1861,True,selected,pilot
+before 1500,East Asia,collection,2,Mencius (Mengzi),Mencius and disciples,4th-3rd c. BCE,collection,Legge 1861,1861,True,selected,main
+before 1500,East Asia,collection,3,Daodejing,attributed to Laozi,4th-3rd c. BCE,collection,Legge 1891,1891,True,kept in before 1500 / East Asia / thesis,
+before 1500,East Asia,collection,4,Zhuangzi,Zhuang Zhou and others,4th-2nd c. BCE,collection,Giles 1889 (PD) / Watson 1968,1889,True,selected,main
+before 1500,East Asia,collection,5,Platform Sutra,attributed to Huineng,8th-13th c.,mixed,Yampolsky 1967,1967,False,format mismatch,
+before 1500,East Asia,collection,6,Classic of Filial Piety (Xiaojing),attributed to Confucius/Zengzi,3rd-2nd c. BCE,mixed,Legge 1879,1879,True,format mismatch,
+before 1500,East Asia,collection,7,Reflections on Things at Hand (Jinsilu),Zhu Xi and Lu Zuqian,1175,collection,Chan 1967,1967,False,no usable full text yet,
+before 1500,East Asia,collection,8,Tsurezuregusa (Essays in Idleness),Yoshida Kenko,c. 1330,collection,Sansom 1911,1967,True,selected,main
+before 1500,East Asia,collection,9,Family Instructions for the Yan Clan,Yan Zhitui,c. 589,collection,Teng 1968,1968,False,no usable full text yet,
+before 1500,East Asia,collection,10,Lessons for Women (Nujie),Ban Zhao,c. 100 CE,mixed,Swann 1932,1932,False,format mismatch,
+before 1500,South Asia,thesis,1,Bhagavad Gita,attributed to Vyasa,c. 200 BCE-200 CE,thesis,Arnold 1885,1885,True,selected,pilot
+before 1500,South Asia,thesis,2,Yoga Sutras,Patanjali,c. 200 BCE-400 CE,thesis,Woods 1914 / Vivekananda 1896,1896,True,selected,main
+before 1500,South Asia,thesis,3,Bodhicaryavatara,Shantideva,8th c.,thesis,Barnett 1909 (abridged),1979,False,no usable full text yet,
+before 1500,South Asia,thesis,4,Arthashastra,attributed to Kautilya,3rd c. BCE-3rd c. CE,thesis,Shamasastry 1915,1915,True,selected,main
+before 1500,South Asia,thesis,5,Visuddhimagga,Buddhaghosa,5th c.,thesis,Pe Maung Tin 1923-1929 (55%),1956,False,no usable full text yet,
+before 1500,South Asia,thesis,6,Kamasutra,Vatsyayana,c. 3rd c. CE,thesis,Burton and Arbuthnot 1883,1883,True,selected,main
+before 1500,South Asia,thesis,7,Vivekachudamani,attributed to Adi Shankara,8th-14th c.,thesis,Madhavananda 1921,1921,True,selected,pilot
+before 1500,South Asia,thesis,8,Yoga Vasistha,attributed to Valmiki,6th-14th c.,thesis,Mitra 1891,1891,True,selected,main
+before 1500,South Asia,thesis,9,Hatha Yoga Pradipika,Svatmarama,15th c.,thesis,Pancham Sinh 1914,1914,True,"available, beyond first 6",
+before 1500,South Asia,thesis,10,Lamp for the Path to Enlightenment,Atisha,c. 1042,thesis,Das 1893,1983,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,1,Chicken Soup for the Soul,Canfield and Hansen,1993,collection,original English,1993,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,2,Jesus Calling,Sarah Young,2004,collection,original English,2004,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,3,Markings (Vagmarken),Dag Hammarskjold,1963,collection,Sjoberg and Auden 1964,1964,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,4,The Daily Stoic,Holiday and Hanselman,2016,collection,original English,2016,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,5,Don't Sweat the Small Stuff,Richard Carlson,1997,collection,original English,1997,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,6,"Zen Mind, Beginner's Mind",Shunryu Suzuki,1970,collection,original English,1970,False,kept in after 1945 / East Asia / collection,
+after 1945,Western (Europe and the Americas),collection,7,Awareness,Anthony de Mello,1990,collection,original English,1990,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,8,Simple Abundance,Sarah Ban Breathnach,1995,collection,original English,1995,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,1,Man's Search for Meaning,Viktor Frankl,1946,thesis,Lasch 1959,1959,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,2,The 7 Habits of Highly Effective People,Stephen Covey,1989,thesis,original English,1989,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,3,The Power of Positive Thinking,Norman Vincent Peale,1952,thesis,original English,1952,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,4,Atomic Habits,James Clear,2018,thesis,original English,2018,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,5,The Power of Now,Eckhart Tolle,1997,thesis,original English,1997,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,6,The Art of Loving,Erich Fromm,1956,thesis,original English,1956,False,no usable full text yet,
+before 1500,Western (Europe and the Americas),collection,1,Meditations,Marcus Aurelius,c. 170-180,collection,Long 1862,1862,True,selected,pilot
+before 1500,Western (Europe and the Americas),collection,2,The Imitation of Christ,Thomas a Kempis,c. 1418-1427,collection,Benham 1905,1905,True,selected,main
+before 1500,Western (Europe and the Americas),collection,3,Letters to Lucilius,Seneca,c. 62-65,collection,Gummere 1917-1925,1917,True,selected,main
+before 1500,Western (Europe and the Americas),collection,4,Rule of Saint Benedict,Benedict of Nursia,c. 530-560,collection,Hunter Blair 1886,1948,True,selected,pilot
+before 1500,Western (Europe and the Americas),collection,5,Enchiridion,Epictetus,c. 125,collection,Carter 1758,1758,True,selected,main
+before 1500,Western (Europe and the Americas),collection,6,Distichs of Cato,Dionysius Cato,3rd-4th c.,collection,Chase 1922,1922,True,selected,main
+before 1500,Western (Europe and the Americas),collection,7,Moralia,Plutarch,c. 90-120,collection,Goodwin 1874,1874,True,"available, beyond first 6",
+before 1500,Western (Europe and the Americas),collection,8,Sayings of the Desert Fathers,anonymous,5th-6th c.,collection,Ward 1975 / Budge 1907,1907,True,"available, beyond first 6",
+before 1500,Western (Europe and the Americas),collection,9,Havamal,anonymous,10th-13th c.,collection,Bellows 1923,1923,True,"available, beyond first 6",
+before 1500,Western (Europe and the Americas),collection,10,Principal Doctrines and Vatican Sayings,Epicurus,c. 300 BCE,collection,Hicks 1925,1925,True,"available, beyond first 6",
+before 1500,Western (Europe and the Americas),thesis,1,Confessions,Augustine,c. 397-400,thesis,Pusey 1838,1838,True,selected,pilot
+before 1500,Western (Europe and the Americas),thesis,2,Nicomachean Ethics,Aristotle,c. 340-322 BCE,thesis,Ross 1908,1908,True,selected,main
+before 1500,Western (Europe and the Americas),thesis,3,The Consolation of Philosophy,Boethius,c. 524,thesis,James 1897,1897,True,selected,main
+before 1500,Western (Europe and the Americas),thesis,4,The Imitation of Christ,Thomas a Kempis,c. 1418-1427,thesis,Benham 1874,1874,True,kept in before 1500 / Western (Europe and the Americas) / collection,
+before 1500,Western (Europe and the Americas),thesis,5,Republic,Plato,c. 375 BCE,thesis,Jowett 1871,1871,True,selected,pilot
+before 1500,Western (Europe and the Americas),thesis,6,De Officiis,Cicero,44 BCE,thesis,Miller 1913,1913,True,selected,main
+before 1500,Western (Europe and the Americas),thesis,7,De Rerum Natura,Lucretius,c. 50 BCE,thesis,Leonard 1916,1916,True,selected,main
+before 1500,Western (Europe and the Americas),thesis,8,The City of God,Augustine,413-426,thesis,Dods 1871,1871,True,"available, beyond first 6",
+before 1500,Western (Europe and the Americas),thesis,9,Oration on the Dignity of Man,Pico della Mirandola,1486,thesis,Forbes 1948,1948,False,no usable full text yet,
+before 1500,Western (Europe and the Americas),thesis,10,Rule of Saint Benedict,Benedict of Nursia,c. 530-540,thesis,Hunter Blair 1886,1948,True,kept in before 1500 / Western (Europe and the Americas) / collection,
+before 1500,East Asia,thesis,1,Daodejing,attributed to Laozi,4th-3rd c. BCE,thesis,Legge 1891,1891,True,selected,main
+before 1500,East Asia,thesis,2,The Art of War,Sunzi,5th-4th c. BCE,thesis,Giles 1910,1910,True,selected,pilot
+before 1500,East Asia,thesis,3,The Great Learning (Daxue),attributed to Zengzi,3rd-2nd c. BCE,thesis,Legge 1861,1861,True,selected,main
+before 1500,East Asia,thesis,4,Doctrine of the Mean (Zhongyong),attributed to Zisi,3rd-2nd c. BCE,thesis,Legge 1861,1861,True,selected,main
+before 1500,East Asia,thesis,5,Xunzi,Xun Kuang,3rd c. BCE,thesis,Dubs 1928 (19 of 32 books),1988,False,no usable full text yet,
+before 1500,East Asia,thesis,6,Platform Sutra,attributed to Huineng,8th-9th c.,thesis,Wong Mou-lam 1930 / Yampolsky 1967,1930,True,selected,main
+before 1500,East Asia,thesis,7,Classic of Filial Piety (Xiaojing),attributed to Confucius/Zengzi,3rd-2nd c. BCE,thesis,Legge 1879,1879,True,selected,pilot
+before 1500,East Asia,thesis,8,Han Feizi,Han Fei,c. 233 BCE,thesis,Giles 1922 (2 anecdotes),1939,False,no usable full text yet,
+before 1500,East Asia,thesis,9,Family Instructions for the Yan Clan,Yan Zhitui,c. 590s,thesis,Teng 1968,1968,False,kept in before 1500 / East Asia / collection,
+before 1500,East Asia,thesis,10,Hojoki,Kamo no Chomei,1212,thesis,Sadler 1928,1928,True,"available, beyond first 6",
+before 1500,South Asia,collection,1,Dhammapada,attributed to the Buddha,c. 3rd c. BCE,collection,Muller 1881,1881,True,selected,main
+before 1500,South Asia,collection,2,Tirukkural,Thiruvalluvar,1st-5th c.,collection,Pope 1886,1886,True,selected,main
+before 1500,South Asia,collection,3,Principal Upanishads,anonymous,c. 800-200 BCE,collection,Muller 1879/1884,1879,True,selected,main
+before 1500,South Asia,collection,4,Satakatraya,Bhartrihari,5th-7th c.,collection,Madhavananda 1922 / Peterson 1884,1884,True,selected,pilot
+before 1500,South Asia,collection,5,Yoga Sutras,Patanjali,2nd c. BCE-4th c. CE,collection,Rama Prasada 1912,1912,True,kept in before 1500 / South Asia / thesis,
+before 1500,South Asia,collection,6,Sutta Nipata,attributed to the Buddha,c. 3rd c. BCE,collection,Fausboll 1881,1881,True,selected,pilot
+before 1500,South Asia,collection,7,Manusmriti,attributed to Manu,2nd c. BCE-3rd c. CE,mixed,Buhler 1886,1886,True,format mismatch,
+before 1500,South Asia,collection,8,Panchatantra,attributed to Vishnu Sharma,c. 3rd c.,mixed,Ryder 1925,1925,True,format mismatch,
+before 1500,South Asia,collection,9,Hitopadesha,Narayana Pandit,12th c.,mixed,Arnold 1861,1861,True,format mismatch,
+before 1500,South Asia,collection,10,Bijak (sayings of Kabir),Kabir,15th c.,collection,Tagore 1915 (100 poems),1915,False,kept in 1500 to 1945 / South Asia / collection,
+1500 to 1945,Western (Europe and the Americas),collection,1,Pensees,Blaise Pascal,1670,collection,Trotter 1909,1909,True,selected,main
+1500 to 1945,Western (Europe and the Americas),collection,2,Essays,Michel de Montaigne,1580-1595,collection,Florio 1603 / Cotton 1685,1603,True,selected,main
+1500 to 1945,Western (Europe and the Americas),collection,3,Maxims,La Rochefoucauld,1665,collection,Bund and Friswell 1871,1871,True,selected,main
+1500 to 1945,Western (Europe and the Americas),collection,4,The Art of Worldly Wisdom,Baltasar Gracian,1647,collection,Jacobs 1892,1892,True,selected,pilot
+1500 to 1945,Western (Europe and the Americas),collection,5,Les Caracteres,Jean de La Bruyere,1688,collection,Van Laun 1885,1885,True,selected,main
+1500 to 1945,Western (Europe and the Americas),collection,6,Poor Richard's Almanack,Benjamin Franklin,1732-1758,collection,original English,1732,True,selected,pilot
+1500 to 1945,Western (Europe and the Americas),collection,7,Aphorisms on the Wisdom of Life,Arthur Schopenhauer,1851,collection,Saunders 1890,1890,True,"available, beyond first 6",
+1500 to 1945,Western (Europe and the Americas),collection,8,Self-Reliance (Essays First Series),Ralph Waldo Emerson,1841,collection,original English,1841,True,kept in 1500 to 1945 / Western (Europe and the Americas) / thesis,
+1500 to 1945,Western (Europe and the Americas),collection,9,Letters to His Son,Lord Chesterfield,1774,collection,original English,1774,True,"available, beyond first 6",
+1500 to 1945,Western (Europe and the Americas),collection,10,Maxims and Reflections,Goethe,1833,collection,Saunders 1893,1893,True,"available, beyond first 6",
+1500 to 1945,Western (Europe and the Americas),thesis,1,How to Win Friends and Influence People,Dale Carnegie,1936,thesis,original English,1936,False,no usable full text yet,
+1500 to 1945,Western (Europe and the Americas),thesis,2,Walden,Henry David Thoreau,1854,thesis,original English,1854,True,selected,pilot
+1500 to 1945,Western (Europe and the Americas),thesis,3,Spiritual Exercises,Ignatius of Loyola,1548,thesis,Mullan 1914,1914,True,selected,main
+1500 to 1945,Western (Europe and the Americas),thesis,4,Self-Help,Samuel Smiles,1859,thesis,original English,1859,True,selected,main
+1500 to 1945,Western (Europe and the Americas),thesis,5,Think and Grow Rich,Napoleon Hill,1937,thesis,original English 1937,1937,True,selected,pilot
+1500 to 1945,Western (Europe and the Americas),thesis,6,Introduction to the Devout Life,Francis de Sales,1609,thesis,Ross 1925,1925,True,selected,main
+1500 to 1945,Western (Europe and the Americas),thesis,7,Self-Reliance (Essays First Series),Ralph Waldo Emerson,1841,thesis,original English,1841,True,selected,main
+1500 to 1945,Western (Europe and the Americas),thesis,8,The Conquest of Happiness,Bertrand Russell,1930,thesis,original English,1930,True,"available, beyond first 6",
+1500 to 1945,Western (Europe and the Americas),thesis,9,Ethics,Baruch Spinoza,1677,thesis,Elwes 1883,1883,True,"available, beyond first 6",
+1500 to 1945,Western (Europe and the Americas),thesis,10,As a Man Thinketh,James Allen,1903,thesis,original English,1903,True,"available, beyond first 6",
+1500 to 1945,East Asia,collection,1,Instructions for Practical Living (Chuanxilu),Wang Yangming,1518-1572,collection,Henke 1916 / Chan 1963,1916,True,selected,pilot
+1500 to 1945,East Asia,collection,2,Zengguang Xianwen,anonymous,c. 1590s,collection,Scarborough 1875,,False,no usable full text yet,
+1500 to 1945,East Asia,collection,3,Hagakure,Yamamoto Tsunetomo,1709-1716,collection,Wilson 1979,1979,False,no usable full text yet,
+1500 to 1945,East Asia,collection,4,Caigentan,Hong Yingming,c. 1590-1610,collection,Isobe 1926,2006,True,selected,main
+1500 to 1945,East Asia,collection,5,Onna Daigaku,attributed to Kaibara Ekken,c. 1716-1729,collection,Chamberlain 1905,1905,True,selected,main
+1500 to 1945,East Asia,collection,6,Family Letters of Zeng Guofan,Zeng Guofan,1840s-1872,collection,Giles 1922 (1 letter),,False,no usable full text yet,
+1500 to 1945,East Asia,collection,7,Yojokun,Kaibara Ekken,1713,mixed,Hoshino 1913 (extracts),1974,False,format mismatch,
+1500 to 1945,East Asia,collection,8,Liaofan's Four Lessons,Yuan Huang,c. 1600,thesis,free-distribution translations 1990s,,False,format mismatch,
+1500 to 1945,East Asia,collection,9,Gyeokmong Yogyeol,Yi I,1577,mixed,partial 2011,2011,False,format mismatch,
+1500 to 1945,East Asia,collection,10,The Book of Five Rings,Miyamoto Musashi,c. 1645,mixed,Harris 1974,1974,False,format mismatch,
+1500 to 1945,East Asia,thesis,1,Instructions for Practical Living (Chuanxilu),Wang Yangming,1518-1572,thesis,Henke 1916 / Chan 1963,1916,True,kept in 1500 to 1945 / East Asia / collection,
+1500 to 1945,East Asia,thesis,2,The Book of Five Rings,Miyamoto Musashi,c. 1645,thesis,Harris 1974,1974,False,no usable full text yet,
+1500 to 1945,East Asia,thesis,3,Bushido: The Soul of Japan,Nitobe Inazo,1900,thesis,original English,1900,True,selected,main
+1500 to 1945,East Asia,thesis,4,An Encouragement of Learning,Fukuzawa Yukichi,1872-1876,thesis,Dilworth and Hirano 1969,1969,False,no usable full text yet,
+1500 to 1945,East Asia,thesis,5,The Book of Tea,Okakura Kakuzo,1906,thesis,original English,1906,True,selected,pilot
+1500 to 1945,East Asia,thesis,6,Liaofan's Four Lessons,Yuan Huang,c. 1600,thesis,free-distribution translations 1990s,,False,no usable full text yet,
+1500 to 1945,East Asia,thesis,7,Ten Diagrams on Sage Learning,Yi Hwang,1568,thesis,Kalton 1988,1988,False,no usable full text yet,
+1500 to 1945,East Asia,thesis,8,Yojokun,Kaibara Ekken,1713,thesis,Hoshino 1913 (extracts),,False,no usable full text yet,
+1500 to 1945,East Asia,thesis,9,The Unfettered Mind,Takuan Soho,early 17th c.,thesis,Wilson 1986,1986,False,no usable full text yet,
+1500 to 1945,East Asia,thesis,10,Dialogues of Town and Country (Tohi Mondo),Ishida Baigan,1739,thesis,none,,False,no usable full text yet,
+1500 to 1945,South Asia,collection,1,Guru Granth Sahib,Sikh Gurus and Bhagats,1604-1706,collection,Macauliffe 1909,1909,False,no usable full text yet,
+1500 to 1945,South Asia,collection,2,Ramcharitmanas,Tulsidas,1574-1577,mixed,Growse 1877,1877,True,format mismatch,
+1500 to 1945,South Asia,collection,3,The Gospel of Sri Ramakrishna,Mahendranath Gupta,1902-1932,collection,Gupta 1907 (small part),1942,False,no usable full text yet,
+1500 to 1945,South Asia,collection,4,Bijak (sayings of Kabir),Kabir,c. 1500s-1600s,collection,Tagore 1915 (100 poems),1915,False,no usable full text yet,
+1500 to 1945,South Asia,collection,5,Gitanjali,Rabindranath Tagore,1910-1912,collection,Tagore 1912,1912,True,selected,main
+1500 to 1945,South Asia,collection,6,Tukaram Gatha,Tukaram,17th c.,collection,Fraser and Marathe 1909-1915,1909,True,selected,main
+1500 to 1945,South Asia,collection,7,Collected Works of Mahatma Gandhi,M. K. Gandhi,1903-1948,collection,CWMG 1958-1994,1958,False,no usable full text yet,
+1500 to 1945,South Asia,collection,8,Satsai,Bihari Lal,c. 1650s,collection,partial,,False,no usable full text yet,
+1500 to 1945,South Asia,collection,9,Verses of Vemana,Vemana,17th-18th c.,collection,Brown 1829,1829,True,selected,pilot
+1500 to 1945,South Asia,collection,10,Dasbodh,Samarth Ramdas,c. 1654-1681,mixed,Dev 1960s,,False,format mismatch,
+1500 to 1945,South Asia,thesis,1,Ramcharitmanas,Tulsidas,1574-1577,thesis,Growse 1877,1877,True,selected,pilot
+1500 to 1945,South Asia,thesis,2,The Story of My Experiments with Truth,M. K. Gandhi,1927-1929,thesis,Desai 1927-1929,1927,True,selected,main
+1500 to 1945,South Asia,thesis,3,Raja Yoga,Swami Vivekananda,1896,thesis,original English,1896,True,selected,main
+1500 to 1945,South Asia,thesis,4,Hind Swaraj,M. K. Gandhi,1909,thesis,Gandhi 1910,1910,True,selected,pilot
+1500 to 1945,South Asia,thesis,5,Gita Rahasya,Bal Gangadhar Tilak,1915,thesis,Sukthankar 1935,1935,False,no usable full text yet,
+1500 to 1945,South Asia,thesis,6,Sadhana: The Realisation of Life,Rabindranath Tagore,1913,thesis,original English,1913,True,selected,main
+1500 to 1945,South Asia,thesis,7,Satyarth Prakash,Dayananda Saraswati,1875,thesis,Bharadwaja 1908,1908,True,selected,main
+1500 to 1945,South Asia,thesis,8,Essays on the Gita,Sri Aurobindo,1916-1920,thesis,original English,1916,True,"available, beyond first 6",
+1500 to 1945,South Asia,thesis,9,The Secrets of the Self (Asrar-i-Khudi),Muhammad Iqbal,1915,thesis,Nicholson 1920,1920,True,"available, beyond first 6",
+1500 to 1945,South Asia,thesis,10,Dasbodh,Samarth Ramdas,c. 1654-1681,thesis,unverified,,False,no usable full text yet,
+after 1945,East Asia,collection,1,Quotations from Chairman Mao,Mao Zedong,1964,collection,Foreign Languages Press 1966,1966,False,no usable full text yet,
+after 1945,East Asia,collection,2,"Zen Mind, Beginner's Mind",Shunryu Suzuki,1970,collection,original English,1970,False,no usable full text yet,
+after 1945,East Asia,collection,3,Confucius from the Heart,Yu Dan,2006,collection,Tyldesley 2009,2009,False,no usable full text yet,
+after 1945,East Asia,collection,4,The Things You Can See Only When You Slow Down,Haemin Sunim,2012,collection,Kim 2017,2017,False,no usable full text yet,
+after 1945,East Asia,collection,5,Jing Si Aphorisms,Cheng Yen,1980s-,collection,Jing Si Publications,,False,no usable full text yet,
+after 1945,East Asia,thesis,1,The Life-Changing Magic of Tidying Up,Marie Kondo,2010,thesis,Hirano 2014,2014,False,no usable full text yet,
+after 1945,East Asia,thesis,2,The Courage to Be Disliked,Kishimi and Koga,2013,thesis,English ed. 2018,2018,False,no usable full text yet,
+after 1945,East Asia,thesis,3,"Zen Mind, Beginner's Mind",Shunryu Suzuki,1970,thesis,original English,1970,False,kept in after 1945 / East Asia / collection,
+after 1945,East Asia,thesis,4,The Things You Can See Only When You Slow Down,Haemin Sunim,2012,thesis,Kim 2017,2017,False,kept in after 1945 / East Asia / collection,
+after 1945,South Asia,collection,1,I Am That,Nisargadatta Maharaj,1973,collection,Frydman 1973,1973,False,no usable full text yet,
+after 1945,South Asia,collection,2,Commentaries on Living,Jiddu Krishnamurti,1956-1960,collection,original English,1956,False,no usable full text yet,
+after 1945,South Asia,collection,3,Talks with Sri Ramana Maharshi,Ramana Maharshi,1955,collection,original English record,1955,False,no usable full text yet,
+after 1945,South Asia,thesis,1,Autobiography of a Yogi,Paramahansa Yogananda,1946,thesis,original English 1946,1946,True,selected,pilot
+after 1945,South Asia,thesis,2,Bhagavad-Gita As It Is,A. C. Bhaktivedanta Swami Prabhupada,1968-1972,thesis,original English,1968,True,selected,main
+after 1945,South Asia,thesis,3,Light on Yoga,B. K. S. Iyengar,1966,thesis,original English,1966,False,no usable full text yet,
+after 1945,South Asia,thesis,4,Freedom from the Known,Jiddu Krishnamurti,1969,thesis,original English,1969,False,no usable full text yet,
+after 1945,South Asia,thesis,5,The Buddha and His Dhamma,B. R. Ambedkar,1957,thesis,original English 1957,1957,True,selected,pilot
+after 1945,South Asia,thesis,6,The Seven Spiritual Laws of Success,Deepak Chopra,1994,thesis,original English,1994,False,no usable full text yet,
+after 1945,South Asia,thesis,7,Inner Engineering,Sadhguru,2016,thesis,original English,2016,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,11,Life's Little Instruction Book,H. Jackson Brown Jr.,"1991, United States",collection,original English,1991,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,12,All I Really Need to Know I Learned in Kindergarten,Robert Fulghum,"1988, United States",collection,original English,1988,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,13,How to Stop Worrying and Start Living,Dale Carnegie,"1948, United States",collection,original English,1948,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,14,Twenty-Four Hours a Day,Richmond Walker,"1948, United States (self-published by Walker; year not verified in this session; Hazelden edition 1954)",collection,original English,1948,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,15,Letters and Papers from Prison (Widerstand und Ergebung),Dietrich Bonhoeffer (ed. Eberhard Bethge),"1951, West Germany",collection,original English,1951,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,16,"The Boy, the Mole, the Fox and the Horse",Charlie Mackesy,"2019, United Kingdom",collection,original English,2019,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,17,The 48 Laws of Power,Robert Greene,"1998, United States",collection,original English,1998,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,18,Gravity and Grace (La Pesanteur et la Grace),Simone Weil (selected and arranged by Gustave Thibon),"1947, France",collection,original English,1947,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,19,Notes to Myself: My Struggle to Become a Person,Hugh Prather,"1970, United States",collection,original English,1970,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,20,The Book of Virtues: A Treasury of Great Moral Stories,William J. Bennett (editor),"1993, United States",collection,original English,1993,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,21,Minima Moralia: Reflections from Damaged Life,Theodor W. Adorno,"1951, West Germany",collection,original English,1951,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,22,The Language of Letting Go: Daily Meditations on Codependency,Melody Beattie,"1990, United States",collection,original English,1990,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,23,"Wear Sunscreen (newspaper column 'Advice, like youth, probably just wasted on the young')",Mary Schmich,"1997, United States",collection,original English,1997,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,24,Each Day a New Beginning: Daily Meditations for Women,Karen Casey,"1982, United States",collection,original English,1982,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,25,Prayers of Life (Prieres),Michel Quoist,"1954, France",collection,original English,1954,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,26,"Menslief, ik hou van je (German: Vergiss die Freude nicht)",Phil Bosmans,"1972, Belgium",collection,original English,1972,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,27,Manual of the Warrior of Light (Manual do Guerreiro da Luz),Paulo Coelho,"1997, Brazil (year not verified in this session)",collection,original English,1997,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,28,The Book of Awakening,Mark Nepo,"2000, United States",collection,original English,2000,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,29,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,William H. McRaven,"2017, United States",collection,original English,2017,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),collection,30,Let Me Tell You (Dejame que te cuente),Jorge Bucay,"2002 (per Penguin Random House; Spanish Wikipedia gives 2005; country of first edition not verified, author is Argentine)",collection,original English,2002,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,11,The Purpose Driven Life,Rick Warren,"2002, United States",thesis,original English,2002,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,12,Rich Dad Poor Dad,Robert T. Kiyosaki (with Sharon Lechter),"1997, United States",thesis,original English,1997,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,13,Who Moved My Cheese?,Spencer Johnson,"1998, United States",thesis,original English,1998,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,14,The Four Agreements,Don Miguel Ruiz,"1997, United States",thesis,original English,1997,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,15,The Road Less Traveled,M. Scott Peck,"1978, United States",thesis,original English,1978,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,16,The 5 Love Languages,Gary Chapman,"1992, United States",thesis,original English,1992,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,17,You Can Heal Your Life,Louise Hay,"1984, United States",thesis,original English,1984,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,18,Your Erroneous Zones,Wayne W. Dyer,"1976, United States",thesis,original English,1976,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,19,"Men Are from Mars, Women Are from Venus",John Gray,"1992, United States",thesis,original English,1992,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,20,A New Earth,Eckhart Tolle,"2005, United States",thesis,original English,2005,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,21,The Subtle Art of Not Giving a F*ck,Mark Manson,"2016, United States",thesis,original English,2016,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,22,Mere Christianity,C. S. Lewis,"1952, United Kingdom",thesis,original English,1952,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,23,12 Rules for Life: An Antidote to Chaos,Jordan B. Peterson,"2018, Canada",thesis,original English,2018,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,24,The One Minute Manager,Kenneth Blanchard and Spencer Johnson,"1982, United States",thesis,original English,1982,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,25,"I'm OK, You're OK",Thomas A. Harris,"1967, United States",thesis,original English,1967,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,26,What Color Is Your Parachute?,Richard N. Bolles,"1970, United States",thesis,original English,1970,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,27,How to Stop Worrying and Start Living,Dale Carnegie,"1948, United States",thesis,original English,1948,False,kept in after 1945 / Western (Europe and the Americas) / collection,
+after 1945,Western (Europe and the Americas),thesis,28,Mindset: The New Psychology of Success,Carol S. Dweck,"2006, United States",thesis,original English,2006,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,29,Flow: The Psychology of Optimal Experience,Mihaly Csikszentmihalyi,"1990, United States",thesis,original English,1990,False,no usable full text yet,
+after 1945,Western (Europe and the Americas),thesis,30,Feeling Good: The New Mood Therapy,David D. Burns,"1980, United States",thesis,original English,1980,False,no usable full text yet,
+after 1945,East Asia,collection,11,Lei Feng's Diary (Lei Feng riji),Lei Feng (edited posthumously by Party and PLA propaganda organs),"1963, China (excerpts circulated 1959 to 1960)",collection,"No complete English translation verified. Partial: 'Excerpts From Lei Feng's Diary', translated by Leif Rogers and Sun Ning (work begun 2007), held at the Lei Feng Museum, Fushun; publication status unverified.",2007,False,no usable full text yet,
+after 1945,East Asia,collection,12,The Path (Michi wo hiraku),Konosuke Matsushita,"1968, Japan",collection,"'The Path: Find Fulfillment Through Prosperity from Japan's Father of Management', McGraw-Hill, 2010 (translator not credited); earlier PHP Institute English edition 'Open the Way: To Chart Your Destiny', 2009",2009,False,no usable full text yet,
+after 1945,East Asia,collection,13,Fu Lei's Family Letters (Fu Lei jiashu),Fu Lei (compiled by Fu Min),"1981, China",collection,No complete published English translation found (unverified).,,False,no usable full text yet,
+after 1945,East Asia,collection,14,Zhuangzi Speaks: The Music of Nature (Zhuangzi shuo),Tsai Chih-chung (Cai Zhizhong),"1986, Taiwan",collection,"Brian Bruya, Princeton University Press, 1992",1992,False,no usable full text yet,
+after 1945,East Asia,collection,15,Love for Imperfect Things,Haemin Sunim,"2016, South Korea (Korean edition year not verified in sources consulted)",collection,"Deborah Smith with Haemin Sunim, 2018 (Penguin Books)",2018,False,no usable full text yet,
+after 1945,East Asia,collection,16,Non-possession (Musoyu),Beopjeong,"1976, South Korea",collection,"No complete English translation verified. Selections: 'Pure and Fragrant: The Prose Anthology of Korean Buddhist Master Beopjeong', tr. Matty Wegehaupt, Jogye Order publication committee, 2021 (draws on Musoyu among 10 books; not confirmed via publisher listing); 'Meditations of a Zen Master', tr. D. Bannon, Lulu, 2012 (source books not stated).",2012,False,no usable full text yet,
+after 1945,East Asia,collection,17,Bloom Where You Are Planted (Okareta basho de sakinasai),Kazuko Watanabe,"2012, Japan",collection,No published English translation found.,,False,no usable full text yet,
+after 1945,East Asia,collection,18,I Decided to Live as Me (Naneun naro salgiro haetda),Kim Soo-hyun (Kim Suhyun),"2016, South Korea",collection,"Anton Hur, Penguin (Ebury / Penguin Life), 2024 (English release reported December 4, 2024; exact date not verified)",2024,False,no usable full text yet,
+after 1945,East Asia,collection,19,"Zen: The Art of Simple Living (Zen, shinpuru seikatsu no susume)",Shunmyo Masuno,"Japan, Mikasa Shobo (year not verified; c. 2009)",collection,"Allison Markin Powell, 2019 (Penguin Books US as 'The Art of Simple Living'; Michael Joseph / Penguin UK as 'Zen: The Art of Simple Living')",2019,False,no usable full text yet,
+after 1945,East Asia,collection,20,"Bodhi series (Puti xilie), beginning with Violet Bodhi (Zise puti)",Lin Qingxuan (Lin Ching-hsuan),"1986, Taiwan",collection,No published English translation found.,,False,no usable full text yet,
+after 1945,East Asia,collection,21,Don't Lose Heart (Kujikenaide),Toyo Shibata,"2009, Japan",collection,No published English translation found.,,False,no usable full text yet,
+after 1945,East Asia,collection,22,Ikikata jozu (How to Live Well),Shigeaki Hinohara,"2001, Japan",collection,"No English translation verified (rendered in English press as 'Living Long, Living Good').",,False,no usable full text yet,
+after 1945,East Asia,collection,23,"Youth, It's Painful (Apeunikka cheongchunida)",Kim Nan-do (Rando Kim),"2010, South Korea",collection,No published English translation found; agency reports a complete English manuscript.,,False,no usable full text yet,
+after 1945,East Asia,collection,24,Because I'm Human (Ningen da mono),Mitsuo Aida,"1984, Japan",collection,"No full English translation verified; selections in 'Talking to....: The Art, Ideas and Poetry of Mitsuo Aida', tr. Tim Jensen, Mitsuo Aida Museum, 2000.",2000,False,no usable full text yet,
+after 1945,East Asia,collection,25,The Art of Peace,Morihei Ueshiba (compiled and translated by John Stevens),"1992, USA",collection,"John Stevens, Shambhala, 1992",1992,False,no usable full text yet,
+after 1945,East Asia,collection,26,"Humble Table, Wise Fare (Foguang caigentan)",Hsing Yun,"1998, Taiwan (vols. 2 to 4 in 2000 and 2004)",collection,"Tom Manzo and Shujan Cheng, 1999 ('Hospitality for the Heart') and 2000 ('Gifts for Life'); Pey-Rong Lee, 2007 ('Living the Dharma', Buddha's Light Publishing)",1999,False,no usable full text yet,
+after 1945,East Asia,collection,27,Little Words by the Firefly Window (Yingchuang xiaoyu),Liu Yong (Liu Yung),"1973, Taiwan",collection,No published English translation found.,,False,no usable full text yet,
+after 1945,East Asia,collection,28,Not Always So: Practicing the True Spirit of Zen,Shunryu Suzuki (edited by Edward Espe Brown),"2002, USA",collection,Not applicable (English original),,False,no usable full text yet,
+after 1945,East Asia,collection,29,Striking Thoughts: Bruce Lee's Wisdom for Daily Living,Bruce Lee (edited by John Little),"2000, USA (first edition year unverified; library record confirms a 2002 Tuttle edition)",collection,Not applicable (English original),,False,no usable full text yet,
+after 1945,East Asia,collection,30,The Zen Teaching of Homeless Kodo (Yadonashi Hokkusan),"Kodo Sawaki, with commentary by Kosho Uchiyama","1966, Japan (newspaper columns January 1966 to February 1967, collected in 2 books in 1966 and 1967)",collection,"Shohaku Okumura (with added commentary), ed. Molly Delight Whitehead, Wisdom Publications, 2014; earlier partial translation by Soto Zen Headquarters, Tokyo (out of print)",2014,False,no usable full text yet,
+after 1945,East Asia,thesis,11,Zhuan Falun,Li Hongzhi,"1995, China (Britannica gives 1994)",thesis,"Zhuan Falun, translated by US and UK practitioners (2018); earlier practitioner translations 1998, 2000, 2003, and 2014",1998,True,selected,main
+after 1945,East Asia,thesis,12,A Compass to Fulfillment (Ikikata),Kazuo Inamori,"2004, Japan",thesis,"A Compass to Fulfillment: Passion and Spirituality in Life and Business (McGraw-Hill, 2010; no translator credited). Publisher and year from memory, unverified",2010,False,no usable full text yet,
+after 1945,East Asia,thesis,13,Confucius from the Heart (Yu Dan Lunyu xinde),Yu Dan,"2006, China",thesis,"Confucius from the Heart: Ancient Wisdom for Today's World, trans. Esther Tyldesley (2009)",2009,False,no usable full text yet,
+after 1945,East Asia,thesis,14,The One-Straw Revolution (Shizen noho: wara ippon no kakumei),Masanobu Fukuoka,"1975, Japan",thesis,"The One-Straw Revolution, trans. Chris Pearce, Tsune Kurosawa, and Larry Korn (Rodale, 1978); NYRB Classics reissue 2009 (reissue unverified)",1978,False,no usable full text yet,
+after 1945,East Asia,thesis,15,Baka no Kabe (The Wall of Fools),Takeshi Yoro,"2003, Japan",thesis,No English translation found,,False,no usable full text yet,
+after 1945,East Asia,thesis,16,The Courage to Be Happy (Shiawase ni naru yuki),Ichiro Kishimi and Fumitake Koga,"2016, Japan",thesis,"The Courage to Be Happy (Allen and Unwin, 2019; translator not named)",2019,False,no usable full text yet,
+after 1945,East Asia,thesis,17,Hatarakikata (How to Work),Kazuo Inamori,"2009, Japan",thesis,No published English translation verified; Kyocera renders the title as 'The True Meaning of Work',,False,no usable full text yet,
+after 1945,East Asia,thesis,18,Spark Joy (Jinsei ga tokimeku katazuke no maho 2),Marie Kondo,"2012, Japan (year unverified)",thesis,"Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up, trans. Cathy Hirano (Ten Speed Press, 2016). Translator from memory, unverified",2016,False,no usable full text yet,
+after 1945,East Asia,thesis,19,Kokoro (Heart),Kazuo Inamori,"2019, Japan",thesis,No published English translation verified; Kyocera renders the title as 'Heart',,False,no usable full text yet,
+after 1945,East Asia,thesis,20,The Normal Christian Life,Watchman Nee (Ni Tuosheng),"1957, India (book; some chapters printed in a magazine from 1940)",thesis,Original in English,,False,no usable full text yet,
+after 1945,East Asia,thesis,21,Inamori Kazuo no tetsugaku (Kazuo Inamori's Philosophy),Kazuo Inamori,"2001, Japan",thesis,No published English translation verified,,False,no usable full text yet,
+after 1945,East Asia,thesis,22,The Laws of the Sun (Taiyo no ho),Ryuho Okawa,"1986, Japan (the organization also cites 1987)",thesis,"The Laws of the Sun (IRH Press, 2018; no translator credited); earlier English editions not verified",2018,False,no usable full text yet,
+after 1945,East Asia,thesis,23,Exposition of the Divine Principle (Wolli Kangron),Sun Myung Moon (teachings); written by Hyo Won Eu,"1966, South Korea",thesis,"Divine Principle (1973, revising Won Pok Choi's 1972 translation); Exposition of the Divine Principle (HSA-UWC, 1996, current authorized translation)",1972,False,no usable full text yet,
+after 1945,East Asia,thesis,24,I Want to Die but I Want to Eat Tteokbokki,Baek Se-hee,"2018, South Korea",mixed,"Trans. Anton Hur (Bloomsbury, 2022)",2022,False,format mismatch,
+after 1945,East Asia,thesis,25,I Decided to Live as Me (Naneun naro salgiro haetda),Kim Suhyun,"2016, South Korea (year unverified)",mixed,"Trans. Anton Hur (Penguin, 2024 or 2025; year unverified)",2024,False,format mismatch,
+after 1945,East Asia,thesis,26,"Goodbye, Things (Bokutachi ni, mo mono wa hitsuyo nai)",Fumio Sasaki,"2015, Japan",thesis,"Goodbye, Things: The New Japanese Minimalism, trans. Eriko Sugita (W. W. Norton, 2017; publisher from memory)",2017,False,no usable full text yet,
+after 1945,East Asia,thesis,27,Love for Imperfect Things,Haemin Sunim,"2016, South Korea (year unverified)",mixed,"Trans. Deborah Smith with Haemin Sunim (Penguin, 2018)",2018,False,format mismatch,
+after 1945,East Asia,thesis,28,Danshari (Shin katazukejutsu danshari),Hideko Yamashita,"2009, Japan",thesis,No English translation of this book verified,,False,no usable full text yet,
+after 1945,East Asia,thesis,29,Shinrin-Yoku: The Art and Science of Forest Bathing (US title: Forest Bathing),Qing Li,"2018, United Kingdom and United States",thesis,Original in English (Penguin Life UK; Viking US),,False,no usable full text yet,
+after 1945,East Asia,thesis,30,Awakening Your Ikigai (UK title: The Little Book of Ikigai),Ken Mogi,"2017, United Kingdom",thesis,"Original in English (Quercus UK, 2017; US edition 2018, publisher unverified)",2017,False,no usable full text yet,
+after 1945,South Asia,collection,11,The First and Last Freedom,Jiddu Krishnamurti,"1954, United States and United Kingdom (Harper and Brothers; Gollancz)",collection,"Original in English (edited from talks given from 1947 to 1952 by D. Rajagopal, who was not credited)",1947,False,no usable full text yet,
+after 1945,South Asia,collection,12,Think on These Things,Jiddu Krishnamurti,"1964, United States (Harper and Row; place not verified)",collection,"Original in English (talks to students, teachers, and parents in India)",,False,no usable full text yet,
+after 1945,South Asia,collection,13,The Science of Self-Realization,A. C. Bhaktivedanta Swami Prabhupada,"1977, United States (Bhaktivedanta Book Trust; place not verified)",collection,"Original in English (interviews, lectures, essays, and letters, mostly first printed in Back to Godhead magazine)",,True,selected,main
+after 1945,South Asia,collection,14,All Men Are Brothers: Life and Thoughts of Mahatma Gandhi as Told in His Own Words,Mohandas K. Gandhi (compiled and edited by Krishna Kripalani),"1958, France and United States (UNESCO, Paris; Columbia University Press, New York)",collection,"English compilation by Krishna Kripalani, 1958; Navajivan Indian edition from 1960 with an introduction by S. Radhakrishnan",1958,False,no usable full text yet,
+after 1945,South Asia,collection,15,The Book of Secrets (The Book of the Secrets),Osho (Bhagwan Shree Rajneesh),"1974, India (place not verified)",collection,"Original in English (not verified); complete one-volume edition by St. Martin's Griffin, 1998",1998,False,no usable full text yet,
+after 1945,South Asia,collection,16,A Simple Path,Mother Teresa (compiled by Lucinda Vardey),"1995, United States and United Kingdom (Ballantine Books; Rider)",collection,Original in English,,False,no usable full text yet,
+after 1945,South Asia,collection,17,Be As You Are: The Teachings of Sri Ramana Maharshi,Ramana Maharshi (edited by David Godman),"1985, United Kingdom (Penguin/Arkana; place not verified)",collection,"English, edited by David Godman, 1985",1985,False,no usable full text yet,
+after 1945,South Asia,collection,18,Sathya Sai Speaks (43 volumes),Sathya Sai Baba,"1950s onward, India (Volume 1 covers 1953 to 1960; the current Sadhana Trust edition of Volume 1 is dated 1990; original first edition year not verified)",collection,N. Kasturi (original translator and compiler); Sri Sathya Sai Sadhana Trust edition,,True,selected,main
+after 1945,South Asia,collection,19,Wise and Otherwise: A Salute to Life,Sudha Murty,"2002, India",collection,Original in English,,False,no usable full text yet,
+after 1945,South Asia,collection,20,Zaviya (Zavia),Ashfaq Ahmed,"1998 or earlier, Pakistan (Sang-e-Meel, Lahore; earliest edition catalogued on Goodreads; later volumes 2 and 3 exist)",collection,No widely available English translation verified,,False,no usable full text yet,
+after 1945,South Asia,collection,21,The Book of Life: Daily Meditations with Krishnamurti,Jiddu Krishnamurti,"1995, United States (HarperSanFrancisco/HarperCollins)",collection,Original in English (compiled excerpts; editor not verified),,False,no usable full text yet,
+after 1945,South Asia,collection,22,Kiran Kiran Sooraj,Wasif Ali Wasif,"1983, Pakistan",collection,"The Beaming Soul, 2008 (translator not verified)",2008,False,no usable full text yet,
+after 1945,South Asia,collection,23,"Man's Eternal Quest (Collected Talks and Essays, Volume 1)",Paramahansa Yogananda,"1975, United States (Self-Realization Fellowship, Los Angeles; year not verified)",collection,Original in English,,False,no usable full text yet,
+after 1945,South Asia,collection,24,Letters on Yoga,Sri Aurobindo,"1970, India (first edition under this title, 3 volumes of the Birth Centenary Library); letters written 1927 to 1950, with parts in earlier collections from 1933 to 1951",collection,"Original in English; current edition is Complete Works of Sri Aurobindo, vols. 28 to 31 (Sri Aurobindo Ashram, 2012 to 2014)",2012,True,selected,main
+after 1945,South Asia,collection,25,Day by Day with Bhagavan,A. Devaraja Mudaliar (recording Ramana Maharshi),"1968, India (Sri Ramanasramam; year not verified); diary covers March 16, 1945 to January 4, 1947",collection,Original in English (not verified),,False,no usable full text yet,
+after 1945,South Asia,collection,26,Letters from Sri Ramanasramam,Suri Nagamma,"1950s, India (Telugu letters; English Volume 1 about 1970; years not verified)",collection,D. S. Sastri (English; combined 744-page edition with 272 letters),,False,no usable full text yet,
+after 1945,South Asia,collection,27,Bliss Divine: A Book of Spiritual Essays,Swami Sivananda (compiled by Sri Ananthanarayanan),"about 1964 to 1965, India (Divine Life Society; front matter dated October 5, 1965; exact first-edition year not verified)",collection,Original in English,,False,no usable full text yet,
+after 1945,South Asia,collection,28,Seeds of Consciousness,Nisargadatta Maharaj (edited by Jean Dunn),"1982, United States (Grove Press)",collection,"English, edited by Jean Dunn, 1982",1982,False,no usable full text yet,
+after 1945,South Asia,collection,29,The Mystique of Enlightenment,U. G. Krishnamurti (edited by Rodney Arms; editor not verified),1982 (place not verified),collection,Original in English (conversations),,False,no usable full text yet,
+after 1945,South Asia,collection,30,The Everything and the Nothing,Meher Baba,"1963, Australia (Meher House Publications, Beacon Hill, New South Wales)",collection,Original in English,,True,selected,pilot
+after 1945,South Asia,thesis,11,What the Buddha Taught,Walpola Rahula,"1959, United Kingdom",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,12,The First and Last Freedom,Jiddu Krishnamurti,"1954, United Kingdom and United States (Gollancz; Harper & Brothers)",thesis,Original in English,,False,kept in after 1945 / South Asia / collection,
+after 1945,South Asia,thesis,13,You Can Win,Shiv Khera,"1998, India",thesis,Original in English (also issued in Hindi as Jeet Aapki),,False,no usable full text yet,
+after 1945,South Asia,thesis,14,Wings of Fire: An Autobiography,A. P. J. Abdul Kalam with Arun Tiwari,"1999, India (Universities Press)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,15,The Science of Being and Art of Living,Maharishi Mahesh Yogi,"1963, India (earliest listed edition: Allied Publishers)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,16,"Ageless Body, Timeless Mind: The Quantum Alternative to Growing Old",Deepak Chopra,"1993, United States (Harmony Books)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,17,Mindfulness in Plain English,Bhante Henepola Gunaratana,"1991, United States (Wisdom Publications; sources give dates from 1990 to 1992)",thesis,Original in English,,True,selected,main
+after 1945,South Asia,thesis,18,The Complete Illustrated Book of Yoga,Swami Vishnudevananda,"1960, United States (Julian Press)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,19,Quantum Healing: Exploring the Frontiers of Mind/Body Medicine,Deepak Chopra,"1989, United States (Bantam)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,20,Awareness: The Perils and Opportunities of Reality,Anthony de Mello,"1990, United States (Doubleday/Image; posthumous, edited by J. Francis Stroud from talks)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,21,From Sex to Superconsciousness (Sambhog se Samadhi ki Or),Osho (Bhagwan Shree Rajneesh),"1968 talks, India (Mumbai); first Hindi book edition year not verified",thesis,"From Sex to Superconsciousness, translator not credited; English edition by Rajneesh Foundation by 1979 (date per source, possibly earlier)",1979,False,no usable full text yet,
+after 1945,South Asia,thesis,22,Sadhana: A Way to God (Christian Exercises in Eastern Form),Anthony de Mello,"1978, India (Gujarat Sahitya Prakash, Anand; publisher unverified)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,23,Asana Pranayama Mudra Bandha,Swami Satyananda Saraswati,"1969, India (Bihar School of Yoga, Munger)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,24,The Joy of Living: Unlocking the Secret and Science of Happiness,Yongey Mingyur Rinpoche (with Eric Swanson),"2007, United States (Harmony Books)",thesis,Original in English (co-written with Eric Swanson),,False,no usable full text yet,
+after 1945,South Asia,thesis,25,Life's Amazing Secrets: How to Find Balance and Purpose in Your Life,Gaur Gopal Das,"2018, India (Penguin)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,26,The Nectar of Devotion: The Complete Science of Bhakti-Yoga,A. C. Bhaktivedanta Swami Prabhupada,"1970, United States (ISKCON Press; publisher and place unverified)",thesis,Original in English (a summary study of Rupa Gosvami's Sanskrit Bhakti-rasamrta-sindhu),,True,selected,main
+after 1945,South Asia,thesis,27,Karma: A Yogi's Guide to Crafting Your Destiny,Sadhguru (Jaggi Vasudev),"2021, India and United States (Penguin Random House)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,28,Passage Meditation,Eknath Easwaran,"1978, United States (Nilgiri Press; first titled Meditation: Commonsense Directions for an Uncommon Life)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,29,Ignited Minds: Unleashing the Power Within India,A. P. J. Abdul Kalam,"2002, India (Viking/Penguin India)",thesis,Original in English,,False,no usable full text yet,
+after 1945,South Asia,thesis,30,Kundalini: The Evolutionary Energy in Man,Gopi Krishna,"1967, India (publisher unverified)",thesis,Original in English,,False,no usable full text yet,

@@ -1,0 +1,18 @@
+You are coding study results for a research database.
+
+Below is the reported result of 1 study about a behavior or attitude and an outcome. Based only on the reported result, classify how the outcome relates to the amount of the behavior or attitude:
+{{SHUFFLE}}
+- "positive": more of it goes with better outcomes
+- "negative": more of it goes with worse outcomes
+- "none": no association was found
+- "curved": outcomes are best or worst at intermediate amounts
+- "subgroup": the direction differs between groups of people or situations; name them
+- "unclear": the reported result does not say
+{{/SHUFFLE}}
+
+Return only JSON:
+{"source_id": "{SOURCE_ID}", "label": "", "groups": ""}
+
+Behavior or attitude: {BEHAVIOR}
+Outcome: {OUTCOME}
+Reported result: {RESULT}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-04",
+ "method": "P0 audit, each prompt alone, models claude-opus-5-5, claude-sonnet-5-5, claude-haiku-5-5 in isolated subagents. Core = guess about bipolar axes, trade-offs, conflicting advice, authors choosing one-sided or absolute positions, or intermediate/person-dependent optima. Fail = core in top-2 guesses with p >= 0.25 in >= 2 of 3 models.",
+ "prompts": {
+  "P1_corpus": {
+   "rounds": 1,
+   "core_models": [
+    "opus (format effect, p=0.35)"
+   ],
+   "verdict": "pass"
+  },
+  "P2_extract": {
+   "rounds": 2,
+   "history": "v1 failed: opus and haiku guessed absolute/overclaiming advice; v2 adds neutral fields (action_type, target, addressee, time_frame) and neutral fidelity wording",
+   "core_models": [],
+   "borderline": [
+    "haiku (many absolute, p=0.45)"
+   ],
+   "verdict": "pass"
+  },
+  "P3_recognize": {
+   "rounds": 1,
+   "core_models": [],
+   "verdict": "pass"
+  },
+  "P4_structure_v1": {
+   "rounds": 1,
+   "core_models": [
+    "opus",
+    "sonnet",
+    "haiku"
+   ],
+   "verdict": "replaced by P4a and P4b"
+  },
+  "P4a_subject": {
+   "rounds": 2,
+   "history": "v2 drops 'not an instruction'",
+   "core_models": [
+    "opus (stance-neutral labels to compare positions, p=0.35)"
+   ],
+   "verdict": "pass"
+  },
+  "P4b_set": {
+   "rounds": 1,
+   "core_models": [],
+   "verdict": "pass"
+  },
+  "P5_relation": {
+   "rounds": 2,
+   "history": "v1 yes/no/conditional/unrelated failed 3 of 3 not counting haiku; v2 six-label relation task failed opus and sonnet",
+   "core_models": [
+    "opus",
+    "sonnet"
+   ],
+   "verdict": "exempt",
+   "exemption": "construct-inherent leak: asking whether 2 recommendations can be followed together reveals interest in conflict. Bias is bounded instead by calibration gates: kappa >= 0.6 vs blind human consensus, false incompatible and false compatible <= 10% each, synthetic camp recovery ARI >= 0.8, second-model kappa >= 0.6."
+  },
+  "P6_name_factor": {
+   "rounds": 1,
+   "core_models": [
+    "opus",
+    "sonnet"
+   ],
+   "verdict": "exempt",
+   "exemption": "input is the already-found factor; output only names it and enters no hypothesis test"
+  },
+  "P7_evidence_v1v2": {
+   "rounds": 2,
+   "core_models": [
+    "opus",
+    "sonnet",
+    "haiku"
+   ],
+   "verdict": "replaced by P7a and P7b"
+  },
+  "P7a_sources": {
+   "rounds": 1,
+   "core_models": [],
+   "borderline": [
+    "haiku (direction varies across studies, p=0.6)"
+   ],
+   "verdict": "pass"
+  },
+  "P7b_code_result": {
+   "rounds": 1,
+   "core_models": [
+    "opus (curved and subgroup common)"
+   ],
+   "verdict": "pass"
+  },
+  "P8_synthetic": {
+   "verdict": "exempt",
+   "exemption": "unblinded by design; run on the researcher side"
+  },
+  "P9_reputation": {
+   "rounds": 2,
+   "history": "v1 failed 3 of 3 (absolute wording); v2 mirrors P2 fields",
+   "core_models": [],
+   "verdict": "pass"
+  },
+  "ALL_BLIND_v1_together": {
+   "rounds": 1,
+   "core_models": [
+    "opus",
+    "sonnet",
+    "haiku"
+   ],
+   "verdict": "informational",
+   "note": "the full set reveals the design, as expected; agents only ever see 1 prompt each"
+  },
+  "P5p_panel_relation": {
+   "rounds": 0,
+   "verdict": "exempt",
+   "exemption": "same task as P5_relation, reworded for the gold panel; the same construct-inherent leak (asking whether 2 recommendations can be followed together reveals interest in conflict). Bounded by the researcher's blind review of every panel disagreement plus a hidden random audit of 25% of unanimous items; gate fails if the reviewer confirms fewer than 85% of audited unanimous labels."
+  },
+  "P11_missing": {
+   "rounds": 1,
+   "verdict": "pass",
+   "core_models": [],
+   "history": "audited together with P10 v1 and P12 in one combined prompt (stricter than one prompt alone): every core hit in all 3 models cited only P10's wording scale; guesses citing P11 cues were about recall gaps and over-reporting"
+  },
+  "P12_verify_missing": {
+   "rounds": 1,
+   "verdict": "pass",
+   "core_models": [],
+   "history": "same combined run as P11; guesses citing P12 cues were about duplicates and unsupported candidates"
+  },
+  "P10_check_extraction": {
+   "rounds": 3,
+   "verdict": "pass",
+   "core_models": [],
+   "borderline": [
+    "opus rank 5 p=0.25: unconditioned advice may conflict until scoped"
+   ],
+   "history": "v1 (supported plus wording) failed 3 of 3 on 'advice mostly worded absolutely'; v2 with P2's neutral fields still failed opus ('unqualified, one-sided form', rank 1) and sonnet (absolute wording, rank 1); v3 drops wording: top-2 guesses are extraction fidelity, targets, and era differences in target or addressee. Wording force is now validated only on planted synthetic texts."
+  }
+ }
+}

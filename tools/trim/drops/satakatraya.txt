@@ -1,0 +1,5 @@
+^NOTES[ \t]+TO[ \t]+THE[ \t]+N\S{1,3}[ \t]+SATAKA\.[\s\S]*?(?=^VAIRAGYA[ \t]+\S?ATAKA\.)
+^[ \t]*(?:\S{1,3}[ \t]+){0,2}(?:[A-Za-z0-9]{1,8}[ \t]+){0,2}SATAKA\.[ \t]*(?:\S{1,3})?[ \t]*$(?!\s*Concerning)
+^[ \t]*\([ \t]*\d+[ \t]*\)[ \t]*$
+^[ \t]*\d{1,3}[ \t]*$
+^[ \t]*[BCDEFGHKOPQRS][ \t]*$
