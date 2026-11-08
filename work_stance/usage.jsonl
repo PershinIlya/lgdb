@@ -11,3 +11,4 @@
 {"label": "audit_S5", "agent": "a252f4087e1d351c5", "model": "claude-sonnet-5-5", "context_tokens": 52891, "output_tokens": 833, "total": 53724, "note": ""}
 {"label": "audit_S5", "agent": "abb2a363fa4cb32f6", "model": "claude-haiku-5-5", "context_tokens": 53018, "output_tokens": 1597, "total": 54615, "note": ""}
 {"label": "recall_01", "agent": "af504c0b1059f0ab5", "model": "claude-opus-5-5", "context_tokens": 60043, "output_tokens": 13395, "total": 73438, "note": ""}
+{"label": "recall_00", "agent": "a0a40f3d7fd9efa1e", "model": "claude-opus-5-5", "context_tokens": 60724, "output_tokens": 17149, "total": 77873, "note": ""}

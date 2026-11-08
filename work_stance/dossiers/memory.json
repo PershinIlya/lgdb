@@ -1,0 +1,2655 @@
+{
+ "analects": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Cultivate humaneness: care for others, and do not do to them what you would not want done to yourself.",
+    "argued_against": "self-centered people who seek only their own advantage",
+    "applies_to": "everyone, especially those aspiring to be exemplary persons",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Practice filial piety: serve your parents with reverence, not just material support, and mourn them properly after death.",
+    "argued_against": "those who think feeding parents is enough, like feeding dogs and horses",
+    "applies_to": "children toward parents, living and dead",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Observe ritual propriety in conduct, speech, and ceremony, and let it shape and restrain your behavior.",
+    "argued_against": "ritual done for show, lavishly, or without inner sincerity",
+    "applies_to": "everyone, especially officials and rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Love learning: study tirelessly, review what you have learned, and combine study with reflection.",
+    "argued_against": "learning without thinking, or thinking without learning",
+    "applies_to": "students and anyone seeking to improve",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Strive to be an exemplary person who seeks rightness rather than profit.",
+    "argued_against": "the petty person who is concerned with gain",
+    "applies_to": "everyone, especially those in service",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Rulers should govern by moral example and ritual rather than by punishments and laws.",
+    "argued_against": "governing through regulations and harsh penalties",
+    "applies_to": "rulers and officials",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Examine yourself daily: have you been loyal in your efforts for others, trustworthy with friends, and practiced what you were taught?",
+    "argued_against": "none",
+    "applies_to": "students and anyone pursuing self-cultivation",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Be careful in speech; let your actions exceed your words and do not promise what you cannot do.",
+    "argued_against": "glib talkers and people with clever words and ingratiating faces",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Admit what you do not know; knowing the limits of your knowledge is itself knowledge.",
+    "argued_against": "pretending to know",
+    "applies_to": "students",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "When you make a mistake, do not be afraid to correct it.",
+    "argued_against": "those who cover up their faults",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Do not worry about being unrecognized by others; worry about whether you are worthy of recognition and whether you understand others.",
+    "argued_against": "seeking fame and position",
+    "applies_to": "aspiring officials and students",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Be trustworthy and loyal; without good faith a person cannot function.",
+    "argued_against": "none",
+    "applies_to": "everyone, including rulers in relation to the people",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Choose friends who are upright, sincere, and well-informed, and avoid flatterers and the merely agreeable.",
+    "argued_against": "friendships with sycophants and smooth talkers",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "When you see a worthy person, try to equal them; when you see an unworthy one, examine yourself.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Find joy in the right way of life even in poverty, with plain food and water.",
+    "argued_against": "wealth and honor gained by improper means",
+    "applies_to": "anyone pursuing the way",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Rectify names so that words match realities and each person fulfills the role they hold.",
+    "argued_against": "disorder where rulers, ministers, fathers, and sons do not act as such",
+    "applies_to": "rulers and government",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Respect the spirits but keep them at a distance, focusing on serving people and understanding life.",
+    "argued_against": "preoccupation with spirits and death",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Follow the mean: avoid excess and deficiency in conduct.",
+    "argued_against": "going too far as much as falling short",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Respect elders and older siblings, and behave with deference at home and in the community.",
+    "argued_against": "none",
+    "applies_to": "young people",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Rulers should ensure sufficient food and enjoy the people's trust, valuing trust above all.",
+    "argued_against": "rulers who lose the people's confidence",
+    "applies_to": "rulers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m21",
+    "advice": "Serve in office when the way prevails, and withdraw rather than serve an unprincipled state.",
+    "argued_against": "taking salary under a corrupt government",
+    "applies_to": "those considering public office",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m22",
+    "advice": "Remonstrate gently with parents when they err, and keep respecting them if they do not listen.",
+    "argued_against": "none",
+    "applies_to": "children toward parents",
+    "centrality": "passing"
+   },
+   {
+    "id": "m23",
+    "advice": "Teach anyone willing to learn regardless of their means, but expect effort from the student.",
+    "argued_against": "students who make no effort",
+    "applies_to": "teachers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m24",
+    "advice": "Guard against lust in youth, quarrelsomeness in maturity, and acquisitiveness in old age.",
+    "argued_against": "none",
+    "applies_to": "people at different stages of life",
+    "centrality": "passing"
+   },
+   {
+    "id": "m25",
+    "advice": "Value music and the classic poems as means of moral cultivation.",
+    "argued_against": "licentious music",
+    "applies_to": "students and the cultivated",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "gita": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Perform your duty without attachment to its results, treating success and failure alike.",
+    "argued_against": "acting for the sake of rewards",
+    "applies_to": "everyone who acts, especially the warrior facing battle",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Do your own prescribed duty, even imperfectly, rather than another's duty done well.",
+    "argued_against": "abandoning one's own role for another's",
+    "applies_to": "each person according to their station and nature",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Do not grieve over death, since the true self is eternal and cannot be killed.",
+    "argued_against": "grief and despair over the body's death",
+    "applies_to": "the warrior despairing before battle; all who mourn",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Do not give up action; renounce the desire for its fruits instead.",
+    "argued_against": "those who think inaction or outward renunciation is spiritually superior",
+    "applies_to": "everyone, since no one can avoid acting",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Remain even-minded in pleasure and pain, heat and cold, honor and dishonor.",
+    "argued_against": "being swayed by opposites",
+    "applies_to": "the seeker of steady wisdom",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Control the senses and mind, withdrawing them from sense objects like a tortoise withdrawing its limbs.",
+    "argued_against": "being dragged by the senses",
+    "applies_to": "the seeker of steady wisdom",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Overcome desire and anger, which arise from passion and are the soul's great enemies.",
+    "argued_against": "indulgence of craving",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Offer all actions to the deity as a sacrifice.",
+    "argued_against": "acting from egoism",
+    "applies_to": "devotees",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Worship the deity with loving devotion; even a leaf, flower, fruit, or water offered with love is accepted.",
+    "argued_against": "none",
+    "applies_to": "everyone, regardless of birth, gender, or status",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Take refuge in the deity alone, surrendering all other duties, and you will be freed from all sins.",
+    "argued_against": "none",
+    "applies_to": "the devotee",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Practice meditation in a clean, quiet place, with steady posture, moderate eating and sleep, fixing the mind on the self.",
+    "argued_against": "excessive fasting, overeating, too much or too little sleep",
+    "applies_to": "the practitioner of meditation",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Seek knowledge of the self from wise teachers through humility, inquiry, and service.",
+    "argued_against": "none",
+    "applies_to": "seekers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "See the same self in all beings and treat friend and foe, the learned and the outcast, equally.",
+    "argued_against": "partiality",
+    "applies_to": "the wise",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Cultivate the divine qualities such as fearlessness, purity, nonviolence, truthfulness, compassion, and humility.",
+    "argued_against": "the demonic qualities: hypocrisy, arrogance, conceit, anger, harshness, ignorance",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Avoid lust, anger, and greed, the three gates to hell.",
+    "argued_against": "those of demonic nature who deny truth and indulge desire",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Prefer goodness over passion and dullness in food, charity, austerity, worship, and action.",
+    "argued_against": "practices driven by passion or ignorance",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Follow scripture as your guide to what should and should not be done.",
+    "argued_against": "acting from whim and desire, ignoring scriptural injunctions",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Think of the deity at the moment of death, as one attains what one remembers then.",
+    "argued_against": "none",
+    "applies_to": "the dying",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Engage in righteous battle rather than fleeing, since retreat brings disgrace.",
+    "argued_against": "cowardice and faintheartedness",
+    "applies_to": "the warrior",
+    "centrality": "core"
+   },
+   {
+    "id": "m20",
+    "advice": "Act for the welfare of the world, setting an example for others to follow.",
+    "argued_against": "the wise who unsettle the ignorant by not acting",
+    "applies_to": "leaders and the wise",
+    "centrality": "passing"
+   },
+   {
+    "id": "m21",
+    "advice": "Lift yourself by your own mind; the mind is both friend and enemy.",
+    "argued_against": "self-degradation",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m22",
+    "advice": "Give gifts to worthy recipients at the right time and place, expecting nothing in return.",
+    "argued_against": "giving grudgingly or for return",
+    "applies_to": "givers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m23",
+    "advice": "Do not let doubt rule you; the doubter finds happiness neither here nor hereafter.",
+    "argued_against": "skepticism without faith",
+    "applies_to": "seekers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m24",
+    "advice": "Practice austerity of body, speech, and mind: purity, truthful and pleasant speech, and serenity.",
+    "argued_against": "harsh self-torture of the body",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "vivekachudamani": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Value human birth, desire for liberation, and refuge with a great teacher as rare gifts not to be wasted.",
+    "argued_against": "those who obtain human birth yet neglect liberation",
+    "applies_to": "all human beings",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m2",
+    "advice": "Discriminate between the eternal and the transient as the first step toward liberation.",
+    "argued_against": "none",
+    "applies_to": "seekers of liberation",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Cultivate dispassion toward enjoyments of this world and the next.",
+    "argued_against": "attachment to sense pleasures",
+    "applies_to": "seekers of liberation",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Develop calmness, self-control, withdrawal, forbearance, faith, and concentration.",
+    "argued_against": "none",
+    "applies_to": "qualified seekers",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Approach a teacher learned in scripture, sinless, and established in the absolute, with humility and service.",
+    "argued_against": "none",
+    "applies_to": "the disciple",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Seek liberation through direct knowledge of the self, not through rituals, works, or learning alone.",
+    "argued_against": "reliance on ritual, scholarship, and deeds",
+    "applies_to": "seekers of liberation",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Do not identify with the body, senses, mind, or intellect; you are the witness consciousness beyond them.",
+    "argued_against": "the ignorant who take the body as the self",
+    "applies_to": "the seeker",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Realize that the individual self is identical with the absolute.",
+    "argued_against": "the view of difference between self and absolute",
+    "applies_to": "the seeker",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Regard the world as superimposed on the absolute, like a snake on a rope.",
+    "argued_against": "taking the world as ultimately real",
+    "applies_to": "the seeker",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Avoid sense objects, which are more deadly than snake poison.",
+    "argued_against": "indulgence in sense objects",
+    "applies_to": "the seeker",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Hear, reflect upon, and meditate deeply on the teaching.",
+    "argued_against": "none",
+    "applies_to": "the disciple",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Never be careless in fixing the mind on the absolute; inattention is death.",
+    "argued_against": "negligence and distraction",
+    "applies_to": "the seeker",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Eliminate the ego, the root of bondage.",
+    "argued_against": "egoism",
+    "applies_to": "the seeker",
+    "centrality": "core"
+   },
+   {
+    "id": "m14",
+    "advice": "Overcome dullness and restlessness by cultivating purity of mind.",
+    "argued_against": "the qualities of dullness and passion",
+    "applies_to": "the seeker",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Do not crave admiration from society, attachment to books, or care for the body.",
+    "argued_against": "the three desires that bind",
+    "applies_to": "the seeker",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Let the liberated one live free, unaffected by praise or blame, wandering as they please.",
+    "argued_against": "none",
+    "applies_to": "the one liberated while living",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Remain in silent absorption in the self rather than empty scholarly debate.",
+    "argued_against": "learned verbosity without realization",
+    "applies_to": "the seeker",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Rely on one's own effort for liberation; others cannot do it for you.",
+    "argued_against": "expecting others to free you",
+    "applies_to": "the seeker",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "meditations": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Focus only on what is within your control: your judgments, choices, and actions.",
+    "argued_against": "being disturbed by external events",
+    "applies_to": "the writer himself and anyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Remember that it is your opinion about things, not the things themselves, that disturbs you.",
+    "argued_against": "blaming circumstances",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Expect to meet meddling, ungrateful, arrogant people each day, and do not be angry, since they act from ignorance.",
+    "argued_against": "resentment and anger",
+    "applies_to": "daily dealings with others",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Live in accordance with nature and reason, as a part of the rational whole.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Work for the common good, as humans are made for cooperation like feet, hands, and eyelids.",
+    "argued_against": "acting against others",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Remember death often and live each day as if it were your last.",
+    "argued_against": "acting as if you had endless time",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Accept whatever happens as part of the order of the universe.",
+    "argued_against": "complaining about fate",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Do not crave posthumous fame; those who remember you will soon die too.",
+    "argued_against": "ambition for reputation",
+    "applies_to": "everyone, especially the powerful",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Get up in the morning to do the work of a human being rather than staying in warm blankets.",
+    "argued_against": "sloth",
+    "applies_to": "the writer himself",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Retreat into your own mind for peace rather than seeking retreats in the country or seashore.",
+    "argued_against": "relying on places for tranquility",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "The best revenge is not to be like the wrongdoer.",
+    "argued_against": "retaliation",
+    "applies_to": "when wronged",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "Learn from others' virtues, as shown by gratitude to family and teachers in the first part.",
+    "argued_against": "none",
+    "applies_to": "the writer reflecting on his upbringing",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Analyze pleasures and impressive things into their components to strip them of false glamour.",
+    "argued_against": "being dazzled by appearances",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Do not waste time guessing what others think of you or worrying about others' affairs.",
+    "argued_against": "busybody curiosity",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Stop arguing about what a good person is; be one.",
+    "argued_against": "talk without action",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Do each task with full attention, seriousness, and justice, as if it were your last.",
+    "argued_against": "distraction and pretense",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Be willing to be corrected and change your mind when shown wrong.",
+    "argued_against": "stubbornness",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Do not be made into a tyrant by power; stay simple, good, and sincere.",
+    "argued_against": "corruption by power",
+    "applies_to": "the ruler",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Endure pain by recognizing that it is either bearable or will end.",
+    "argued_against": "despair over pain",
+    "applies_to": "those suffering",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Reflect on the vastness of time and smallness of human life to keep perspective.",
+    "argued_against": "self-importance",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m21",
+    "advice": "Do good without expecting thanks, like a vine bearing grapes.",
+    "argued_against": "seeking recognition for good deeds",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m22",
+    "advice": "Avoid anger; gentleness is more manly and strong.",
+    "argued_against": "anger and harshness",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "republic": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Be just, since justice is better for its own sake and its consequences.",
+    "argued_against": "the view that justice is the advantage of the stronger or a mere convention",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Order your soul so that reason rules, spirit supports it, and appetite obeys.",
+    "argued_against": "a soul ruled by appetite",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Pursue philosophy and knowledge of the good above all.",
+    "argued_against": "lovers of sights and opinions",
+    "applies_to": "those capable, especially future rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Let philosophers rule, since only they know the good.",
+    "argued_against": "rule by the ignorant or by the ambitious",
+    "applies_to": "cities",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Rulers should not own private property or wealth, so they are not corrupted.",
+    "argued_against": "rulers enriching themselves",
+    "applies_to": "guardians",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Censor poetry that portrays the deities as wicked or heroes as cowardly.",
+    "argued_against": "the poets",
+    "applies_to": "education of the young",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Each person should do the one job suited to their nature.",
+    "argued_against": "meddling in others' functions",
+    "applies_to": "citizens",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Educate the young through balanced music and gymnastics to temper the soul.",
+    "argued_against": "one-sided training",
+    "applies_to": "guardians",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Women with suitable natures should receive the same education and roles as men among the guardians.",
+    "argued_against": "the view that sex disqualifies from ruling",
+    "applies_to": "guardians",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Turn the soul from shadows toward the real, and return to help others.",
+    "argued_against": "contentment with appearances",
+    "applies_to": "philosophers",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Avoid tyranny of the passions; the tyrant is the most miserable of men.",
+    "argued_against": "the life of the tyrant",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m12",
+    "advice": "Value the pleasures of reason above those of honor or appetite.",
+    "argued_against": "lovers of gain and honor",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Avoid imitative poetry that strengthens the irrational parts of the soul.",
+    "argued_against": "tragic and mimetic poets",
+    "applies_to": "citizens",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Live justly because souls face judgment and reincarnation after death.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Avoid both excessive wealth and poverty in the city, as both corrupt.",
+    "argued_against": "luxury and poverty",
+    "applies_to": "cities",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Guardians should share families, wives, and children in common.",
+    "argued_against": "private families among guardians",
+    "applies_to": "guardians",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Do not give back to someone what is owed if it harms them, like weapons to a madman.",
+    "argued_against": "justice as paying debts",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Do not harm anyone, even enemies; harming makes people worse.",
+    "argued_against": "helping friends and harming enemies",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Postpone dialectic until maturity to avoid lawless questioning by the young.",
+    "argued_against": "teaching argument to the young",
+    "applies_to": "education",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Rulers may use noble lies for the good of the city.",
+    "argued_against": "none",
+    "applies_to": "rulers",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "xiaojing": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Regard filial piety as the root of virtue and the source of all teaching.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Do not injure your body, which you received from your parents.",
+    "argued_against": "none",
+    "applies_to": "children",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Establish yourself and make your name known to glorify your parents.",
+    "argued_against": "none",
+    "applies_to": "children",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Rulers should practice filial piety to govern the realm in harmony.",
+    "argued_against": "none",
+    "applies_to": "the ruler",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Rulers should not dare to neglect even widows and widowers.",
+    "argued_against": "none",
+    "applies_to": "rulers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m6",
+    "advice": "Nobles should avoid arrogance and extravagance to keep their positions.",
+    "argued_against": "arrogance and extravagance",
+    "applies_to": "feudal lords",
+    "centrality": "passing"
+   },
+   {
+    "id": "m7",
+    "advice": "Ministers should follow ancestral rules of dress, speech, and conduct.",
+    "argued_against": "nonconformity to established ways",
+    "applies_to": "high officials",
+    "centrality": "passing"
+   },
+   {
+    "id": "m8",
+    "advice": "Transfer devotion to parents into loyalty to the ruler and respect to superiors.",
+    "argued_against": "none",
+    "applies_to": "scholars and officials",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Common people should work diligently and frugally to support their parents.",
+    "argued_against": "none",
+    "applies_to": "common people",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Serve parents with reverence at home, joy in feeding, anxiety in illness, grief in mourning, and solemnity in sacrifice.",
+    "argued_against": "none",
+    "applies_to": "children",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Remonstrate with a parent or ruler who acts wrongly rather than blindly obey.",
+    "argued_against": "the view that obeying orders is filial",
+    "applies_to": "children and ministers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "Regard unfiliality as the greatest of offenses.",
+    "argued_against": "the unfilial",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Mourn parents for three years with simple food and dress.",
+    "argued_against": "none",
+    "applies_to": "children after parents' death",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Avoid pride in high position, disorder in subordinate position, and quarrels among equals.",
+    "argued_against": "none",
+    "applies_to": "children",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Rulers should teach the people through example and ritual and music.",
+    "argued_against": "none",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "worldly_wisdom": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Keep matters in suspense; do not reveal your intentions or all your abilities.",
+    "argued_against": "openness that makes you predictable",
+    "applies_to": "dealings in society and at court",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Never outshine your superior.",
+    "argued_against": "none",
+    "applies_to": "those serving superiors",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Make people depend on you.",
+    "argued_against": "satisfying others fully",
+    "applies_to": "dealings with patrons",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Know how to refuse, without giving offense.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m5",
+    "advice": "Avoid associating with fools and those whose faults may stain you.",
+    "argued_against": "fools",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Choose friends wisely and cultivate those who can help you.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Be a person of substance and integrity rather than of mere appearance, while also attending to appearances.",
+    "argued_against": "pretentiousness",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Know your strengths and failings and master your passions.",
+    "argued_against": "being ruled by passion",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Do pleasant things yourself and unpleasant through others.",
+    "argued_against": "none",
+    "applies_to": "those in power",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Withdraw while your luck holds rather than pushing fortune too far.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m11",
+    "advice": "Think before you act, and wait for the right moment.",
+    "argued_against": "haste",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Do not complain, as it brings discredit.",
+    "argued_against": "complainers",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Be a saint and use human means as if divine means didn't exist.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Do not be too available; rarity increases esteem.",
+    "argued_against": "overfamiliarity",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Find each person's weak point to influence them.",
+    "argued_against": "none",
+    "applies_to": "dealings with others",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Avoid quarrels and making enemies; be courteous.",
+    "argued_against": "contention",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Adapt to circumstances and the company you are in.",
+    "argued_against": "rigidity",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Do not talk too much about yourself.",
+    "argued_against": "boasting",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Leave people wanting more.",
+    "argued_against": "excess",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Be in agreement with the wise, but seem to be with the many.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "ramcharitmanas": {
+  "knowledge_basis": "secondary",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Devote yourself lovingly to the divine lord as the highest path.",
+    "argued_against": "reliance on knowledge or ritual without devotion",
+    "applies_to": "everyone, especially in the present degenerate age",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Repeat the divine name, which is sufficient for salvation in this age.",
+    "argued_against": "none",
+    "applies_to": "people of the present degenerate age",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Honor parents and obey their words, even at great personal cost.",
+    "argued_against": "none",
+    "applies_to": "children",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Keep your word and vows even at great sacrifice.",
+    "argued_against": "none",
+    "applies_to": "everyone, especially rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Be loyal and devoted to your spouse.",
+    "argued_against": "none",
+    "applies_to": "wives and husbands",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Serve the divine selflessly, as the devoted servant does.",
+    "argued_against": "none",
+    "applies_to": "devotees",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Value fraternal love and loyalty among siblings.",
+    "argued_against": "none",
+    "applies_to": "siblings",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Seek company of the holy and avoid wicked company.",
+    "argued_against": "evil company",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Avoid lust, anger, greed, and pride.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Rulers should rule righteously for their subjects' welfare.",
+    "argued_against": "tyrannical rulers",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Respect the guru and priestly class.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Give refuge to those who seek it, even former enemies.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Do not take another's wife.",
+    "argued_against": "the demon king",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "vemana": {
+  "knowledge_basis": "secondary",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Seek inner purity rather than external rituals and pilgrimages.",
+    "argued_against": "ritualism",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Reject caste distinctions.",
+    "argued_against": "caste hierarchy",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Do not worship idols; the divine is within.",
+    "argued_against": "idol worship",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Avoid hypocrisy in religion.",
+    "argued_against": "hypocritical ascetics and priests",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Avoid wicked company.",
+    "argued_against": "the wicked",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Be charitable to the needy.",
+    "argued_against": "misers",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Speak truthfully.",
+    "argued_against": "liars",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Value knowledge of the self.",
+    "argued_against": "ignorance",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "buddha_dhamma": {
+  "knowledge_basis": "secondary",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Follow the middle path between indulgence and self-mortification.",
+    "argued_against": "extreme asceticism and sensual indulgence",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Practice morality as the core of religion, rather than worship or ritual.",
+    "argued_against": "ritualism",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Reject caste and treat all as equal.",
+    "argued_against": "caste system",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Do not accept teachings on authority; test them by reason and experience.",
+    "argued_against": "blind faith in scriptures",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Follow the eightfold path of right views, intentions, speech, conduct, livelihood, effort, mindfulness, and concentration.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Practice the perfections: generosity, morality, renunciation, wisdom, energy, patience, truth, resolution, loving-kindness, equanimity.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Cultivate loving-kindness toward all beings.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Remove suffering in this world, not seek salvation of the soul.",
+    "argued_against": "belief in soul and afterlife salvation",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Avoid belief in a creator deity and in karma as fate.",
+    "argued_against": "theism and fatalism",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Abstain from killing, stealing, sexual misconduct, lying, and intoxicants.",
+    "argued_against": "none",
+    "applies_to": "lay followers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Share wealth and avoid exploitation of the poor.",
+    "argued_against": "greed",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Admit women to religious life on an equal basis.",
+    "argued_against": "discrimination against women",
+    "applies_to": "community",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Monks should serve the people, not just pursue personal perfection.",
+    "argued_against": "none",
+    "applies_to": "monks",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Avoid animal sacrifice.",
+    "argued_against": "sacrificial ritual",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "c01": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Focus on tiny improvements of about one percent daily, which compound over time.",
+    "argued_against": "seeking dramatic transformations",
+    "applies_to": "anyone changing habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Focus on systems rather than goals.",
+    "argued_against": "goal-setting as the main strategy",
+    "applies_to": "anyone pursuing improvement",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Build identity-based habits by deciding who you want to be.",
+    "argued_against": "outcome-based habits",
+    "applies_to": "anyone changing habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Make good habits obvious with visible cues.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Make good habits attractive by pairing them with things you enjoy.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Make good habits easy by reducing friction and using the two-minute rule.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Make good habits satisfying with immediate rewards.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Invert the laws to break bad habits: invisible, unattractive, difficult, unsatisfying.",
+    "argued_against": "none",
+    "applies_to": "breaking habits",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Use implementation intentions, specifying when and where you will act.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Stack new habits on existing ones.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Design your environment to support good habits.",
+    "argued_against": "relying on willpower",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Never miss a habit twice.",
+    "argued_against": "all-or-nothing thinking",
+    "applies_to": "after a lapse",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Track habits to see progress.",
+    "argued_against": "none",
+    "applies_to": "building habits",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Join a culture where your desired behavior is normal.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Use habit contracts and accountability partners.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Choose habits that fit your natural abilities.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Fall in love with boredom; consistency beats intensity.",
+    "argued_against": "chasing novelty",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Use reflection and review to avoid complacency.",
+    "argued_against": "none",
+    "applies_to": "experts",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "c02": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Care only about what truly matters, and choose your values carefully.",
+    "argued_against": "caring about everything",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Accept that suffering and problems are inevitable; choose problems worth having.",
+    "argued_against": "positive thinking culture",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Take responsibility for your problems, even those not your fault.",
+    "argued_against": "blame and victimhood",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Recognize you are not special or exceptional.",
+    "argued_against": "entitlement",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Be uncertain about your beliefs and willing to be wrong.",
+    "argued_against": "certainty",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Embrace failure as part of growth.",
+    "argued_against": "fear of failure",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Learn to say no and reject alternatives.",
+    "argued_against": "endless options",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Remember you will die, to clarify what matters.",
+    "argued_against": "denying death",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Use the do-something principle: action creates motivation.",
+    "argued_against": "waiting for motivation",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Choose good values: honesty, innovation, vulnerability, standing up for oneself.",
+    "argued_against": "bad values like pleasure, material success, always being right",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Keep healthy boundaries in relationships.",
+    "argued_against": "codependency",
+    "applies_to": "people in relationships",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Commit to depth over breadth.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "c03": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Stand up straight with your shoulders back, adopting a confident posture and facing life's challenges voluntarily.",
+    "argued_against": "slumping into defeat and accepting low status as fixed",
+    "applies_to": "people who feel defeated or low in the social hierarchy",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Treat yourself like someone you are responsible for helping, caring for your own health and future as you would for another.",
+    "argued_against": "self-contempt and neglecting one's own well-being",
+    "applies_to": "people who care for others better than for themselves",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Choose friends who want the best for you and who will support your improvement rather than drag you down.",
+    "argued_against": "the naive belief that one should stay loyal to people bent on self-destruction",
+    "applies_to": "everyone, especially those trying to change their lives",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Compare yourself to who you were yesterday, not to who someone else is today.",
+    "argued_against": "constant comparison with more successful others",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Do not let your children do anything that makes you dislike them; discipline them so others will welcome them.",
+    "argued_against": "permissive parenting that avoids correcting children",
+    "applies_to": "parents of young children",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Set your own house in perfect order before criticizing the world.",
+    "argued_against": "resentful people who blame society or existence for their suffering",
+    "applies_to": "people tempted toward bitterness or destructive blame",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Pursue what is meaningful, not what is expedient, even when it demands sacrifice.",
+    "argued_against": "short-term impulsive self-gratification",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Tell the truth, or at least don't lie, because lies corrupt both the self and the world.",
+    "argued_against": "manipulative falsehood and living by convenient deceptions",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Assume the person you are listening to might know something you don't, and listen genuinely.",
+    "argued_against": "conversations used only to win or to display oneself",
+    "applies_to": "conversations, therapy, disagreements",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Be precise in your speech, naming problems specifically so they can be addressed.",
+    "argued_against": "vague avoidance that lets problems grow unaddressed",
+    "applies_to": "personal relationships and difficulties",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Do not bother children when they are skateboarding; let them take risks to build competence and courage.",
+    "argued_against": "overprotective safety culture and hostility to masculinity",
+    "applies_to": "children and young people, especially boys",
+    "centrality": "core"
+   },
+   {
+    "id": "m12",
+    "advice": "Pet a cat when you encounter one in the street, noticing small moments of goodness amid suffering.",
+    "argued_against": "being overwhelmed by the suffering of existence",
+    "applies_to": "times of hardship and suffering",
+    "centrality": "core"
+   },
+   {
+    "id": "m13",
+    "advice": "Take on responsibility voluntarily, since bearing a heavy load gives life meaning.",
+    "argued_against": "a culture focused on rights and happiness rather than duty",
+    "applies_to": "everyone, especially young men",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Aim high at a worthy goal, then adjust as you learn more along the way.",
+    "argued_against": "aimlessness",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Avoid resentment, deceit, and arrogance, which lead toward cruelty and hell on earth.",
+    "argued_against": "ideologues and those consumed by resentment",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Keep a regular sleep and wake time and eat a protein-rich breakfast to stabilize anxiety and mood.",
+    "argued_against": "none",
+    "applies_to": "people suffering from anxiety or depression",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Confront chaos voluntarily and stay on the line between order and chaos.",
+    "argued_against": "too much rigid order or too much chaos",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Ask what small thing you could do today to make things better, and do it.",
+    "argued_against": "grandiose plans that ignore immediate improvements",
+    "applies_to": "people trying to improve their lives",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Do not hide unwanted things in the fog; face and discuss them before they accumulate.",
+    "argued_against": "conflict avoidance in marriage and family",
+    "applies_to": "couples and families",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Be wary of ideologies that offer simple explanations and blame groups for all problems.",
+    "argued_against": "ideologues and totalitarian thinking",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "c04": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Reject the idea that past trauma determines you; focus on the goals your present behavior serves.",
+    "argued_against": "etiology and trauma-based determinism",
+    "applies_to": "people who blame their past for their present",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Recognize that you choose emotions like anger to serve goals, rather than being controlled by them.",
+    "argued_against": "the view that emotions overwhelm us beyond control",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Understand that all problems are interpersonal relationship problems.",
+    "argued_against": "seeing problems as purely internal",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Separate tasks: ask whose task this ultimately is, and do not intrude on others' tasks or let them intrude on yours.",
+    "argued_against": "meddling parents and people-pleasing",
+    "applies_to": "parents, children, coworkers, all relationships",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Do not seek recognition or approval from others; living for others' expectations means living their life.",
+    "argued_against": "the desire for recognition and reward-and-punishment education",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Have the courage to be disliked, accepting that some people will disapprove as the cost of freedom.",
+    "argued_against": "trying to be liked by everyone",
+    "applies_to": "everyone seeking freedom",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Neither praise nor rebuke others; instead offer encouragement and express gratitude.",
+    "argued_against": "praise and rebuke as vertical, manipulative relationships",
+    "applies_to": "parents, teachers, managers, partners",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Build horizontal relationships, seeing others as equal but different rather than above or below you.",
+    "argued_against": "vertical relationships based on hierarchy",
+    "applies_to": "all relationships",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Aim for community feeling: see others as comrades and feel you belong to a larger community.",
+    "argued_against": "seeing others as enemies",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Accept yourself as you are, distinguishing what you can change from what you cannot.",
+    "argued_against": "self-affirmation that pretends to be what one is not",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Have confidence in others unconditionally, trusting them without demanding collateral.",
+    "argued_against": "conditional credit-based trust",
+    "applies_to": "relationships",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Contribute to others, since feeling useful to others gives a sense of worth.",
+    "argued_against": "self-centered focus on oneself",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m13",
+    "advice": "Feel worth by simply existing, recognizing that one's being alone contributes to others.",
+    "argued_against": "judging worth only by achievements or actions",
+    "applies_to": "elderly, sick, infants, everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Live earnestly in the here and now, treating life as a series of moments like a dance.",
+    "argued_against": "seeing life as a line toward a distant goal",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m15",
+    "advice": "Have the courage to be normal rather than seeking to be especially good or especially bad.",
+    "argued_against": "the desire for superiority and attention-seeking misbehavior",
+    "applies_to": "children and adults seeking special status",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Stop using feelings of inferiority as excuses for avoiding life tasks.",
+    "argued_against": "inferiority complex and superiority complex",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Do not view interpersonal relations as competitions; others' happiness is not your defeat.",
+    "argued_against": "competitive views of life",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "When relationships collapse, listen to the voice of the larger community rather than clinging to a small one.",
+    "argued_against": "being confined to a single small community",
+    "applies_to": "people struggling at school or work",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Choose a different lifestyle now; change requires courage, not new circumstances.",
+    "argued_against": "waiting for conditions to change before changing oneself",
+    "applies_to": "everyone unhappy with their life",
+    "centrality": "core"
+   },
+   {
+    "id": "m20",
+    "advice": "Use a guiding star of contributing to others to orient your freedom.",
+    "argued_against": "aimless freedom",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "c05": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Tidy all at once in one intensive event rather than a little each day.",
+    "argued_against": "tidying a little at a time",
+    "applies_to": "everyone who wants a lasting tidy home",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Discard first, before deciding where to store anything.",
+    "argued_against": "organizing and storage solutions before reducing",
+    "applies_to": "everyone tidying",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Keep only items that spark joy when you hold them in your hands.",
+    "argued_against": "choosing what to throw away rather than what to keep",
+    "applies_to": "everyone tidying",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Tidy by category, not by location, gathering every item of a category in one place.",
+    "argued_against": "tidying room by room",
+    "applies_to": "everyone tidying",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Follow the order: clothes, books, papers, miscellaneous items, and sentimental items last.",
+    "argued_against": "starting with mementos",
+    "applies_to": "everyone tidying",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Visualize your ideal lifestyle before starting to tidy.",
+    "argued_against": "none",
+    "applies_to": "people beginning to tidy",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Do not let family members see what you discard, and do not foist unwanted things on them.",
+    "argued_against": "passing unwanted items to relatives",
+    "applies_to": "people living with family",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Tidy your own things rather than others' belongings; let family tidy their own.",
+    "argued_against": "throwing away other people's things without permission",
+    "applies_to": "people living with others",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Fold clothes into small rectangles and store them standing upright in drawers.",
+    "argued_against": "stacking clothes and balling socks",
+    "applies_to": "clothing storage",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Hang clothes so they rise toward the right, from heavy to light.",
+    "argued_against": "none",
+    "applies_to": "closet storage",
+    "centrality": "passing"
+   },
+   {
+    "id": "m11",
+    "advice": "Discard most papers; keep only those currently in use, needed for a limited time, or needed indefinitely.",
+    "argued_against": "keeping manuals, old statements, and seminar notes",
+    "applies_to": "household papers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Let go of unread books; 'sometime' means never, and keep only books that give joy.",
+    "argued_against": "keeping books to read someday",
+    "applies_to": "book owners",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Thank items for their service before letting them go.",
+    "argued_against": "guilt about discarding",
+    "applies_to": "everyone discarding things",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Designate a specific place for every item and always return it there.",
+    "argued_against": "scattered storage",
+    "applies_to": "after discarding",
+    "centrality": "core"
+   },
+   {
+    "id": "m15",
+    "advice": "Store items of the same type in one place, and keep storage simple.",
+    "argued_against": "complex storage systems and buying storage products",
+    "applies_to": "home storage",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Store things vertically rather than stacking them.",
+    "argued_against": "stacking",
+    "applies_to": "home storage",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Do not downgrade worn clothes to loungewear; wear clothes you love at home too.",
+    "argued_against": "keeping old clothes as loungewear",
+    "applies_to": "clothing",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Greet your house when you come home and treat your belongings with respect.",
+    "argued_against": "none",
+    "applies_to": "daily life at home",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Empty your bag every day when you get home.",
+    "argued_against": "leaving items in bags",
+    "applies_to": "daily routine",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Remove packaging and labels from products, such as clothing tags and loud text on bottles.",
+    "argued_against": "visual noise",
+    "applies_to": "home storage",
+    "centrality": "passing"
+   },
+   {
+    "id": "m21",
+    "advice": "Confront attachment to the past and anxiety about the future when deciding what to keep.",
+    "argued_against": "keeping things out of fear or nostalgia",
+    "applies_to": "everyone tidying",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m22",
+    "advice": "Tidy in silence, without music or television, to focus on your feelings about items.",
+    "argued_against": "tidying with distractions",
+    "applies_to": "tidying sessions",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "c06": {
+  "knowledge_basis": "secondary",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Embrace vulnerability as the source of courage, connection, creativity, and love.",
+    "argued_against": "the myth that vulnerability is weakness",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Show up and let yourself be seen even when you can't control the outcome.",
+    "argued_against": "waiting to be perfect before engaging",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Ignore criticism from people who are not in the arena themselves taking risks.",
+    "argued_against": "cheap-seat critics and cynics",
+    "applies_to": "people taking creative or personal risks",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Build shame resilience by recognizing shame, checking it against reality, reaching out, and speaking about it.",
+    "argued_against": "hiding shame in secrecy and silence",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Distinguish shame from guilt: focus on 'I did something bad' rather than 'I am bad'.",
+    "argued_against": "shaming as a tool for change",
+    "applies_to": "parents, leaders, everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Cultivate a sense of worthiness and 'enough' instead of a culture of scarcity.",
+    "argued_against": "the cultural message of never enough",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Let go of perfectionism, which is a shield against shame rather than healthy striving.",
+    "argued_against": "perfectionism",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Practice gratitude to counter foreboding joy when happiness feels risky.",
+    "argued_against": "rehearsing tragedy to avoid vulnerability",
+    "applies_to": "moments of joy",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Avoid numbing painful emotions, because numbing also dulls joy.",
+    "argued_against": "numbing through busyness, substances, or distraction",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Share vulnerable stories only with people who have earned the right to hear them.",
+    "argued_against": "oversharing as a form of armor",
+    "applies_to": "relationships",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Leaders should create cultures where feedback is given honestly and without shame.",
+    "argued_against": "shame-based leadership and blame cultures",
+    "applies_to": "organizations, schools, leaders",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Parents should model the vulnerability and wholeheartedness they want their children to have.",
+    "argued_against": "shaming parenting",
+    "applies_to": "parents",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Sit on the same side of the table when giving feedback.",
+    "argued_against": "adversarial feedback",
+    "applies_to": "managers, teachers, parents",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Reject cynicism and 'cool' detachment as ways of avoiding risk.",
+    "argued_against": "cynicism and criticism as protection",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Ask for help and accept it, rather than only offering it.",
+    "argued_against": "self-sufficiency as identity",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Recognize gender-specific shame expectations and avoid reinforcing them.",
+    "argued_against": "rigid gender norms around weakness and appearance",
+    "applies_to": "men and women",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "c07": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Spend significant time in deep work: distraction-free, cognitively demanding concentration that creates value.",
+    "argued_against": "shallow work culture",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Choose a depth philosophy suited to you: monastic, bimodal, rhythmic, or journalistic.",
+    "argued_against": "one-size-fits-all approaches",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Build rituals specifying where, how long, and under what rules you will work deeply.",
+    "argued_against": "relying on willpower alone",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Embrace boredom; don't reach for your phone every time you feel bored.",
+    "argued_against": "constant distraction",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Schedule internet use and stay offline outside those blocks.",
+    "argued_against": "internet sabbaths as sufficient",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Quit social media unless it substantially supports core goals.",
+    "argued_against": "any-benefit approach to tool adoption",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Drain the shallows: schedule every minute of your workday and limit shallow work.",
+    "argued_against": "reactive workdays",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Use a shutdown ritual to end work fully each day.",
+    "argued_against": "always-on work",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Make grand gestures, like retreats, to commit to deep work projects.",
+    "argued_against": "none",
+    "applies_to": "ambitious projects",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Follow 4DX: focus on the wildly important, track lead measures, keep a scoreboard, create accountability.",
+    "argued_against": "vague goals",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Practice productive meditation during physical activity.",
+    "argued_against": "none",
+    "applies_to": "people who walk or exercise",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "Make email senders do more work and don't respond to every message.",
+    "argued_against": "feeling obligated to reply",
+    "applies_to": "email users",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Fill leisure time with quality activities rather than web surfing.",
+    "argued_against": "passive internet leisure",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Ask how long a trained graduate would take to do a task, to judge shallowness.",
+    "argued_against": "none",
+    "applies_to": "knowledge workers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Collaborate deeply in a hub-and-spoke way, but don't rely on open offices.",
+    "argued_against": "open office plans",
+    "applies_to": "teams",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Master hard things quickly and produce at an elite level to thrive economically.",
+    "argued_against": "none",
+    "applies_to": "workers in the new economy",
+    "centrality": "core"
+   },
+   {
+    "id": "m17",
+    "advice": "Use deliberate practice with intense focus to improve skills.",
+    "argued_against": "multitasking",
+    "applies_to": "people learning skills",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Avoid attention residue by not switching tasks frequently.",
+    "argued_against": "task switching",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Set a fixed end time for work and plan backward from it.",
+    "argued_against": "long hours as a measure of value",
+    "applies_to": "knowledge workers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Become hard to reach, setting limits on availability.",
+    "argued_against": "constant connectivity",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "c08": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Define your dreams concretely and calculate the monthly cost of achieving them.",
+    "argued_against": "deferring life until retirement",
+    "applies_to": "people aspiring to be the new rich",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Take mini-retirements throughout life instead of saving everything for retirement.",
+    "argued_against": "the deferred-life plan",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Eliminate: apply the 80/20 principle to focus on the few things producing most results.",
+    "argued_against": "being busy for its own sake",
+    "applies_to": "workers and entrepreneurs",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Shorten deadlines because work expands to fill the time available.",
+    "argued_against": "long deadlines",
+    "applies_to": "workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Go on a low-information diet, avoiding news and unnecessary reading.",
+    "argued_against": "information overload",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Check email only once or twice a day, using autoresponders.",
+    "argued_against": "constant email checking",
+    "applies_to": "workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Automate income by outsourcing tasks to virtual assistants.",
+    "argued_against": "doing everything yourself",
+    "applies_to": "entrepreneurs and workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Create a muse: a low-maintenance product business generating automatic income.",
+    "argued_against": "trading time for money",
+    "applies_to": "would-be entrepreneurs",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Test product demand cheaply before building or investing.",
+    "argued_against": "investing before testing",
+    "applies_to": "entrepreneurs",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Liberate yourself by negotiating remote work with your employer.",
+    "argued_against": "office-bound work",
+    "applies_to": "employees",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Define your fears to see that worst cases are usually recoverable.",
+    "argued_against": "fear-driven inaction",
+    "applies_to": "everyone considering change",
+    "centrality": "core"
+   },
+   {
+    "id": "m12",
+    "advice": "Ask for forgiveness rather than permission.",
+    "argued_against": "excessive deference",
+    "applies_to": "employees",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Value time and mobility as currencies, not just money.",
+    "argued_against": "accumulating money as an end",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m14",
+    "advice": "Practice relative wealth thinking—value what money enables.",
+    "argued_against": "absolute income focus",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Do uncomfortable things, like asking for what you want, to overcome fear.",
+    "argued_against": "comfort-zone living",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Use geoarbitrage: live in low-cost places while earning in strong currencies.",
+    "argued_against": "none",
+    "applies_to": "remote workers and entrepreneurs",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Use the freed time to learn, serve, and pursue meaningful pursuits.",
+    "argued_against": "idleness and boredom",
+    "applies_to": "people with free time",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Batch tasks to reduce setup time.",
+    "argued_against": "constant switching",
+    "applies_to": "workers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Avoid meetings unless they have clear agendas and objectives.",
+    "argued_against": "unnecessary meetings",
+    "applies_to": "workers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Quit or leave jobs that don't serve your goals.",
+    "argued_against": "staying in unfulfilling work",
+    "applies_to": "employees",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "c09": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Adopt a growth mindset: believe abilities can be developed through effort.",
+    "argued_against": "the fixed mindset",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Praise effort and strategies rather than intelligence or talent.",
+    "argued_against": "praising intelligence",
+    "applies_to": "parents, teachers, coaches",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "See failure as an opportunity to learn, not a judgment of worth.",
+    "argued_against": "failure as identity",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Embrace challenges rather than avoiding them.",
+    "argued_against": "avoiding challenges",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Learn from criticism instead of becoming defensive.",
+    "argued_against": "defensiveness",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Find inspiration in others' success rather than feeling threatened.",
+    "argued_against": "envy",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Leaders should foster growth mindsets in organizations.",
+    "argued_against": "genius leadership",
+    "applies_to": "business leaders",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "In relationships, work through problems rather than blaming partners' traits.",
+    "argued_against": "fixed views of partners",
+    "applies_to": "couples",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Coaches should value effort, teamwork, and character over natural talent.",
+    "argued_against": "talent worship",
+    "applies_to": "coaches and athletes",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Teach children that the brain grows like a muscle with use.",
+    "argued_against": "fixed intelligence",
+    "applies_to": "students",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Hold high standards while giving students a nurturing atmosphere.",
+    "argued_against": "lowering standards",
+    "applies_to": "teachers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Make concrete plans for when, where, and how you will act on growth goals.",
+    "argued_against": "vague intentions",
+    "applies_to": "people trying to change",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Recognize your fixed mindset triggers and talk back to that voice.",
+    "argued_against": "fixed mindset persona",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Avoid labeling people as smart or dumb.",
+    "argued_against": "labeling",
+    "applies_to": "parents and teachers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Value the process of learning over proving yourself.",
+    "argued_against": "proving yourself repeatedly",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m16",
+    "advice": "Give constructive criticism that helps fix things without labeling.",
+    "argued_against": "labeling criticism",
+    "applies_to": "parents and teachers",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "c10": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Pursue less but better: focus only on what is essential.",
+    "argued_against": "the undisciplined pursuit of more",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Recognize that you always have the choice of what to do.",
+    "argued_against": "learned helplessness",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Understand that almost everything is nonessential; only a few things matter.",
+    "argued_against": "treating everything as important",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Accept trade-offs rather than trying to do everything.",
+    "argued_against": "having it all",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Create space to think and escape busyness.",
+    "argued_against": "constant busyness",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Protect sleep as an asset.",
+    "argued_against": "sleep sacrifice",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Use extreme criteria: if it's not a clear yes, it's a no.",
+    "argued_against": "accepting mediocre opportunities",
+    "applies_to": "decision-makers",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Say no gracefully to nonessential requests.",
+    "argued_against": "people-pleasing",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Clarify your essential intent: concrete and inspirational.",
+    "argued_against": "vague mission statements",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Uncommit: cut losses on projects despite sunk costs.",
+    "argued_against": "sunk cost fallacy",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Edit your life, removing extras to clarify.",
+    "argued_against": "clutter",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Set boundaries to protect what matters.",
+    "argued_against": "boundary-less living",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Build buffers for unexpected events.",
+    "argued_against": "overly optimistic planning",
+    "applies_to": "planners",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Remove obstacles that slow progress.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Celebrate small wins and build progress.",
+    "argued_against": "large single pushes",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Design routines for essential tasks.",
+    "argued_against": "relying on willpower",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Focus on the present moment and what's important now.",
+    "argued_against": "multi-focusing",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Play to stimulate creativity.",
+    "argued_against": "seeing play as trivial",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Ask what is essential and eliminate the rest.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m20",
+    "advice": "Avoid the paradox of success, where success leads to distraction.",
+    "argued_against": "the clarity-to-distraction cycle",
+    "applies_to": "successful people",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "i1": {
+  "knowledge_basis": "unknown",
+  "entries": []
+ },
+ "i2": {
+  "knowledge_basis": "unknown",
+  "entries": []
+ },
+ "i3": {
+  "knowledge_basis": "unknown",
+  "entries": []
+ }
+}
