@@ -14,3 +14,4 @@
 {"label": "recall_00", "agent": "a0a40f3d7fd9efa1e", "model": "claude-opus-5-5", "context_tokens": 60724, "output_tokens": 17149, "total": 77873, "note": ""}
 {"label": "condense_01", "agent": "afdf9b0fa749a893d", "model": "claude-sonnet-5-5", "context_tokens": 80917, "output_tokens": 31801, "total": 112718, "note": ""}
 {"label": "condense_00", "agent": "aff8431fc6379ef52", "model": "claude-sonnet-5-5", "context_tokens": 89195, "output_tokens": 26136, "total": 115331, "note": ""}
+{"label": "statements_00", "agent": "a9ba71a00a398a8ed", "model": "claude-opus-5-5", "context_tokens": 72996, "output_tokens": 9363, "total": 82359, "note": ""}

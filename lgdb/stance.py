@@ -273,7 +273,7 @@ def _dossier_text(ents: list[dict]) -> str:
 def coding_prompt(rater: str, row: dict, stmts: list[dict]) -> str:
     order = list(stmts)
     random.Random(f"{SEED}-{rater}-{row['row']}").shuffle(order)
-    tpl = prompt("S4_stance_r1" if rater == "r1" else "S4_stance_r2")
+    tpl = prompt("S4a" if rater == "r1" else "S4b")
     return render(tpl, {"DOSSIER": _dossier_text(row["entries"]),
                         "STATEMENTS": "\n".join(f"{s['sid']}. {s['statement']}" for s in order)})
 
