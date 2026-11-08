@@ -1,0 +1,212 @@
+[
+ {
+  "row": "D01",
+  "book": "worldly_wisdom",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D02",
+  "book": "c10",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D03",
+  "book": "meditations",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D04",
+  "book": "null2",
+  "source": "null",
+  "group": "null"
+ },
+ {
+  "row": "D05",
+  "book": "analects",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D06",
+  "book": "buddha_dhamma",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D07",
+  "book": "analects",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D08",
+  "book": "vemana",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D09",
+  "book": "c01",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D10",
+  "book": "gita",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D11",
+  "book": "republic",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D12",
+  "book": "ramcharitmanas",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D13",
+  "book": "c05",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D14",
+  "book": "republic",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D15",
+  "book": "gita",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D16",
+  "book": "c07",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D17",
+  "book": "c02",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D18",
+  "book": "ramcharitmanas",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D19",
+  "book": "null1",
+  "source": "null",
+  "group": "null"
+ },
+ {
+  "row": "D20",
+  "book": "vivekachudamani",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D21",
+  "book": "c03",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D22",
+  "book": "worldly_wisdom",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D23",
+  "book": "i2",
+  "source": "memory",
+  "group": "invented"
+ },
+ {
+  "row": "D24",
+  "book": "c09",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D25",
+  "book": "c08",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D26",
+  "book": "c06",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D27",
+  "book": "meditations",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D28",
+  "book": "i3",
+  "source": "memory",
+  "group": "invented"
+ },
+ {
+  "row": "D29",
+  "book": "vemana",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D30",
+  "book": "vivekachudamani",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D31",
+  "book": "xiaojing",
+  "source": "text",
+  "group": "classic"
+ },
+ {
+  "row": "D32",
+  "book": "c04",
+  "source": "memory",
+  "group": "modern"
+ },
+ {
+  "row": "D33",
+  "book": "i1",
+  "source": "memory",
+  "group": "invented"
+ },
+ {
+  "row": "D34",
+  "book": "xiaojing",
+  "source": "memory",
+  "group": "classic"
+ },
+ {
+  "row": "D35",
+  "book": "buddha_dhamma",
+  "source": "memory",
+  "group": "classic"
+ }
+]

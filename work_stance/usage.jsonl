@@ -15,3 +15,7 @@
 {"label": "condense_01", "agent": "afdf9b0fa749a893d", "model": "claude-sonnet-5-5", "context_tokens": 80917, "output_tokens": 31801, "total": 112718, "note": ""}
 {"label": "condense_00", "agent": "aff8431fc6379ef52", "model": "claude-sonnet-5-5", "context_tokens": 89195, "output_tokens": 26136, "total": 115331, "note": ""}
 {"label": "statements_00", "agent": "a9ba71a00a398a8ed", "model": "claude-opus-5-5", "context_tokens": 72996, "output_tokens": 9363, "total": 82359, "note": ""}
+{"label": "reverse_00", "agent": "a56b57fc7016a6c84", "model": "claude-opus-5-5", "context_tokens": 54147, "output_tokens": 1935, "total": 56082, "note": ""}
+{"label": "audit_S4", "agent": "a604dc1addd1a4bc9", "model": "claude-opus-5-5", "context_tokens": 56000, "output_tokens": 1664, "total": 57664, "note": ""}
+{"label": "audit_S4", "agent": "a49caf2c0d98bdbc2", "model": "claude-sonnet-5-5", "context_tokens": 56006, "output_tokens": 1666, "total": 57672, "note": ""}
+{"label": "audit_S4", "agent": "ac6c8f509cf19c435", "model": "claude-haiku-5-5", "context_tokens": 56179, "output_tokens": 2943, "total": 59122, "note": ""}

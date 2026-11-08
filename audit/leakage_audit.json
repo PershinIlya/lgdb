@@ -167,6 +167,17 @@
    ],
    "verdict": "exempt",
    "exemption": "construct-inherent leak, as P5: asking for the opposite reveals interest in opposition. Bounded: one separate agent writes reversals and never codes; reversed statements are shuffled into the coding list and used only for the acquiescence check (criterion 4)."
+  },
+  "S4_stance": {
+   "rounds": 1,
+   "date": "2026-11-08",
+   "method": "S4a filled with a real text dossier (no title) and 25 real pool statements, so the audit also covers a sample of statements; S4b is a paraphrase of S4a and was not audited separately",
+   "core_models": [],
+   "borderline": [
+    "opus rank 3 p=0.4: real overlap on themes alongside clear contrasts between books on faith, ritual, family duty"
+   ],
+   "verdict": "pass",
+   "note": "top guesses: over-attribution of A/B to unaddressed statements; recognition of the book from its notes (opus named the book from the dossier); missed implicit opposition"
   }
  }
 }
