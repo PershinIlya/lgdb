@@ -23,7 +23,7 @@ Ordinary subagents receive this CLAUDE.md (it states the hypothesis); renaming t
 - 35 rows (10 classics text + memory, 10 modern memory, 3 invented, 2 null) x 148 statements (108 pool + 40 reversed), R1 sonnet, R2 opus, haiku tie-break (2 cells). Results in work_stance/criteria.json.
 - Automatic criteria 1, 3, 4, 5, 6 pass (alpha interval 0.85, nominal 0.74; reversal both-A 0%; controls 100% uncoded; memory vs text sign 0.985). Caveats: negative share 47% overall but 10.8% on advised statements; criticized-pole statements are strawmen (99% B). First SVD component on all statements = coverage (R2 0.88); on 27 two-sided statements it is not (R2 0.08). Invented books answered "unknown", so their rows test recall only. Opus recognized a book from its dossier in the S4 audit.
 - Criterion 2 waits for the researcher: 40 blind cells at https://claude.ai/artifact/7hGxwQNXv4b6Gvt2btxFyG (db collection "gold"; score with tools/gold_form.py score). Criterion 7: no leakage guess named poles or trade-offs in top-2 for S1-S4.
-- Pilot spent about 2.3M tokens (work_stance/usage.jsonl).
+- Pilot spent about 2.5M tokens (work_stance/usage.jsonl).
 
 ## Not in git
 Ambedkar text (US copyright), downloaded sources (python run.py fetch restores them), cache/, pilot fragments.
