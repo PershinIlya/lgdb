@@ -29,7 +29,7 @@ BATCH_DIR = Path(os.environ.get("LGDB_BATCH_DIR", str(Q)))
 MODELS = {"opus": "claude-opus-5-5", "sonnet": "claude-sonnet-5-5", "haiku": "claude-haiku-5-5"}
 STAGE_MODEL = {"recall": "opus", "condense": "sonnet", "statements": "opus", "reverse": "opus", "tie": "haiku"}
 RATERS = {"r1": "sonnet", "r2": "opus"}
-TASK_RE = re.compile(r"<<<KEY ([0-9a-f]{64})>>>\s*(.*?)\s*<<<END>>>", re.S)
+TASK_RE = re.compile(r"<<<KEY ([0-9a-f]{64})>>>\s*(.*?)\s*(?:<<<END>*|(?=<<<KEY)|\Z)", re.S)
 
 
 def q(short: str) -> QueueLLM:

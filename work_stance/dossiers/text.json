@@ -1,0 +1,3078 @@
+{
+ "analects": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Love learning and pursue it eagerly, even if you are dull or naturally active, and pair every virtue with a love of learning.",
+    "applies_to": "students; all people, including the dull",
+    "conditions": "none",
+    "argued_against": "loving a virtue without loving learning; staying dull and not learning",
+    "notes": [
+     27,
+     36,
+     47,
+     103,
+     115,
+     141,
+     142
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Learn widely, seek the one principle behind it, inquire earnestly, ask even your inferiors, take others as teachers, reflect, and put learning to practical use.",
+    "applies_to": "learners, students, officials",
+    "conditions": "officers should study in leisure; students who finish learning should take office",
+    "argued_against": "merely memorizing many things; shame at learning from inferiors; minor studies carried to remote ends; learning without practical ability",
+    "notes": [
+     5,
+     31,
+     52,
+     72,
+     86,
+     87,
+     88,
+     89,
+     95,
+     104,
+     143,
+     146,
+     151,
+     158
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Study the old poetry and the rules of propriety to arouse the mind, establish character and finish the self.",
+    "applies_to": "young people and students",
+    "conditions": "none",
+    "argued_against": "neglecting the study of poetry and propriety",
+    "notes": [
+     33,
+     37,
+     160
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Think ahead and ask yourself what to make of a matter; be cautious in speech and action, admit what you do not know, and do not overthink.",
+    "applies_to": "students and all people, including those seeking official position",
+    "conditions": "set aside doubtful or perilous points; thinking twice is enough",
+    "argued_against": "thoughtlessness; lack of foresight; claiming knowledge one lacks",
+    "notes": [
+     11,
+     15,
+     69,
+     107,
+     120,
+     121,
+     122,
+     156
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Rulers should lead by their own correct, serious, consistent example, be humble, free of greed and fond of propriety and good faith, and avoid killing.",
+    "applies_to": "rulers and officials",
+    "conditions": "ease in small matters allowed if attention to business is revered",
+    "argued_against": "incorrect conduct and covetousness in rulers; killing in government; licentious songs and specious talkers; easy-going rule",
+    "notes": [
+     3,
+     10,
+     50,
+     51,
+     54,
+     55,
+     56,
+     67,
+     71,
+     105,
+     119,
+     124
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Promote upright, virtuous and talented people to office and set aside the crooked; do not hide worthy people you know.",
+    "applies_to": "rulers and officials who know worthy men",
+    "conditions": "start with those you know",
+    "argued_against": "employing the crooked; an official who holds his post like a thief and does not recommend a worthy man",
+    "notes": [
+     13,
+     64,
+     68,
+     123
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Treat relatives, great ministers and old families fairly, do not demand all talents of one man, and keep a grave, sincere manner in high station.",
+    "applies_to": "princes, rulers and those in high station",
+    "conditions": "old families may be dismissed only for some great cause",
+    "argued_against": "neglecting relatives and old friends; ignoring ministers; dismissing old families without cause; demanding all talents of one man",
+    "notes": [
+     77,
+     78,
+     79,
+     80,
+     155,
+     157
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Enrich the people first and then teach them; do not burden them with heavy taxes that only enrich the already wealthy.",
+    "applies_to": "rulers and officials serving rich families",
+    "conditions": "teaching comes after the people have been enriched",
+    "argued_against": "collecting taxes to increase an already rich lord's wealth",
+    "notes": [
+     46,
+     73,
+     74
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Win the confidence of the people before imposing labors on them, and win your ruler's confidence before you remonstrate with him.",
+    "applies_to": "rulers and ministers",
+    "conditions": "only after confidence has been gained",
+    "argued_against": "imposing labor or remonstrating without trust",
+    "notes": [
+     92,
+     93
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Serve your ruler according to what is right and with faithfulness, retire if you cannot, and still take office; hide your wisdom in disorder.",
+    "applies_to": "ministers and superior men",
+    "conditions": "act foolish when the country is in disorder and wisely when order prevails; right principles may fail to progress",
+    "argued_against": "mere ministers who serve regardless of right; withdrawing from office to keep personal purity",
+    "notes": [
+     42,
+     75,
+     118,
+     136
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Help the distressed, do not add to the wealth of the rich, and do not decline a salary; share it with neighbors.",
+    "applies_to": "superior men and officials",
+    "conditions": "none",
+    "argued_against": "giving to the already rich",
+    "notes": [
+     116,
+     117
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Demand much of yourself and little of others, be concerned about your own lack of ability rather than recognition, and act well at every stage of life.",
+    "applies_to": "superior men and all people; young, mature and old",
+    "conditions": "none",
+    "argued_against": "seeking recognition from others; looking to others; disrespect in youth, achieving nothing in manhood, uselessly lingering in old age",
+    "notes": [
+     2,
+     14,
+     18,
+     19
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Recognize your own faults, do not gloss over them, change them openly, welcome correction, and attack your own wickedness rather than others'.",
+    "applies_to": "all people, superior men, students",
+    "conditions": "none",
+    "argued_against": "leaving faults unreformed; glossing over faults; assailing the wickedness of others",
+    "notes": [
+     26,
+     60,
+     90,
+     91,
+     114,
+     149
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Do not do to others what you do not want done to yourself.",
+    "applies_to": "all people; a rule for all of life",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     22,
+     102
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Love and know all people, honor the talented and virtuous, bear with all, pity the incompetent, give rest to the aged, treat the young tenderly, and perfect others' good qualities.",
+    "applies_to": "all people, students, superior men",
+    "conditions": "none",
+    "argued_against": "associating only with those who can benefit you; perfecting others' bad qualities; pride in one's skill when judging an accused",
+    "notes": [
+     53,
+     62,
+     63,
+     85,
+     97,
+     113
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Judge people by their conduct and examination, not by words, appearances or popular opinion alone, and do not praise or blame beyond what is proper.",
+    "applies_to": "all people and superior men",
+    "conditions": "examine the case yourself when the crowd likes or hates someone",
+    "argued_against": "judging by words alone or speaker alone; accepting popular opinion unexamined; excessive praise or blame",
+    "notes": [
+     21,
+     23,
+     25,
+     49,
+     57,
+     100
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Be forbearing in small matters and do not dwell on, blame or remember others' past wrongs; receive people who come to you in good faith.",
+    "applies_to": "all people; teachers",
+    "conditions": "none",
+    "argued_against": "impatience over small matters; dwelling on and blaming past matters",
+    "notes": [
+     24,
+     109,
+     138,
+     147
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Be sincere and truthful, make righteousness the core of everything, do what you see is right, and carry out in conduct what you profess.",
+    "applies_to": "students, superior men, everyone",
+    "conditions": "practice righteousness with propriety and humility, and complete it with sincerity",
+    "argued_against": "insincere words and dishonorable, careless actions; seeing what is right and not doing it",
+    "notes": [
+     1,
+     6,
+     17,
+     28,
+     35,
+     59,
+     126,
+     128,
+     144,
+     150,
+     154
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Do not put on a false appearance: avoid pretended firmness, flattery, fine words, hidden resentment, false uprightness, pleasing everyone, and pretending to have what you lack.",
+    "applies_to": "all people, officers and scholars",
+    "conditions": "none",
+    "argued_against": "hypocrisy, seeking notoriety, insinuating manners, being a merely agreeable villager",
+    "notes": [
+     38,
+     39,
+     58,
+     110,
+     111,
+     112,
+     145
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Love virtue more than beauty, wealth or reputation, pursue good tirelessly, find joy in simple living, and think of righteousness when gain is offered.",
+    "applies_to": "all people and scholars",
+    "conditions": "none",
+    "argued_against": "loving beauty more than virtue; valuing wealth over virtue; riches and honors gained unrighteously",
+    "notes": [
+     12,
+     30,
+     32,
+     82,
+     84,
+     140,
+     148
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "Be ready to sacrifice your life rather than injure virtue or when danger threatens, and take up virtue as a burden carried until death.",
+    "applies_to": "scholars and officers; the man of virtue",
+    "conditions": "none",
+    "argued_against": "living at the expense of virtue",
+    "notes": [
+     8,
+     81,
+     159
+    ]
+   },
+   {
+    "id": "t22",
+    "advice": "Endure poverty with composure and contentment rather than distress, and do not place yourself in a low, disreputable position.",
+    "applies_to": "the superior man in want",
+    "conditions": "none",
+    "argued_against": "the mean man who gives way to license and distress in poverty; dwelling in a low position",
+    "notes": [
+     4,
+     98,
+     153
+    ]
+   },
+   {
+    "id": "t23",
+    "advice": "Master your passions: when angry think of the consequences, do not act on sudden anger, do not displace anger, and do not hate the unvirtuous extremely.",
+    "applies_to": "superior men, students, all people",
+    "conditions": "none",
+    "argued_against": "acting on anger or greed without thought; being ruled by passions; daring while discontent with poverty",
+    "notes": [
+     29,
+     61,
+     101,
+     161
+    ]
+   },
+   {
+    "id": "t24",
+    "advice": "Keep to the due mean: avoid excess and deficiency, keep latitude only in small virtues, be sparing in ceremony, and restrain over-haste.",
+    "applies_to": "disciples, students, all people",
+    "conditions": "latitude in small virtues only if great virtues are kept",
+    "argued_against": "excess and deficiency; extravagance in festivities; excess in mourning beyond grief; ambition and haste",
+    "notes": [
+     41,
+     94,
+     96,
+     108,
+     130,
+     137
+    ]
+   },
+   {
+    "id": "t25",
+    "advice": "Keep traditional ceremonies and show respect and sincere reverence in rites, mourning and sacrifice, without usurping ceremonies above your station, and place humaneness before rites.",
+    "applies_to": "all people, scholars, officials",
+    "conditions": "ask about everything when unsure of the rules; respect applies even toward acquaintances",
+    "argued_against": "dropping ceremonies to save cost; performing rites without humaneness; family heads using royal ceremonies; the latter-day style",
+    "notes": [
+     45,
+     48,
+     83,
+     129,
+     132,
+     134,
+     135,
+     139
+    ]
+   },
+   {
+    "id": "t26",
+    "advice": "Learn to serve people and understand life before serving spirits or understanding death, do not sacrifice to spirits not your own, and do not offend the highest power.",
+    "applies_to": "disciples and all people",
+    "conditions": "none",
+    "argued_against": "preoccupation with spirits and death; sacrificing to spirits not one's own; courting lesser powers instead of the highest",
+    "notes": [
+     43,
+     127,
+     133
+    ]
+   },
+   {
+    "id": "t27",
+    "advice": "Make friends of the virtuous, serve under worthy officers, meet friends on grounds of culture, admonish friends faithfully but stop if hopeless, and keep respect for old friends.",
+    "applies_to": "students and friends",
+    "conditions": "stop admonishing if the friend proves impracticable",
+    "argued_against": "none",
+    "notes": [
+     9,
+     65,
+     66,
+     106
+    ]
+   },
+   {
+    "id": "t28",
+    "advice": "Fulfil family duties: be filial and brotherly, keep a reserve toward your son, and honor your father by continuing his ministers and mode of government.",
+    "applies_to": "sons, heirs, parents",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     34,
+     99,
+     125
+    ]
+   },
+   {
+    "id": "t29",
+    "advice": "Speak to those who can be spoken with, avoid idle talk and hearsay, and use words correctly so that what you say can be carried out.",
+    "applies_to": "all people, rulers, superior men",
+    "conditions": "depends on whether the person can be spoken with",
+    "argued_against": "wasted words; talk that never turns to righteousness; small shrewdness; repeating what you heard on the road",
+    "notes": [
+     7,
+     16,
+     40,
+     70
+    ]
+   },
+   {
+    "id": "t30",
+    "advice": "Be dignified without wrangling and sociable without faction, avoid contention, stay flexible with no fixed course for or against, and match advice to temperament.",
+    "applies_to": "superior men, disciples, students of virtue",
+    "conditions": "urge the slow forward and hold the energetic back",
+    "argued_against": "wrangling, partisanship, contentiousness, rigid fixed courses, insubordination",
+    "notes": [
+     20,
+     44,
+     76,
+     131,
+     152
+    ]
+   }
+  ]
+ },
+ "gita": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Do not give way to weakness or despondency; rise up, be bold and fight your battle.",
+    "applies_to": "the warrior facing battle",
+    "conditions": "none",
+    "argued_against": "weakness and pity-driven despondency",
+    "notes": [
+     1,
+     54,
+     65,
+     88
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Do not grieve for the living or the dead; the spirit cannot be slain, so learn the truth that life is indestructible and distinguish spirit from matter.",
+    "applies_to": "the warrior, the wise, all readers",
+    "conditions": "none",
+    "argued_against": "grieving where no grief is due; fearing death; thinking you kill or are killed",
+    "notes": [
+     2,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Bear sorrow and joy, heat and cold, praise and blame with strong, constant calm, regarding friend and foe alike.",
+    "applies_to": "the warrior and all people",
+    "conditions": "none",
+    "argued_against": "being swayed by sense experience, praise and dispraise",
+    "notes": [
+     3,
+     8,
+     37,
+     38,
+     71
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Master your senses, passion, lust and anger, overcome ignorance and sloth, and seek lasting inner contentment over sensual pleasure.",
+    "applies_to": "all readers",
+    "conditions": "mastery is achieved even while living in the body",
+    "argued_against": "lust, passion, sloth, ignorance, anger, pleasure from sense contact and sin",
+    "notes": [
+     7,
+     47,
+     48,
+     52,
+     72,
+     73,
+     87
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Cut the roots of sense-life with detachment; cultivate humility and truthfulness, love solitude and shun foolish crowds and attachment to home.",
+    "applies_to": "all readers",
+    "conditions": "none",
+    "argued_against": "clinging to sense-life, passion, home, family and crowds",
+    "notes": [
+     10,
+     40
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Cultivate fearlessness, charity, tenderness, patience, purity and truthfulness, and harm no living thing, free of wrath, revenge, pride and arrogance.",
+    "applies_to": "all readers",
+    "conditions": "none",
+    "argued_against": "wrath, revenge, self-esteem, hatred, faultfinding, arrogance",
+    "notes": [
+     12,
+     36
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Worship the deity with single, whole-hearted faith, make it your supreme joy and refuge, and keep your heart and mind fixed on it always.",
+    "applies_to": "believers; all people, including those of low birth, women and sinners",
+    "conditions": "none",
+    "argued_against": "treating this fleeting world as the object of faith; the unenlightened who do not perceive the spirit",
+    "notes": [
+     9,
+     11,
+     13,
+     14,
+     15,
+     17,
+     18,
+     30,
+     32,
+     55,
+     57,
+     93
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Do everything, including eating, giving and praying, for the deity, as its own, offering even simple gifts in faith and love.",
+    "applies_to": "the addressee and devotees",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     26,
+     27,
+     29,
+     31,
+     53
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Do your duty without attachment or desire for the results, giving up the fruit of action and staying calm in success and failure.",
+    "applies_to": "warriors and all readers",
+    "conditions": "the action must be an enjoined one",
+    "argued_against": "action driven by desire and egoism; seeking a fruit from works",
+    "notes": [
+     39,
+     43,
+     45,
+     68,
+     69,
+     80,
+     84,
+     90
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Do your own appointed work diligently, even if flawed, rather than another's work done well, and never abandon your natural duty.",
+    "applies_to": "every person according to nature and station",
+    "conditions": "none",
+    "argued_against": "doing others' work; abandoning duty because it brings blame",
+    "notes": [
+     49,
+     50,
+     51,
+     86,
+     89
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Keep working rightly rather than ceasing from action; do not abstain from work that keeps the world turning.",
+    "applies_to": "all readers",
+    "conditions": "none",
+    "argued_against": "selfish, idle, sense-gratifying life",
+    "notes": [
+     67,
+     79
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Act to uphold others and set an example, and let the enlightened work without unsettling the untaught.",
+    "applies_to": "leaders and the enlightened",
+    "conditions": "none",
+    "argued_against": "unsettling the unenlightened who are still bound to action",
+    "notes": [
+     81,
+     82,
+     83
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "If you cannot fix your mind on the deity, do not despair: fall back to lower service and works pleasing to it, then to giving up the fruits of labor.",
+    "applies_to": "devotees too weak for constant steadfast worship",
+    "conditions": "each step applies only if the previous one proves too hard",
+    "argued_against": "none",
+    "notes": [
+     33,
+     34
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "See one living soul and one changeless life in all beings, and love all alike, friends, strangers and enemies.",
+    "applies_to": "all readers",
+    "conditions": "none",
+    "argued_against": "seeing separate existences as real; narrow clinging to one thing",
+    "notes": [
+     41,
+     42,
+     74
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Seek true knowledge with reverence and humble inquiry of teachers, cut doubt with wisdom, and cultivate an intellect that knows what to do and avoid.",
+    "applies_to": "the prince and all readers",
+    "conditions": "none",
+    "argued_against": "doubt, ignorance, intellect that sees wrong as right, heedless action",
+    "notes": [
+     44,
+     46,
+     62,
+     63,
+     64,
+     70,
+     91,
+     95
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Count even a person of evil life among the good once he turns wholeheartedly to the deity.",
+    "applies_to": "anyone of evil life, of any birth, sex or caste",
+    "conditions": "the person must turn wholeheartedly to the deity",
+    "argued_against": "judging a repentant sinner as still evil",
+    "notes": [
+     16
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "At the hour of death, meditate on the deity alone, shutting the senses and fixing breath and thought on it.",
+    "applies_to": "believers and the yogi at death",
+    "conditions": "none",
+    "argued_against": "meditating on anything else at death, which leads to that other thing",
+    "notes": [
+     19,
+     21
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Worship the deity alone, with no other gods, and do not rely on rituals, gifts, penance or sacrifice for rewards in paradise.",
+    "applies_to": "believers and the yogi",
+    "conditions": "none",
+    "argued_against": "worshipping other gods; ritual done for heaven's wage; vain hopes, deeds and knowledge; reliance on rites and written duties",
+    "notes": [
+     20,
+     22,
+     24,
+     25,
+     28,
+     58,
+     94
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Practice meditation sitting apart in a calm, still spot with controlled thoughts, and be moderate in eating, resting and sport.",
+    "applies_to": "the practitioner",
+    "conditions": "use a spot neither too high nor too low, with a cloth, deerskin and grass",
+    "argued_against": "too much fasting, feasting, sleeping or keeping vigils",
+    "notes": [
+     76,
+     77
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Have faith and do not doubt, receive the teaching with faith, and meditate on it before acting as you choose.",
+    "applies_to": "the addressee",
+    "conditions": "none",
+    "argued_against": "doubt, lack of faith and fear",
+    "notes": [
+     23,
+     56,
+     66
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "Share the teaching only among faithful devotees, not with those who lack faith or mock, and read or hear it piously.",
+    "applies_to": "devotees and readers",
+    "conditions": "none",
+    "argued_against": "unbelievers, non-worshippers and mockers",
+    "notes": [
+     59,
+     60,
+     61
+    ]
+   },
+   {
+    "id": "t22",
+    "advice": "Raise yourself by your own soul and do not trample down yourself.",
+    "applies_to": "each person",
+    "conditions": "none",
+    "argued_against": "hating oneself",
+    "notes": [
+     75
+    ]
+   },
+   {
+    "id": "t23",
+    "advice": "Value worship above knowing, and renunciation above worship.",
+    "applies_to": "readers",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     35
+    ]
+   },
+   {
+    "id": "t24",
+    "advice": "Keep the divine ordinance and perform some sacrifice, sharing what remains rather than feasting for yourself alone.",
+    "applies_to": "believers",
+    "conditions": "none",
+    "argued_against": "disregarding the ordinance thinking you know better; making no sacrifice; feasting for oneself alone",
+    "notes": [
+     78,
+     85,
+     92
+    ]
+   }
+  ]
+ },
+ "vivekachudamani": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Discriminate the real nature of the Self and realize it directly through a stilled, purified mind and meditation, shaking off self-made delusion.",
+    "applies_to": "disciples and seekers of liberation",
+    "conditions": "requires a regulated mind and purified intellect",
+    "argued_against": "delusion created by one's own mind; taking the objective world as oneself",
+    "notes": [
+     1,
+     2,
+     24,
+     35,
+     37,
+     38,
+     41
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Seek realization of your identity with the ultimate reality, since liberation comes by no other means.",
+    "applies_to": "seekers of liberation",
+    "conditions": "none",
+    "argued_against": "seeing oneself as the body; relying on yoga, philosophy, work or learning alone",
+    "notes": [
+     3,
+     10
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "See the entire universe as nothing but the one reality, and not as separate from it.",
+    "applies_to": "disciples and readers",
+    "conditions": "none",
+    "argued_against": "seeing the world as separate from the ultimate reality",
+    "notes": [
+     18,
+     42,
+     49
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Do not identify yourself with the body, mind or objective universe; know the Self is untouched by them and the knower is never the object known.",
+    "applies_to": "seekers of liberation",
+    "conditions": "none",
+    "argued_against": "treating the body as real and nourishing it with sense-objects; thinking 'I am the doer', 'I am killed'",
+    "notes": [
+     17,
+     25,
+     26,
+     32,
+     33,
+     54,
+     61
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Do not cling to unreal things or the dream-world of appearances, and keep your thoughts on the Self.",
+    "applies_to": "seekers of liberation",
+    "conditions": "none",
+    "argued_against": "clinging to the unreal world",
+    "notes": [
+     4,
+     19,
+     55,
+     56
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Give up craving and attachment for sense-pleasures, which are like poison, and never wander into the forest of sense pleasures.",
+    "applies_to": "seekers of liberation",
+    "conditions": "none",
+    "argued_against": "sense pleasures",
+    "notes": [
+     6,
+     30,
+     53,
+     58
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Destroy egoism at once, giving it no respite through thoughts of sense-objects, and stay quiet and free from duality.",
+    "applies_to": "seekers and yogis",
+    "conditions": "none",
+    "argued_against": "egoism and thinking on sense-objects",
+    "notes": [
+     36,
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Renounce selfish actions and burn away thought of sense-objects to break the chain of rebirth.",
+    "applies_to": "seekers and the renunciant",
+    "conditions": "the actions renounced are those done with selfish motives",
+    "argued_against": "attachment to sense-objects",
+    "notes": [
+     47,
+     48,
+     60
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Avoid lust, anger, greed, arrogance, spite, envy and jealousy, and give up pride of caste, family and station.",
+    "applies_to": "all seekers",
+    "conditions": "none",
+    "argued_against": "lust, anger, avarice, arrogance, spite, envy, pride of caste",
+    "notes": [
+     27,
+     31
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Stay the same in mind whether honored or tormented, and be neither grieved nor elated by, attached to, nor averse to sense-objects; stay dispassionate.",
+    "applies_to": "seekers aspiring to liberation in life",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     5,
+     23,
+     28
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Be satisfied with the bliss of the Self and live happily in it, drinking joyfully of it with senses restrained.",
+    "applies_to": "disciples and seekers",
+    "conditions": "held with steady body and restrained senses",
+    "argued_against": "dualistic conceptions; seeking happiness in other things",
+    "notes": [
+     20,
+     21,
+     22,
+     34
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Abide in faith, devotion and meditation, never be careless in your steadfastness, and carefully concentrate the mind.",
+    "applies_to": "seekers and knowers; those with remaining past-action residue",
+    "conditions": "keep meditating watchfully while any residue of past action remains",
+    "argued_against": "ignorance and carelessness about one's real nature",
+    "notes": [
+     8,
+     29,
+     50,
+     51,
+     52
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Learn from a knower of the truth, listen attentively, then reflect and meditate yourself, deciding for yourself what is Self and not-Self.",
+    "applies_to": "disciples and seekers",
+    "conditions": "none",
+    "argued_against": "perverted argumentation",
+    "notes": [
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Do not get lost in scripture or repeating a word; seek direct realization of the Self.",
+    "applies_to": "the wise and seekers",
+    "conditions": "none",
+    "argued_against": "scriptural erudition, mere verbal repetition, perverted argument",
+    "notes": [
+     11,
+     12
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Strive personally and by every means to be free from repeated birth and death.",
+    "applies_to": "the wise",
+    "conditions": "none",
+    "argued_against": "relying on others for liberation",
+    "notes": [
+     9
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Give up fear; a means of crossing the sea of relative existence exists.",
+    "applies_to": "the qualified disciple",
+    "conditions": "the seeker has sought refuge, thirsts for liberation, obeys scripture and has a pacified mind",
+    "argued_against": "none",
+    "notes": [
+     7
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Eliminate the objective world by reasoning and see the oneness of the individual and the supreme, using rejection and retention of meanings together.",
+    "applies_to": "seekers",
+    "conditions": "neither wholesale rejection nor wholesale retention works",
+    "argued_against": "wholesale rejection or retention of terms",
+    "notes": [
+     39,
+     40
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Help others out of trouble without any motive, as the good and magnanimous do.",
+    "applies_to": "the magnanimous",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     16
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Strengthen discrimination and renunciation first, and carefully purify the mind.",
+    "applies_to": "seekers of liberation",
+    "conditions": "none",
+    "argued_against": "a mind tainted by restless and dull qualities",
+    "notes": [
+     57,
+     59
+    ]
+   }
+  ]
+ },
+ "meditations": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Remember that outside things cannot touch the soul; disturbance and the sense of harm come only from your own opinion, so drop the opinion.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "blaming external things; the complaint of having been harmed",
+    "notes": [
+     2,
+     7,
+     32,
+     55,
+     113,
+     123
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Locate good and evil only in your own acts and what is in your power, and confine desires and aversions to that.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "treating outside things as good or evil; blaming the deity or others; loving fame or pleasure",
+    "notes": [
+     22,
+     31,
+     76,
+     88,
+     114
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Keep in mind that everything changes and passes quickly, that life is brief against boundless time, and that all things recur.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "pursuing and avoiding things as if eternal; being puffed up by passing things; pride in human things",
+    "notes": [
+     3,
+     27,
+     49,
+     59,
+     60,
+     67,
+     72,
+     78,
+     85,
+     100,
+     104,
+     128,
+     129
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Do not fear or despise death; it is a natural process at its proper time, so wait for it calmly and be content with your span.",
+    "applies_to": "all people",
+    "conditions": "leave life calmly only if others do not permit you to live as you choose",
+    "argued_against": "shame at death; fear of death; discontent with the length of life",
+    "notes": [
+     5,
+     29,
+     63,
+     69,
+     105,
+     117,
+     134
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Do not value fame or repute, do not seek posthumous praise, and do not rank others' opinion of you above your own.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "desire for posthumous fame; seeking happiness in others' opinions; wanting all men to praise you",
+    "notes": [
+     15,
+     43,
+     64,
+     79,
+     136
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Accept with contentment whatever happens in the order of nature, receive it as given, and follow it willingly.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "discontent with what happens; being surprised by events",
+    "notes": [
+     17,
+     24,
+     40,
+     57,
+     89,
+     97,
+     103,
+     109,
+     132
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Blame nobody for what happens, do not grieve or resist it, and bear it since nature made you able to; do not make excuses.",
+    "applies_to": "all people",
+    "conditions": "applies to what happens in accord with nature",
+    "argued_against": "blaming the deity or others; grieving at what is appointed; ignorance and conceit; excuses",
+    "notes": [
+     51,
+     52,
+     66,
+     68,
+     82,
+     92,
+     99,
+     122
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Do not be angry at wrongdoers: expect wrongdoing, remember you err likewise and that all will soon be dead, and be benevolent even to the unjust.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "anger, hatred and resentment toward wrongdoers; expecting bad people not to do wrong; adopting a wrongdoer's opinions",
+    "notes": [
+     6,
+     9,
+     26,
+     36,
+     56,
+     70,
+     91,
+     96,
+     106,
+     116,
+     121,
+     130
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Correct wrongdoers by showing them their error if they are willing to listen; otherwise be indulgent toward them.",
+    "applies_to": "all people",
+    "conditions": "teach only if you are able and he is willing to listen; otherwise be indulgent",
+    "argued_against": "anger at others' faults",
+    "notes": [
+     71,
+     111,
+     127,
+     133
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Be just, truthful and modest in word and deed, do what is due, and do not do wrong, since the wrongdoer harms himself.",
+    "applies_to": "all people",
+    "conditions": "if it is not right or true, do not do or say it",
+    "argued_against": "injustice including by omission; hypocrisy; lying; luxury; pride; assenting to what is false",
+    "notes": [
+     8,
+     53,
+     75,
+     84,
+     86,
+     107,
+     108,
+     119,
+     135
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Be good today and do not delay; act as if each act were your last, with dignity, simplicity and no regret.",
+    "applies_to": "all people",
+    "conditions": "while you live and it is in your power",
+    "argued_against": "procrastination; acting as if you would live 10,000 years; carelessness, hypocrisy, self-love, discontent",
+    "notes": [
+     13,
+     41,
+     42,
+     62,
+     74,
+     80,
+     83,
+     101
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Regard yourself as part of a human community governed by common reason; direct your actions to the common good and do only what is necessary.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "pursuing private good against the community; unnecessary acts and thoughts",
+    "notes": [
+     4,
+     18,
+     23,
+     25,
+     34,
+     54,
+     87,
+     94,
+     102,
+     112
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Cooperate with others, love those among whom you live sincerely, attend to what they say, and do not turn away from them in vexation.",
+    "applies_to": "all people",
+    "conditions": "as far as possible when entering a speaker's mind",
+    "argued_against": "insincere love; vexation and turning away from others",
+    "notes": [
+     20,
+     28,
+     33,
+     37,
+     125
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Live only in the present, which is your real life, and you will pass the rest free from perturbation.",
+    "applies_to": "readers",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     47
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Use your reason, observe your own mind, and return to your principles; keep the ruling faculty understanding, social and in your own power.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "a ruling faculty void of understanding, cut off from society or melted into the flesh",
+    "notes": [
+     11,
+     12,
+     21,
+     45,
+     65,
+     110,
+     126
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Do not look at what your neighbor says or does; look only to making your own acts just and pure, and examine others' guiding principles.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "looking around at others' depraved morals",
+    "notes": [
+     14,
+     115
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Turn every hindrance and misfortune into an aid and an occasion for becoming better, treating obstructors as indifferent like sun or wind.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     30,
+     48,
+     77,
+     124
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Do not treat pleasure as good; keep your mind undisturbed by bodily pleasure and pain without adding opinions of good or bad to sensations.",
+    "applies_to": "all people",
+    "conditions": "do not resist sensations",
+    "argued_against": "pursuing pleasure; adding opinions of good or bad to sensations; love of fame",
+    "notes": [
+     90,
+     93,
+     131
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Retire into your own small territory, stop distracting yourself, and fill your mind with good habitual thoughts; wherever you can live, you can live well.",
+    "applies_to": "all people; an old man",
+    "conditions": "none",
+    "argued_against": "distraction and strain; the thirst after books; aimless busyness",
+    "notes": [
+     1,
+     38,
+     44,
+     120
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Frequently consider the connection of all things and your small place in the whole, and act in accord with that nature.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     19,
+     46,
+     95,
+     118
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "Reverence the deity, be thankful for the good in your life, do not dispute the order of things, and wait for your end in tranquility doing good.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "disputing with the deity about the order of things",
+    "notes": [
+     35,
+     61,
+     137
+    ]
+   },
+   {
+    "id": "t22",
+    "advice": "Keep your principles ready at hand like a fighter who never drops his guard, and persevere until you have made them your own.",
+    "applies_to": "readers",
+    "conditions": "none",
+    "argued_against": "dropping principles like a gladiator dropping his sword",
+    "notes": [
+     50,
+     73
+    ]
+   },
+   {
+    "id": "t23",
+    "advice": "Change your opinion if corrected, but only through persuasion by justice or common advantage, not from pleasure or reputation.",
+    "applies_to": "all people",
+    "conditions": "change must come from persuasion by justice or common advantage",
+    "argued_against": "changing opinion for pleasure or reputation",
+    "notes": [
+     10,
+     98
+    ]
+   },
+   {
+    "id": "t24",
+    "advice": "Value understanding above worldly power, since the conquerors were slaves to many things.",
+    "applies_to": "readers",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     81
+    ]
+   },
+   {
+    "id": "t25",
+    "advice": "Do not let your ruling part be a puppet pulled by fear, desire or suspicion; whirling passions are weaker than the divine thing in you.",
+    "applies_to": "readers; an old man",
+    "conditions": "none",
+    "argued_against": "slavery to passion, discontent and fear; being whirled about",
+    "notes": [
+     16,
+     39,
+     58
+    ]
+   }
+  ]
+ },
+ "republic": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Follow truth always, hate a lie, and keep striving to grasp the real nature of each essence rather than resting in appearances.",
+    "applies_to": "the true lover of knowledge",
+    "conditions": "none",
+    "argued_against": "imposture, love of a lie, resting in the multiplicity of appearances",
+    "notes": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Those who need governing should go to one able to govern, and blame philosophers' apparent uselessness on those who will not use them.",
+    "applies_to": "citizens, rich or poor; the best students of philosophy",
+    "conditions": "none",
+    "argued_against": "the saying that the wise go to rich men's doors; present rulers likened to mutinous sailors",
+    "notes": [
+     3,
+     4
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Teach arithmetic and geometry for knowledge of the eternal, and study astronomy by reason, with the state directing and honoring these studies.",
+    "applies_to": "the lawgiver, the best natures, inhabitants of the city, the state",
+    "conditions": "geometry is taught as knowledge of what is eternal, not what perishes",
+    "argued_against": "treating geometry only as practical; studying the visible sky as such; government neglect and student conceit",
+    "notes": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Keep idle spendthrifts out of the city and cut them out quickly if they get in.",
+    "applies_to": "the lawgiver and every city",
+    "conditions": "cut them out if they have already got in",
+    "argued_against": "idle spendthrifts, stingless and stinging drones",
+    "notes": [
+     10
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Do not live by the whim of the hour or let desire for freedom grow limitless; keep respect for parents, teachers, elders, rulers and the laws.",
+    "applies_to": "citizens, states and individuals",
+    "conditions": "none",
+    "argued_against": "calling indulgence of every appetite freedom; insatiable thirst for liberty; fathers fearing sons, scholars despising masters; disregarding laws",
+    "notes": [
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Be patient under suffering, moderate your grief, and after misfortune take counsel and apply a remedy to the soul at once instead of wailing.",
+    "applies_to": "all people meeting misfortune",
+    "conditions": "even a good man cannot help sorrowing, but should moderate it, especially in public",
+    "argued_against": "lamentation, dwelling on troubles, behaving like children who howl over a struck part",
+    "notes": [
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Trust measuring, numbering and weighing over appearances, let the rational part of the soul govern, and do not rely on analogy alone.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "being ruled by illusion and appearance; relying on probable analogy alone",
+    "notes": [
+     17,
+     18
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Be wary of imitative art and poetry that appeals to the passionate, irrational part of the soul.",
+    "applies_to": "audiences of imitative art, especially poetry and theatre",
+    "conditions": "none",
+    "argued_against": "imitative poets who aim at popularity",
+    "notes": [
+     19
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "The elder should rule the younger, and the best of them should rule.",
+    "applies_to": "the city's rulers and subjects",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     20
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Choose guardians who show lifelong eagerness for their country's good, watch and test them at every age, and honor the one who passes every trial and reject the one who fails.",
+    "applies_to": "founders of the state; guardians and youth",
+    "conditions": "tested more thoroughly than gold in the furnace",
+    "argued_against": "none",
+    "notes": [
+     21,
+     22,
+     23,
+     24
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Teach citizens that their country is their mother and nurse and fellow citizens their brothers, to be defended.",
+    "applies_to": "all citizens",
+    "conditions": "taught through a deliberate fiction",
+    "argued_against": "none",
+    "notes": [
+     25
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Guard the purity of the ruling stock, and without pity demote a child of mixed nature while raising the gifted to honor.",
+    "applies_to": "rulers judging children",
+    "conditions": "applies when a child has an admixture of a baser or higher metal",
+    "argued_against": "pity toward the child",
+    "notes": [
+     26,
+     27
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Give the young only tales that model virtuous thoughts, and do not let them hear stories of gods quarreling or plotting, or mothers frighten them with myths of gods in disguise.",
+    "applies_to": "founders of the state, the young, mothers",
+    "conditions": "none",
+    "argued_against": "tales of battles and quarrels of gods and heroes; mothers frightening children with such myths",
+    "notes": [
+     28,
+     29,
+     34
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Always represent the deity as truly good, never as the cause of evil nor as changing shape or disguising itself.",
+    "applies_to": "poets, reciters and citizens",
+    "conditions": "if the punished are said to suffer, they must be said to benefit and the deity to act justly",
+    "argued_against": "poets who say the deity dispenses evil, plants guilt or walks about in disguise",
+    "notes": [
+     30,
+     31,
+     32,
+     33
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Rulers, like true physicians and pilots, should consider the interest of their subjects, not their own.",
+    "applies_to": "rulers",
+    "conditions": "applies to a ruler in the strict sense, in so far as he is a ruler",
+    "argued_against": "the claim that justice is the interest of the stronger",
+    "notes": [
+     35
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Inquire seriously into how each person may pass life to the greatest advantage.",
+    "applies_to": "each person",
+    "conditions": "none",
+    "argued_against": "treating the question of how to live as a small matter",
+    "notes": [
+     36
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Ridicule only folly and vice, weigh the beautiful by the standard of the good, and prefer things uncovered to covered up.",
+    "applies_to": "readers and citizens",
+    "conditions": "none",
+    "argued_against": "ridicule of other things; judging beauty by any standard but the good; covering up for fear of ridicule",
+    "notes": [
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "In argument, seek fair discussion rather than verbal contention, define terms before arguing, state your opponent's case first, and keep swimming when out of your depth.",
+    "applies_to": "anyone arguing or debating",
+    "conditions": "count differences of nature only when they affect the pursuit concerned",
+    "argued_against": "the art of contradiction; verbal opposition; undefined terms; treating every difference as a difference of nature",
+    "notes": [
+     40,
+     41,
+     42,
+     46,
+     47
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Give women the same pursuits and education as men and apply the laws to them, choosing guardians by individual gifts rather than sex.",
+    "applies_to": "the lawgiver; guardians, men and women",
+    "conditions": "if a sex appears to differ in fitness for an art, assign that art to the one fit",
+    "argued_against": "excluding women from pursuits because of sex; imposing enactments on men alone",
+    "notes": [
+     43,
+     44,
+     45
+    ]
+   }
+  ]
+ },
+ "xiaojing": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Treat love and respect for your parents as the root of all other virtues and the start of education, above love for others.",
+    "applies_to": "child; all people",
+    "conditions": "none",
+    "argued_against": "Loving and respecting others instead of one's parents.",
+    "notes": [
+     1,
+     13
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Do not injure your body, hair, or skin in the least.",
+    "applies_to": "child; children",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     2
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Live uprightly, serve the government loyally, attend to your parents' wants, and win a good name that honors them.",
+    "applies_to": "son; sons",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     3,
+     4
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Remember your ancestors, keep cultivating the virtue you inherit, never dishonor them, and offer them sacrifices.",
+    "applies_to": "reader; all people",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     5,
+     10,
+     30
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Rulers should love their own parents and be polite to elders so that the people follow the example.",
+    "applies_to": "ruler; Emperor; rulers",
+    "conditions": "none",
+    "argued_against": "Cruelty and rudeness toward parents.",
+    "notes": [
+     6,
+     25
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Do not act haughtily, be frugal, and do not be insolent to the lowly or proud of high position.",
+    "applies_to": "feudal princes; rulers and heads of families; sons in high position",
+    "conditions": "none",
+    "argued_against": "Haughtiness and insolence toward inferiors.",
+    "notes": [
+     7,
+     12,
+     20
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Do not show dissatisfaction with a position lower than that of others.",
+    "applies_to": "son; sons",
+    "conditions": "applies to a son in a lower position",
+    "argued_against": "Discontent with one's lower rank.",
+    "notes": [
+     21
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Do not wear, say, or do what the good rulers of old forbade.",
+    "applies_to": "high officers",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     8
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Show due respect to elders and older brothers, and serve your master with the feelings you have toward your father.",
+    "applies_to": "scholars; gentlemen; all people",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     9,
+     26,
+     27
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Work each season, make land as fertile as possible, and be frugal to keep your parents in comfort.",
+    "applies_to": "common people",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     11
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Gain high position by good actions, not by undue influence.",
+    "applies_to": "rulers",
+    "conditions": "none",
+    "argued_against": "Gaining high position by undue influence.",
+    "notes": [
+     14
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Venerate your parents in daily life and try to make them happy in every way, especially at mealtimes.",
+    "applies_to": "son; sons",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     15,
+     16
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Take extra care of your parents when they are sick.",
+    "applies_to": "son; sons",
+    "conditions": "when parents are sick",
+    "argued_against": "none",
+    "notes": [
+     17
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "When parents die, mourn with real sorrow and offer sacrifices with the utmost solemnity, keeping up burial rites and seasonal sacrifices.",
+    "applies_to": "son; filial sons",
+    "conditions": "after the parents' death; mourning period of 3 years",
+    "argued_against": "none",
+    "notes": [
+     18,
+     19,
+     32
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Do not let mourning destroy your life: eat something after 3 days and limit sorrow to 3 years.",
+    "applies_to": "mourners",
+    "conditions": "applies after the 3 days following the death",
+    "argued_against": "Self-mortification that destroys one's life.",
+    "notes": [
+     33
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Do not act against the natural feeling of the public.",
+    "applies_to": "son; sons",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     22
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Do not disobey your parents; this is the most heinous crime.",
+    "applies_to": "son; all people subject to the law",
+    "conditions": "none",
+    "argued_against": "Those who say a son need not be filial to his parents.",
+    "notes": [
+     23
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Do not threaten the sovereign or speak against the government set up by the wise of past generations.",
+    "applies_to": "subjects",
+    "conditions": "none",
+    "argued_against": "Threatening the sovereign and criticizing the established government.",
+    "notes": [
+     24
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Be filial to heaven and earth, the supreme father and mother, as well as to your parents.",
+    "applies_to": "rulers; also people in general",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     29
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Serve your sovereign with utmost loyalty, repair his wrongs, carry out his good schemes, and correct his faults.",
+    "applies_to": "ministers; those serving a sovereign",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     31
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "When a command is wrong, a son should resist his father and a minister should resist his ruler.",
+    "applies_to": "sons and ministers",
+    "conditions": "applies only when the command is wrong",
+    "argued_against": "Blind obedience to every command of a father.",
+    "notes": [
+     28
+    ]
+   }
+  ]
+ },
+ "worldly_wisdom": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Work hard to build a well-founded reputation by aiming to excel and be first in what is excellent, not settling for mediocrity.",
+    "applies_to": "reader; the able man",
+    "conditions": "Reputation is costly, attaches only to rare distinguished abilities, and only a well-founded one lasts; applies to those able to shine at the highest level.",
+    "argued_against": "Lack of application; humble mediocrity; being great in little things.",
+    "notes": [
+     6,
+     7,
+     15,
+     31,
+     70,
+     72,
+     78
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Keep something in reserve and conceal your passions, intentions, tastes, and secrets; do not spend all your ability, knowledge, or power at once.",
+    "applies_to": "reader; all people; teacher",
+    "conditions": "none",
+    "argued_against": "Playing with cards exposed, revealing passions, having no secrets like an open letter.",
+    "notes": [
+     18,
+     19,
+     28,
+     30,
+     32,
+     33,
+     68,
+     80,
+     118
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Master yourself: never act in haste or passion, be patient, be moderate, and keep presence of mind, being sure as well as quick.",
+    "applies_to": "reader",
+    "conditions": "If you must deal with a matter while angry, use a cool go-between.",
+    "argued_against": "Hurry, passion, and living like postilions of life.",
+    "notes": [
+     23,
+     64,
+     65,
+     66,
+     67,
+     102,
+     113,
+     114,
+     123
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Care about the ending: follow things through, see that they end well, and leave gracefully rather than only start strongly.",
+    "applies_to": "reader",
+    "conditions": "Break the rules of the art only if you cannot end well otherwise.",
+    "argued_against": "A fortunate outset followed by a tragic end; impatience and strong starts without finishing.",
+    "notes": [
+     69,
+     76,
+     77,
+     81,
+     89,
+     117
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Gain knowledge or surround yourself with those who have it, seek counsel, choose and test good assistants, and join knowledge with good intentions.",
+    "applies_to": "the mighty; leaders; reader",
+    "conditions": "If you cannot have sages as servants, have them as friends.",
+    "argued_against": "A wicked will helped by knowledge; showing off wit with mean instruments; those who think themselves wise.",
+    "notes": [
+     2,
+     3,
+     4,
+     10,
+     25,
+     71,
+     79
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Be truthful and real in substance, not merely seeming; make sure being right also looks right.",
+    "applies_to": "reader; all people",
+    "conditions": "none",
+    "argued_against": "Deceit and lies; merely seeming or pretending; relying on being right without regard to appearance.",
+    "notes": [
+     24,
+     34,
+     35,
+     48,
+     107,
+     110
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Remove your weak points and avoid common follies such as vanity, obstinacy, contrariness, envy, and fault-finding; find the good in things at once.",
+    "applies_to": "reader; all people",
+    "conditions": "Turn unavoidable flaws into ornament; be neither self-satisfied nor discontented with yourself.",
+    "argued_against": "Pampering curable weak points; vanity, presumption, caprice, obstinacy, wrangling, self-satisfaction, affected dissatisfaction.",
+    "notes": [
+     11,
+     16,
+     22,
+     40,
+     49,
+     52,
+     59,
+     61,
+     62,
+     75,
+     115
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Avoid familiarity, boring others, and being importunate; be brief, sparing with your presence, and use absence to be more esteemed.",
+    "applies_to": "reader",
+    "conditions": "Especially avoid boring the great; come when sent for.",
+    "argued_against": "Over-familiar presence, talkative folk, the importunate.",
+    "notes": [
+     26,
+     45,
+     97,
+     99,
+     104
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Do not parade or enforce the dignity of your position; create respect and be valued for your talents.",
+    "applies_to": "office-holders; holders of great positions",
+    "conditions": "Preserve enough dignity to carry on the duties of the office.",
+    "argued_against": "Posing as a personage; seeking esteem through station.",
+    "notes": [
+     46,
+     47
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Read people: find their ruling passion, test their character by deeds, watch those who act on second thoughts, and do not be fooled by flattery.",
+    "applies_to": "reader",
+    "conditions": "If a man puts himself second, put yourself first to discover his plan.",
+    "argued_against": "Flattery; going with the last speaker; guiding your enemy.",
+    "notes": [
+     13,
+     14,
+     29,
+     84,
+     88,
+     106,
+     119,
+     121
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Help your luck: recognize lucky and unlucky days, seize chances when in luck, and in storms hold back and let things calm down.",
+    "applies_to": "reader",
+    "conditions": "Judge luck from more than a single event; two tries tell whether you are in luck.",
+    "argued_against": "Merely waiting for fortune; wasting a lucky day; meddling at wrong times; waking misfortune.",
+    "notes": [
+     9,
+     55,
+     56,
+     57,
+     58,
+     95
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Stay independent: keep resources double, avoid being responsible for everyone, and do not let any single vote or fashion decide your worth.",
+    "applies_to": "reader; the sage",
+    "conditions": "It is convenient at times to belong to others so that others belong to us.",
+    "argued_against": "Trusting one resource; making many dependent on you; living wholly for oneself or others; dying of another's ill-luck.",
+    "notes": [
+     37,
+     51,
+     54,
+     74,
+     92,
+     100,
+     101
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Seek the approval of wise and distinguished people rather than the mob, and keep steady under both criticism and applause.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Striving for the breath of the mob; letting applause turn your head.",
+    "notes": [
+     38,
+     39,
+     96
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Cultivate a good manner and keep the favour of the mighty; aim to be loved with respect rather than passion.",
+    "applies_to": "reader; generally",
+    "conditions": "none",
+    "argued_against": "A bad manner; being much feared or much loved.",
+    "notes": [
+     1,
+     20,
+     105
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Combine cunning with candor, begin with another's aim to end with your own, and vary your methods rather than act on first impulse.",
+    "applies_to": "reader",
+    "conditions": "Combine them as a prodigy, not a monster; vary especially with a rival; advance under cover where ground is dangerous.",
+    "argued_against": "Excessive honesty and trust; always acting the same way.",
+    "notes": [
+     5,
+     63,
+     82,
+     83
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Avoid needless risks: do not contend with those who have nothing to lose, avoid errors, never despise small evils, and do not turn one blunder into two.",
+    "applies_to": "reader; people of honor and responsibility",
+    "conditions": "If you must contend, enter with great caution and retire in time.",
+    "argued_against": "Contending with the shameless; ignoring that ill-will notices every error; despising small evils.",
+    "notes": [
+     17,
+     21,
+     94,
+     120
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Speak with skill: express thoughts clearly, do not over-explain, sweeten hard truths, change the subject on scandal, and give no unprompted excuses.",
+    "applies_to": "reader",
+    "conditions": "If a word does not suffice, keep silent; give only as much satisfaction as is demanded.",
+    "argued_against": "Confused speech; explaining too much; excusing oneself unprompted; listening to yourself speak.",
+    "notes": [
+     60,
+     85,
+     90,
+     93,
+     116,
+     122
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Ignore slander and the talk of the vulgar, and know vulgarity in order to avoid it.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Combating slander; vulgarity, including vulgar opposition to vulgarity.",
+    "notes": [
+     111,
+     112
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Know a little more and live a little less: do not heap up occupations or take on worry, and neither give nor take bad news unless it helps.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Piling on occupations; wasting life in mechanical tasks.",
+    "notes": [
+     73,
+     86,
+     87
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Keep your imagination under control and be moderate, examining the other person's reasons.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Letting imagination tyrannize; holding views from interest and condemning opponents.",
+    "notes": [
+     12,
+     109
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "Do not arouse exaggerated expectations at the start; let reality exceed what was hoped.",
+    "applies_to": "reader",
+    "conditions": "The rule does not apply to the wicked, who gain from exaggeration.",
+    "argued_against": "none",
+    "notes": [
+     8
+    ]
+   },
+   {
+    "id": "t22",
+    "advice": "Show greatness within your station: a man of talent should show room for greater enterprises, and those near the throne should share royalty's true qualities.",
+    "applies_to": "men of talent; every man; courtiers",
+    "conditions": "Within due limits of one's station; do not copy royal imperfections.",
+    "argued_against": "Small capacity for luck and honors; mere ceremonies.",
+    "notes": [
+     41,
+     42,
+     43
+    ]
+   },
+   {
+    "id": "t23",
+    "advice": "Prefer offices that leave you free, combine variety with importance, and depend little on others.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Offices with fixed hours and settled routine.",
+    "notes": [
+     44
+    ]
+   },
+   {
+    "id": "t24",
+    "advice": "Choose friends of contrasting temperaments so that joining extremes yields the golden mean.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     50
+    ]
+   },
+   {
+    "id": "t25",
+    "advice": "Adapt to circumstances, using human means as if there were no divine ones and divine ones as if there were no human ones.",
+    "applies_to": "reader",
+    "conditions": "Follow no fixed rules except the cardinal virtues.",
+    "argued_against": "Expecting circumstances to bend to one's whims.",
+    "notes": [
+     91,
+     103
+    ]
+   },
+   {
+    "id": "t26",
+    "advice": "Value the discovery of deceit and the gift of discovery; novelty deserves praise in matters of genius.",
+    "applies_to": "reader",
+    "conditions": "In matters of judgment novelties are dangerous because they lead to paradox.",
+    "argued_against": "Discrediting philosophy and the art of thinking.",
+    "notes": [
+     36,
+     98
+    ]
+   },
+   {
+    "id": "t27",
+    "advice": "Post yourself in the center of things.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Verbosity and fussing over a single point.",
+    "notes": [
+     53
+    ]
+   }
+  ]
+ },
+ "ramcharitmanas": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Serve your master willingly and with spontaneous devotion, without self-interest, fraud, or shame at the bondage.",
+    "applies_to": "servants and followers",
+    "conditions": "none",
+    "argued_against": "Self-interest and fraud in service.",
+    "notes": [
+     1,
+     31
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Obey and honor your parents, teacher, and master, crediting the teacher's favor for your protection and knowledge.",
+    "applies_to": "all people; students; disciples",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     2,
+     9,
+     11
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Fulfil your duty as a brother and be dutiful and obedient to parents, mothers, and kindred without partiality.",
+    "applies_to": "younger brother who becomes king",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     17,
+     18
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Endure a grievous burden, take courage, and cease vain regrets for the good of your people and family.",
+    "applies_to": "a brother in an emergency; a ruler or leader in calamity",
+    "conditions": "none",
+    "argued_against": "Vain regret and despair.",
+    "notes": [
+     3,
+     15
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Love the deity and stay constant in devotion to him, going about your tasks with your heart fixed on him.",
+    "applies_to": "believers",
+    "conditions": "none",
+    "argued_against": "Finding love for the deity difficult.",
+    "notes": [
+     4,
+     29,
+     30,
+     35
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Pray to and meditate on the deity in faith, valuing faith above other virtues; without prayer salvation is not possible.",
+    "applies_to": "believers; all people",
+    "conditions": "none",
+    "argued_against": "Hoping for salvation without prayer; seeking powers, wealth, or knowledge without faith.",
+    "notes": [
+     8,
+     12,
+     13
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Worship the compassionate deity wholeheartedly, discard vanity and delusion, and cease wrangling and hypocrisy.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "Vanity, delusion, covetousness, wrangling, and hypocrisy.",
+    "notes": [
+     7,
+     21
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Do not oppose the deity or hope to prosper while doing so.",
+    "applies_to": "reader; ruler",
+    "conditions": "none",
+    "argued_against": "Opposing the divine in obstinacy and ignorance.",
+    "notes": [
+     34,
+     36
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Do not presume to copy the powerful or gods out of pride in knowledge.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "The fool who copies gods or the powerful.",
+    "notes": [
+     23
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Treat prosperity and adversity alike, neither triumphing in the one nor being downcast in the other.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "Fools who triumph in prosperity and are downcast in adversity.",
+    "notes": [
+     14
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Do not be deceitful, crafty, or glad of another's loss.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "Deceit and delighting in another's loss.",
+    "notes": [
+     5
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Hear or recite the tale of the deity's deeds devoutly, with love and reverence.",
+    "applies_to": "pious souls",
+    "conditions": "Hearing must be done with love and reverence.",
+    "argued_against": "none",
+    "notes": [
+     6
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Keep the customary ablutions and morning devotions, and honor priests, gods, teacher, and parents even when already pure.",
+    "applies_to": "not stated",
+    "conditions": "They did so though pure in themselves.",
+    "argued_against": "none",
+    "notes": [
+     9,
+     10
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Rulers should not forget sound policy and should cherish subjects in word, thought, and deed.",
+    "applies_to": "a ruler",
+    "conditions": "Applies now that he has the royal dignity.",
+    "argued_against": "none",
+    "notes": [
+     16
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Abandon pride, attend to good advice, consider your family, and cease going astray.",
+    "applies_to": "ruler",
+    "conditions": "none",
+    "argued_against": "Pride and going astray.",
+    "notes": [
+     32,
+     33
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Value as best friend the one who ensures the king's happiness.",
+    "applies_to": "citizens and the court",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     19
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Do not mourn for one who goes into exile; see it as pleasant and meritorious.",
+    "applies_to": "a father whose son is exiled",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     20
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Practise penance as the only means of approach to the deity and escape from sorrow.",
+    "applies_to": "devotee",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     22
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Put away anxiety, compose yourself, be stout of heart, and wait patiently, trusting the deity to protect your loved ones.",
+    "applies_to": "parent; the captive wife",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     24,
+     27,
+     28
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Recognize the truth about the deity without doubt and submit to the commands of God.",
+    "applies_to": "daughter; devotee",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     25,
+     26
+    ]
+   }
+  ]
+ },
+ "vemana": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Give generously to the poor and needy, especially food, often and with kindness, rather than only advising others to give.",
+    "applies_to": "the wealthy; rich and poor alike; mendicants",
+    "conditions": "Those who have and give nothing receive nothing in the next birth; give to the poor, not to the rich for applause.",
+    "argued_against": "Wealthy people who show no liberality; raising the hopes of the poor then refusing them; giving to the rich for applause.",
+    "notes": [
+     12,
+     13,
+     14,
+     36,
+     37,
+     46,
+     47,
+     56,
+     57,
+     58,
+     60,
+     140,
+     143,
+     144
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Do not hoard or bury wealth, or treat possessions as your own; use it or give it away, since you cannot take it with you.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Misers who hoard and bury treasure.",
+    "notes": [
+     50,
+     61,
+     62,
+     86,
+     106,
+     136
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Keep away from lust, courtesans, and other men's wives; desire blinds judgment and ruins people.",
+    "applies_to": "men; all people; young men",
+    "conditions": "none",
+    "argued_against": "Devotion to sensual pleasures, courtesans, and unrestrained desire for women.",
+    "notes": [
+     2,
+     3,
+     25,
+     28,
+     29,
+     30,
+     31,
+     100,
+     102,
+     107,
+     122,
+     124
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Conquer your lusts and desires and subdue your heart; the one who rules his passions is best.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Indulging lusts and anger, trifling comforts, and vain desire; indulging lusts then turning recluse at death.",
+    "notes": [
+     10,
+     11,
+     48,
+     52,
+     87,
+     92,
+     108,
+     113,
+     117,
+     125,
+     128,
+     134
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Do not rely on pilgrimage, ritual bathing, stone images, or ancestral offerings; the deity is found in a right heart.",
+    "applies_to": "believers; all worshippers",
+    "conditions": "if your heart is right",
+    "argued_against": "Pilgrimage, ritual without inner purity, worship of stone images, formal ancestral offerings, ordination as a basis for salvation.",
+    "notes": [
+     4,
+     5,
+     6,
+     74,
+     78,
+     81,
+     93,
+     99
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Be pure within and avoid hypocrisy; outward garb, ashes, ornaments, or boasting of status do not make a saint.",
+    "applies_to": "reader; all people",
+    "conditions": "none",
+    "argued_against": "Reliance on religious garb, boasting of purity or caste, pious words without giving, hypocrisy, malice.",
+    "notes": [
+     45,
+     68,
+     70,
+     97,
+     104,
+     105,
+     115
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Do not rely on postures, breath control, or austere penance; they bring no wisdom.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Ascetic postures, penance, leaving home, breath control.",
+    "notes": [
+     72,
+     73,
+     79
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Do not over-study, dispute, or learn only abstruse subjects; practice what you learn instead of reading alone.",
+    "applies_to": "reader; students",
+    "conditions": "none",
+    "argued_against": "Excessive study and disputation, reliance on sacred texts and rites, studying ancient sayings without practicing them.",
+    "notes": [
+     7,
+     8,
+     9,
+     77,
+     133
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Fix your mind and heart on the deity alone, who dwells within you, and call on him as your helper.",
+    "applies_to": "believers; reader",
+    "conditions": "none",
+    "argued_against": "Swerving from the deity.",
+    "notes": [
+     24,
+     51,
+     53,
+     66,
+     71,
+     75,
+     84,
+     85,
+     95
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Tell the truth and keep your word; do not lie or make promises you cannot keep.",
+    "applies_to": "reader; all people",
+    "conditions": "none",
+    "argued_against": "Breaking one's word, falsehood, promising beyond one's means.",
+    "notes": [
+     17,
+     35,
+     64,
+     69,
+     112,
+     145
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Avoid the vile and low-minded and do not serve senseless princes or beg from misers.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Associating with the vile, serving senseless rulers, begging from misers.",
+    "notes": [
+     1,
+     21,
+     23
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Judge people by virtue, understanding, and intrinsic value, not by birth or outward appearance.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Judging worth by birth, looks, or stature.",
+    "notes": [
+     20,
+     32,
+     49
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Stay true to your own religion and revile no other creed, avoiding forbidden practices.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Straying from one's religion, reviling other creeds, hesitating to give up caste when embracing a creed.",
+    "notes": [
+     39,
+     76,
+     82
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Be grateful for good done to you and forget sinful connections and others' faults; do not grieve a friend.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "The ungrateful; grieving a friend after friendship is made.",
+    "notes": [
+     18,
+     135,
+     138
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Honor and obey your parents and elder brother, do not leave your brothers because of a wife, and keep to kin and custom.",
+    "applies_to": "reader; husband; young men",
+    "conditions": "none",
+    "argued_against": "Disobeying parents, despising an elder brother, abandoning brothers, departing from custom.",
+    "notes": [
+     22,
+     54,
+     67,
+     122,
+     123,
+     141
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Treat family ties and the perishable body as unreal; do not labor for wealth for family or dote on the body.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "Attachment to family, the delusive life, and endless pains for the body.",
+    "notes": [
+     40,
+     41,
+     88,
+     103,
+     120
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Remember death is near: do good during life, avoid pride, be ready to leave without a murmur, and expect to answer for your conduct.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "Pride, unawareness of death, imagining a long life.",
+    "notes": [
+     15,
+     16,
+     80,
+     121,
+     137
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Seek wisdom and knowledge of the deity and of yourself; use discrimination to end ignorance, delusion, and grief.",
+    "applies_to": "reader",
+    "conditions": "Only one who recognizes the value of wisdom possesses it.",
+    "argued_against": "Ignorance, delusion, falling into sin despite understanding.",
+    "notes": [
+     89,
+     90,
+     91,
+     101,
+     109,
+     114,
+     116,
+     118,
+     126,
+     132
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Do not rely on divination or astrology; accept what is destined, and be patient in poverty without grieving over lack of wealth.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Reliance on divination, omens, and astrology; reproaching God in poverty.",
+    "notes": [
+     26,
+     59,
+     65,
+     130,
+     131
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Rulers should practice righteousness, avoid avarice and lust, and remove traitors from the palace.",
+    "applies_to": "rulers",
+    "conditions": "none",
+    "argued_against": "Avarice and lust.",
+    "notes": [
+     33,
+     55,
+     98,
+     129
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "Speak discreetly and respectfully to everyone, listen to all without anger, examine what is said, and do not shun others as unclean.",
+    "applies_to": "reader; all those you talk with",
+    "conditions": "Declare truth only to a truly great soul.",
+    "argued_against": "Speaking plain truth to the vile; saying 'touch me not' to others.",
+    "notes": [
+     44,
+     83,
+     139,
+     142
+    ]
+   },
+   {
+    "id": "t22",
+    "advice": "Know yourself before instructing others, seek a teacher, and as a teacher guide disciples to holiness.",
+    "applies_to": "teachers and priests; students",
+    "conditions": "none",
+    "argued_against": "Idle teachers who perform rites for pitiful fees; teachers who mislead disciples.",
+    "notes": [
+     38,
+     94,
+     96
+    ]
+   },
+   {
+    "id": "t23",
+    "advice": "Injure no one, avoid covetousness and the worst sins, and do not covet others' wealth.",
+    "applies_to": "all people; the man of pure birth",
+    "conditions": "none",
+    "argued_against": "Covetousness, embezzling alms, harming others.",
+    "notes": [
+     19,
+     27,
+     43,
+     63
+    ]
+   },
+   {
+    "id": "t24",
+    "advice": "Do not give alms or favors then tell of them, and give with real kindness.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     34
+    ]
+   },
+   {
+    "id": "t25",
+    "advice": "Practice steadily, value small good work done with a pure heart, and avoid excess in eating or abstaining.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Excess food and excessive abstinence.",
+    "notes": [
+     42,
+     110,
+     119,
+     127
+    ]
+   }
+  ]
+ },
+ "buddha_dhamma": {
+  "entries": [
+   {
+    "id": "t1",
+    "advice": "Give generously and for life to the community of monks and nuns, supplying robes, food, and medicine, including to the sick.",
+    "applies_to": "lay followers; reader",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "t2",
+    "advice": "Do not nurse sorrow over losing loved ones or weep at parting; understand that sorrow comes from ignorance.",
+    "applies_to": "the wise; listener",
+    "conditions": "none",
+    "argued_against": "Cherishing sorrow over loss of kin; blaming others for sorrow.",
+    "notes": [
+     3,
+     4,
+     35
+    ]
+   },
+   {
+    "id": "t3",
+    "advice": "Do not accept royal power; the wise should not enter royalty, the home of illusion.",
+    "applies_to": "the wise",
+    "conditions": "none",
+    "argued_against": "Taking a kingdom out of greed.",
+    "notes": [
+     5
+    ]
+   },
+   {
+    "id": "t4",
+    "advice": "Find the truth for yourself rather than relying on others' belief or uncertain tradition, and accept only what trustworthy people free of faults have said.",
+    "applies_to": "seekers; the wise",
+    "conditions": "in determining duty",
+    "argued_against": "Accepting theories on the unknown, others' belief, uncertain sacred tradition, and quoting vow-breakers.",
+    "notes": [
+     6,
+     8,
+     9
+    ]
+   },
+   {
+    "id": "t5",
+    "advice": "Accept something as real only if it shows itself in visible results.",
+    "applies_to": "all claims about invisible things",
+    "conditions": "none",
+    "argued_against": "Accepting unseen things that give no results.",
+    "notes": [
+     16
+    ]
+   },
+   {
+    "id": "t6",
+    "advice": "Even when unsure of the truth, set your mind on the good.",
+    "applies_to": "seekers",
+    "conditions": "applies when good and evil are in doubt and the truth cannot be discerned",
+    "argued_against": "none",
+    "notes": [
+     7
+    ]
+   },
+   {
+    "id": "t7",
+    "advice": "Hold firm to your resolve for liberation and follow the prescribed rule, never returning to worldly life.",
+    "applies_to": "seekers who love liberation",
+    "conditions": "applies if one loves liberation",
+    "argued_against": "Returning home as a man of the world.",
+    "notes": [
+     10,
+     13
+    ]
+   },
+   {
+    "id": "t8",
+    "advice": "Do not leave your father in old age to sorrow; duty comes before an unseen result, and enjoy the good fortune at hand given doubt about rebirth.",
+    "applies_to": "sons; listener",
+    "conditions": "applies since opinions on rebirth are in doubt",
+    "argued_against": "Giving up visible good for an unseen result.",
+    "notes": [
+     11,
+     12
+    ]
+   },
+   {
+    "id": "t9",
+    "advice": "Do not base religion on belief in a creator or a soul, or argue about their existence; such speculation is unprofitable.",
+    "applies_to": "all people; followers",
+    "conditions": "none",
+    "argued_against": "Religion based on a creator deity or a soul; speculation about the soul, God, existence after death, and origins.",
+    "notes": [
+     14,
+     15,
+     17,
+     18,
+     23,
+     54
+    ]
+   },
+   {
+    "id": "t10",
+    "advice": "Cultivate right view and the eightfold path, seeing life as a process of cause and effect, and shed greed, anger, envy, deceit, arrogance, and sloth.",
+    "applies_to": "followers; almsmen",
+    "conditions": "Aim for this whatever others do.",
+    "argued_against": "Perverted views, aims, speech, action, ignorance, and the listed vices.",
+    "notes": [
+     19,
+     21,
+     22,
+     56
+    ]
+   },
+   {
+    "id": "t11",
+    "advice": "Seek the teaching, not the world's goods.",
+    "applies_to": "almsmen; monks",
+    "conditions": "none",
+    "argued_against": "Pursuing the world's goods.",
+    "notes": [
+     20
+    ]
+   },
+   {
+    "id": "t12",
+    "advice": "Do not rely on praying to gods to reach union with a creator; practice the qualities that make a true priest.",
+    "applies_to": "priests and others who pray this way",
+    "conditions": "none",
+    "argued_against": "Priests who call on gods while neglecting true virtue.",
+    "notes": [
+     24
+    ]
+   },
+   {
+    "id": "t13",
+    "advice": "Do not make war; enmity does not end through enmity, so conquer it with love.",
+    "applies_to": "communities; all people",
+    "conditions": "none",
+    "argued_against": "Resolving on war; meeting enmity with enmity.",
+    "notes": [
+     25,
+     26
+    ]
+   },
+   {
+    "id": "t14",
+    "advice": "Before declaring war, investigate who is guilty, admit your own side's blame, and settle disputes by arbitration with a panel chosen by both sides.",
+    "applies_to": "communities in a dispute",
+    "conditions": "none",
+    "argued_against": "Rushing to declare war; settling disputes by war.",
+    "notes": [
+     27,
+     28
+    ]
+   },
+   {
+    "id": "t15",
+    "advice": "Do not destroy close relations in war, and let only the guilty bear penalty, not innocent family members.",
+    "applies_to": "assembly; close kin groups; families of dissenters",
+    "conditions": "none",
+    "argued_against": "Social boycott and confiscation of land against the innocent.",
+    "notes": [
+     29,
+     33
+    ]
+   },
+   {
+    "id": "t16",
+    "advice": "Each class should perform its own duty, so warriors must fight even against brothers.",
+    "applies_to": "members of each class; warriors in war",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     30
+    ]
+   },
+   {
+    "id": "t17",
+    "advice": "Obey the majority decision of the assembly and keep the vows taken on joining.",
+    "applies_to": "members of the order",
+    "conditions": "none",
+    "argued_against": "Opposing the majority decision.",
+    "notes": [
+     31
+    ]
+   },
+   {
+    "id": "t18",
+    "advice": "Put the community's best interests above public shame, and refuse to join a war you judge harmful.",
+    "applies_to": "members of the community",
+    "conditions": "none",
+    "argued_against": "Silent compliance by a minority who lacked courage.",
+    "notes": [
+     32
+    ]
+   },
+   {
+    "id": "t19",
+    "advice": "Abide in heedfulness, be earnest in effort to become free from sensuality, delusion, and ignorance, and know the right time to visit a teacher.",
+    "applies_to": "brethren of the order; the attendant",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     34,
+     36,
+     40
+    ]
+   },
+   {
+    "id": "t20",
+    "advice": "Give no occasion to reproach yourself, announce the teacher's death to the community, and correct the public belief about its cause.",
+    "applies_to": "the attendant",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     37,
+     38,
+     39
+    ]
+   },
+   {
+    "id": "t21",
+    "advice": "Treat the remains of the teacher as men treat the remains of a king of kings.",
+    "applies_to": "the community, in this funeral",
+    "conditions": "none",
+    "argued_against": "none",
+    "notes": [
+     41
+    ]
+   },
+   {
+    "id": "t22",
+    "advice": "Treat morality as the essence of the teaching, put righteousness above selfishness, and avoid all sinful acts.",
+    "applies_to": "followers; mankind",
+    "conditions": "none",
+    "argued_against": "Selfishness; sinful acts.",
+    "notes": [
+     42,
+     50,
+     57
+    ]
+   },
+   {
+    "id": "t23",
+    "advice": "Love other people for your own good, not to please God.",
+    "applies_to": "all people",
+    "conditions": "none",
+    "argued_against": "Being moral in order to please God.",
+    "notes": [
+     43
+    ]
+   },
+   {
+    "id": "t24",
+    "advice": "Make morality sacred and universal, with common rules and brotherhood effective for all, not bound to one group.",
+    "applies_to": "society as a whole",
+    "conditions": "none",
+    "argued_against": "Group-bound morality, stratified classes, privilege for a few, exclusive morality among thieves, businessmen, and castes.",
+    "notes": [
+     45,
+     46,
+     47
+    ]
+   },
+   {
+    "id": "t25",
+    "advice": "Do not practice prayers, pilgrimages, rituals, ceremonies, or sacrifices; real religion lies in observing its tenets, not in books.",
+    "applies_to": "followers",
+    "conditions": "none",
+    "argued_against": "Religion centered on God, prayers, rituals, sacrifices, and treating books as religion.",
+    "notes": [
+     44,
+     51
+    ]
+   },
+   {
+    "id": "t26",
+    "advice": "Attend first to the culture of the mind; cleaning the mind is the essence of religion.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Speaking or acting with a corrupted mind.",
+    "notes": [
+     48,
+     49
+    ]
+   },
+   {
+    "id": "t27",
+    "advice": "Do not escape from the world or practice asceticism; change the world and make it better.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Withdrawal as a recluse; asceticism; uprooting natural instincts and desires.",
+    "notes": [
+     52,
+     53
+    ]
+   },
+   {
+    "id": "t28",
+    "advice": "Reject fatalism, including predestination by a God and the view that past deeds make present activity impotent.",
+    "applies_to": "reader",
+    "conditions": "none",
+    "argued_against": "Fatalistic views of life and karma.",
+    "notes": [
+     55
+    ]
+   }
+  ]
+ }
+}
