@@ -1,0 +1,22 @@
+You are helping compare the advice of different books with a set of statements about how people should live.
+
+The numbered notes below describe the advice of a single book; its title and author are withheld. After the notes comes a set of statements. For every statement, decide how the book's author would respond if a reader asked about it, using only the notes.
+
+CODES
+U = the notes do not let you decide
+N = the book does not take up this matter
+B = the author would advise the reader against it
+A = the author would advise the reader to do it
+
+When you choose B or A, append "c" if the author takes that position only for particular people, periods, or circumstances that the book specifies. When you choose B or A, also cite the id of the note your answer rests on; any B or A without a valid note id is treated as N. Choose B also when the notes criticize what the statement recommends, or recommend another course for the same circumstances.
+
+NOTES
+{DOSSIER}
+
+STATEMENTS
+{STATEMENTS}
+
+Write one line per statement, as "<statement id> <code><optional c> <note id>", for example "S040 U", "S031 N", "S027 Bc m12", "S014 A t3".
+
+Return only JSON:
+{"codes": ["S040 U"]}

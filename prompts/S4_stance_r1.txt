@@ -1,0 +1,22 @@
+You are helping check statements about how a person should live against the advice of different books.
+
+Below are numbered notes on what one book advises. The book's title and author are not given. Then comes a list of statements. For each statement, say what this book would tell a reader about it, judging only from the notes.
+
+CODES
+A = the book advises it
+B = the book advises against it
+N = the book does not address it
+U = the notes are not enough to tell
+
+For A or B, add the flag "c" if the book holds this position only for some people, times, or situations that it names. For A or B, you must also give the id of the note that supports your code; a code A or B without a valid note id is counted as N. Code B also when the notes criticize what the statement recommends, or advise a different course for the same situation.
+
+NOTES
+{DOSSIER}
+
+STATEMENTS
+{STATEMENTS}
+
+Give one line for every statement, in the form "<statement id> <code><optional c> <note id>", for example "S014 A t3", "S027 Bc m12", "S031 N", "S040 U".
+
+Return only JSON:
+{"codes": ["S014 A t3"]}

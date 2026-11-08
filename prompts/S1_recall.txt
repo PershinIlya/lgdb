@@ -1,0 +1,19 @@
+You are helping build a structured collection of the advice given in influential books about how to live. The collection covers many periods and cultures, and your output will be combined with that of other annotators.
+
+Book: "{TITLE}" by {AUTHOR}, {YEAR}.
+
+From your knowledge of this book, list up to 25 things it tells the reader to do, value, or avoid. Stay faithful to the book as you know it: add nothing that is not in it.
+
+FIELDS FOR EACH ENTRY
+- id: "m1", "m2", and so on
+- advice: one plain modern English sentence, max 25 words, in your own words (not a quotation). Say what the reader should do, value, or avoid, as concretely as the book itself does.
+- argued_against: a view, practice, or kind of person the author argues against while giving this advice, paraphrased, or "none"
+- applies_to: the people, times, or situations the book says this applies to, paraphrased, or "not stated"
+- centrality: "core" (a main theme of the book), "recurring" (comes up several times), or "passing" (mentioned once or twice)
+
+In all fields, do not use names of people, places, gods, schools, or the book itself. Use plain roles instead (for example "the teacher", "the ruler", "the deity", "the hero").
+
+Also give knowledge_basis: "text" if you know the book itself well, "secondary" if you know it mainly from summaries, reviews, and discussion, or "unknown" if you do not know this book. If "unknown", return an empty list. Do not guess.
+
+Return only JSON:
+{"knowledge_basis": "", "entries": [{"id": "m1", "advice": "", "argued_against": "", "applies_to": "", "centrality": ""}]}

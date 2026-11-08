@@ -1,0 +1,7 @@
+(1) Yes. A project CLAUDE.md block (/home/user/lgdb/CLAUDE.md) is in my context.
+(2) First 3 lines, exactly:
+# lgdb: trade-off axes in guidance-on-living literature
+
+## Working with the researcher (Ilia)
+(Line 2 is blank.)
+(3) Yes. Both "trade-off" and "hypothesis" appear in that block.

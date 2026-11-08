@@ -133,6 +133,40 @@
     "opus rank 5 p=0.25: unconditioned advice may conflict until scoped"
    ],
    "history": "v1 (supported plus wording) failed 3 of 3 on 'advice mostly worded absolutely'; v2 with P2's neutral fields still failed opus ('unqualified, one-sided form', rank 1) and sonnet (absolute wording, rank 1); v3 drops wording: top-2 guesses are extraction fidelity, targets, and era differences in target or addressee. Wording force is now validated only on planted synthetic texts."
+  },
+  "S1S2_recall_condense": {
+   "rounds": 1,
+   "date": "2026-11-08",
+   "method": "S1 and S2 audited together in one prompt (stricter than alone); Explore agents, which do not receive project instructions",
+   "core_models": [],
+   "borderline": [
+    "opus rank 2 p=0.6: recalled advice drops conditions and reads more universal than the text (a memory-vs-text effect, already known from work_memory)"
+   ],
+   "verdict": "pass"
+  },
+  "S3_statement": {
+   "rounds": 1,
+   "date": "2026-11-08",
+   "core_models": [],
+   "borderline": [
+    "opus rank 3 p=0.35: what one book advises another criticizes",
+    "sonnet rank 3 p=0.4 same; rank 5 p=0.25 trade-offs, cue: example 'studying instead of attending social gatherings'"
+   ],
+   "verdict": "pass",
+   "note": "top-2 guesses: universal core of advice; books or traditions differ on concrete practices"
+  },
+  "S5_reverse": {
+   "rounds": 1,
+   "date": "2026-11-08",
+   "core_models": [
+    "opus (books lean to one side of each pair, p=0.55)",
+    "sonnet (books consistent with one side of each pair, p=0.55)"
+   ],
+   "borderline": [
+    "haiku rank 2 p=0.25: books contain counter-views"
+   ],
+   "verdict": "exempt",
+   "exemption": "construct-inherent leak, as P5: asking for the opposite reveals interest in opposition. Bounded: one separate agent writes reversals and never codes; reversed statements are shuffled into the coding list and used only for the acquiescence check (criterion 4)."
   }
  }
 }

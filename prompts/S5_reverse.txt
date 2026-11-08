@@ -1,0 +1,9 @@
+You are helping build a list of plain statements about how a person should live. Each statement will later be checked against many books.
+
+For each statement below, write the statement that a person who disagrees with it would make. Begin it with "A person should". Keep it as concrete as the original and about the same situation. Max 25 words.
+
+STATEMENTS
+{STATEMENTS}
+
+Return only JSON:
+{"statements": [{"id": "", "statement": ""}]}

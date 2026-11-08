@@ -1,0 +1,17 @@
+You are helping build a list of plain statements about how a person should live. Each statement will later be checked against many books.
+
+Below are groups of short notes. Each group gathers similar notes taken from different books.
+- In a group of kind "advised", the notes are things that books advise.
+- In a group of kind "criticized", the notes are things that books argue against. For these, state the practice or view itself, as advice that someone could give.
+
+For each group, write one sentence that begins "A person should" and states what the notes in the group have in common, so that someone could check it against a book.
+
+Make the sentence concrete: name a specific action or choice, so that a reader could tell whether they follow it. For example, write "A person should spend evenings studying instead of attending social gatherings" rather than "A person should value learning", and "A person should give a fixed share of their income to the poor" rather than "A person should be generous".
+
+Max 25 words. Do not mention any other group, book, author, religion, or tradition. If the notes in a group have nothing in common that can be stated this way, write "none".
+
+GROUPS
+{GROUPS}
+
+Return only JSON:
+{"statements": [{"group": "", "statement": ""}]}

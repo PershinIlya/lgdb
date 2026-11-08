@@ -1,0 +1,9 @@
+(1) Yes, there is a project instructions block in my context (CLAUDE.md at /home/user/lgdb/CLAUDE.md).
+
+(2) The first 3 lines, copied exactly:
+
+# lgdb: trade-off axes in guidance-on-living literature
+
+## Working with the researcher (Ilia)
+
+No tools were used to answer this; the answer comes from the context already loaded.

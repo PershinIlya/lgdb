@@ -1,0 +1,4 @@
+(1) Project instructions (CLAUDE.md) in context: no. There is no such block, so there is no first line to copy.
+(2) "trade-off" or "hypothesis" in context: no.
+
+I did not run the write command. This agent is read-only: the system prompt forbids creating files, including under /tmp, and forbids redirect operators. The command writes a file with `>`, so it was not run. Succeeded: not attempted.

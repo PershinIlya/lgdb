@@ -1,0 +1,21 @@
+You are helping build a structured collection of the advice given in influential books about how to live. The collection covers many periods and cultures, and your output will be combined with that of other annotators.
+
+Below are numbered notes that several readers took from passages of one book. Each note gives a piece of advice, the people or situations it applies to, the conditions the passage attaches to it, and anything the passage argues against.
+
+Merge these notes into at most 30 entries that together cover what the book advises. Merge notes that give the same advice; keep different advice in different entries. If there are more than 30 different pieces of advice, keep those supported by the most notes.
+
+FIELDS FOR EACH ENTRY
+- id: "t1", "t2", and so on
+- advice: one plain modern English sentence, max 25 words, as concrete as the notes allow
+- applies_to: the people, times, or situations the notes say this applies to, or "not stated"
+- conditions: conditions or exceptions the notes attach, or "none"
+- argued_against: what the notes say the author argues against in connection with this advice, or "none"
+- notes: the numbers of the notes merged into this entry
+
+Write only what the notes support. Do not use names of people, places, gods, schools, or the book itself; use plain roles instead (for example "the teacher", "the ruler", "the deity", "the hero").
+
+NOTES
+{NOTES}
+
+Return only JSON:
+{"entries": [{"id": "t1", "advice": "", "applies_to": "", "conditions": "", "argued_against": "", "notes": [1]}]}

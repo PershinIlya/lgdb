@@ -1,0 +1,12 @@
+{"label": "probe", "agent": "a57c58fda06d81584", "model": "claude-haiku-5-5", "context_tokens": 70264, "output_tokens": 1315, "total": 71579, "note": "context visibility probe"}
+{"label": "probe", "agent": "afb01f0b5e6a7e240", "model": "claude-haiku-5-5", "context_tokens": 69263, "output_tokens": 581, "total": 69844, "note": "context visibility probe"}
+{"label": "probe", "agent": "af04cabe865b34c03", "model": "claude-haiku-5-5", "context_tokens": 55087, "output_tokens": 871, "total": 55958, "note": "context visibility probe"}
+{"label": "audit_S1S2", "agent": "a503dbbf10584d9b6", "model": "claude-opus-5-5", "context_tokens": 53921, "output_tokens": 1246, "total": 55167, "note": ""}
+{"label": "audit_S1S2", "agent": "adb54fa66273782f4", "model": "claude-sonnet-5-5", "context_tokens": 53927, "output_tokens": 1411, "total": 55338, "note": ""}
+{"label": "audit_S1S2", "agent": "aa6ad0f2295ac8468", "model": "claude-haiku-5-5", "context_tokens": 54083, "output_tokens": 2220, "total": 56303, "note": ""}
+{"label": "audit_S3", "agent": "a202949bddd0bd474", "model": "claude-opus-5-5", "context_tokens": 53133, "output_tokens": 867, "total": 54000, "note": ""}
+{"label": "audit_S3", "agent": "a62b5b2734c9bd334", "model": "claude-sonnet-5-5", "context_tokens": 53139, "output_tokens": 911, "total": 54050, "note": ""}
+{"label": "audit_S3", "agent": "a8f3cec708c4b61f3", "model": "claude-haiku-5-5", "context_tokens": 53269, "output_tokens": 2111, "total": 55380, "note": ""}
+{"label": "audit_S5", "agent": "a04b1b31520cc9423", "model": "claude-opus-5-5", "context_tokens": 52885, "output_tokens": 847, "total": 53732, "note": ""}
+{"label": "audit_S5", "agent": "a252f4087e1d351c5", "model": "claude-sonnet-5-5", "context_tokens": 52891, "output_tokens": 833, "total": 53724, "note": ""}
+{"label": "audit_S5", "agent": "abb2a363fa4cb32f6", "model": "claude-haiku-5-5", "context_tokens": 53018, "output_tokens": 1597, "total": 54615, "note": ""}
