@@ -7,3 +7,4 @@ work_pilot/
 work_pilot1/fragments.jsonl
 work_pilot1/queue/
 work_pilot1/embeddings.npy
+work_stance/queue/
