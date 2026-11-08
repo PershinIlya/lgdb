@@ -1,0 +1,166 @@
+{
+ "title": "Bhagavad Gita",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Do your duty without attachment to its fruits.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "Arjuna",
+   "time_frame": "the whole of life",
+   "domain": "action",
+   "wording": "absolute",
+   "rationale": "Detached action does not bind.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Follow your own dharma, even if imperfect, over another's well done.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "Arjuna",
+   "time_frame": "the whole of life",
+   "domain": "duty",
+   "wording": "direct",
+   "rationale": "Another's dharma is perilous.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Fight the righteous war without grief.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "warrior",
+   "time_frame": "a single moment or situation",
+   "domain": "war",
+   "wording": "direct",
+   "rationale": "The soul is not slain and duty demands it.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "warrior class (kshatriya)",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Stay equal in pleasure and pain, gain and loss.",
+   "action_type": "feel",
+   "target": "oneself",
+   "addressee": "Arjuna",
+   "time_frame": "the whole of life",
+   "domain": "equanimity",
+   "wording": "direct",
+   "rationale": "Equanimity is yoga.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Devote yourself to Krishna and surrender all actions to him.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "devotee",
+   "time_frame": "the whole of life",
+   "domain": "devotion",
+   "wording": "direct",
+   "rationale": "Surrender brings liberation.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Control the senses and mind through meditation.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "Arjuna",
+   "time_frame": "a regular habit",
+   "domain": "discipline",
+   "wording": "direct",
+   "rationale": "The mind is a friend or enemy.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid lust, anger, and greed.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "Arjuna",
+   "time_frame": "the whole of life",
+   "domain": "vice",
+   "wording": "direct",
+   "rationale": "They are the three gates to hell.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Know the soul is eternal and do not grieve for the dead.",
+   "action_type": "believe",
+   "target": "oneself",
+   "addressee": "Arjuna",
+   "time_frame": "the whole of life",
+   "domain": "death",
+   "wording": "direct",
+   "rationale": "The soul is unborn and indestructible.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be moderate in eating, sleeping, and recreation.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "yogi",
+   "time_frame": "the whole of life",
+   "domain": "moderation",
+   "wording": "direct",
+   "rationale": "Yoga is for the moderate.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "See the same self in all beings.",
+   "action_type": "believe",
+   "target": "other people",
+   "addressee": "Arjuna",
+   "time_frame": "the whole of life",
+   "domain": "unity",
+   "wording": "direct",
+   "rationale": "The wise see all equally.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

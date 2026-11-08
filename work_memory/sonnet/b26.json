@@ -1,0 +1,134 @@
+{
+ "title": "Sutta Nipata",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Wander alone like a rhinoceros horn, free of entanglements.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "solitude",
+   "wording": "direct",
+   "rationale": "Company breeds attachment.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "those seeking liberation",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Give up sensual desire.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "desire",
+   "wording": "direct",
+   "rationale": "Desire causes suffering.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Radiate loving-kindness to all beings without limit.",
+   "action_type": "feel",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "compassion",
+   "wording": "direct",
+   "rationale": "As a mother protects her only child.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Judge a person by deeds, not by birth.",
+   "action_type": "believe",
+   "target": "society or community",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "caste",
+   "wording": "direct",
+   "rationale": "One becomes outcaste or brahmin by deeds.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "birth-based hierarchy"
+  },
+  {
+   "recommendation": "Do not cling to views or quarrel over doctrine.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "views",
+   "wording": "direct",
+   "rationale": "Disputes bring conflict.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid killing and harming living beings.",
+   "action_type": "avoid",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "nonharm",
+   "wording": "direct",
+   "rationale": "All fear death.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Honor parents and be content and grateful.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "blessings",
+   "wording": "direct",
+   "rationale": "These are great blessings.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be heedful and free of anger and pride.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "mindfulness",
+   "wording": "direct",
+   "rationale": "These lead to freedom.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "title": "Instructions for Practical Living (Chuanxilu)",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Unite knowing and acting; true knowledge is already action.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "knowledge",
+   "wording": "direct",
+   "rationale": "Knowing and doing are one process; separation is a flaw.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Extend the innate knowing of the good (liangzhi) in every situation.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "conscience",
+   "wording": "direct",
+   "rationale": "Everyone has innate moral knowledge.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Look for principle in the mind rather than in external things.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "learning",
+   "wording": "direct",
+   "rationale": "Principle is the mind itself.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "none",
+   "conditions": "Zhu Xi's investigation of things",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Eliminate selfish desires and preserve heavenly principle.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "self-cultivation",
+   "wording": "direct",
+   "rationale": "Selfish desires obscure the mind.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Set your resolve firmly to become a sage.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "aspiration",
+   "wording": "direct",
+   "rationale": "Sagehood depends on will, and anyone can attain it.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice cultivation in daily affairs and be vigilant even when alone.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "a regular habit",
+   "domain": "practice",
+   "wording": "direct",
+   "rationale": "Practice must be tested in actual affairs.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Care for all things as one body.",
+   "action_type": "feel",
+   "target": "other people",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "benevolence",
+   "wording": "direct",
+   "rationale": "The mind forms one body with Heaven, Earth, and all things.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

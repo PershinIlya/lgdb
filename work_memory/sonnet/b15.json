@@ -1,0 +1,168 @@
+{
+ "title": "Analects (Lunyu)",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Cultivate ren (benevolence) as the central virtue.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "virtue",
+   "wording": "direct",
+   "rationale": "Ren is the mark of the noble person.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Love learning and review what you have learned.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "a regular habit",
+   "domain": "study",
+   "wording": "direct",
+   "rationale": "Learning brings joy and cultivation.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be filial to parents and respectful to elders.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "child",
+   "time_frame": "the whole of life",
+   "domain": "family",
+   "wording": "direct",
+   "rationale": "Filial piety is the root of ren.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not impose on others what you would not want yourself.",
+   "action_type": "avoid",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "reciprocity",
+   "wording": "absolute",
+   "rationale": "Reciprocity is a single principle to practice for life.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be a junzi who cares about righteousness rather than profit.",
+   "action_type": "value",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "the whole of life",
+   "domain": "ethics",
+   "wording": "direct",
+   "rationale": "The petty person pursues profit.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "none",
+   "conditions": "petty people (xiaoren)",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be trustworthy in word and slow to speak but quick to act.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "speech",
+   "wording": "direct",
+   "rationale": "Words that outrun deeds are shameful.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Reflect on yourself daily and correct faults.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "student",
+   "time_frame": "a regular habit",
+   "domain": "reflection",
+   "wording": "direct",
+   "rationale": "Self-examination improves character.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Follow ritual propriety (li) in conduct.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "ritual",
+   "wording": "direct",
+   "rationale": "Li regulates and expresses feeling.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Rulers should lead by moral example, not coercion.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "ruler",
+   "time_frame": "the whole of life",
+   "domain": "government",
+   "wording": "direct",
+   "rationale": "Virtue attracts people as the pole star draws others.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "practical consequences"
+   ],
+   "scope": "rulers",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Choose friends who are upright and learn from the worthy.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "friendship",
+   "wording": "direct",
+   "rationale": "One can learn from every good example.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

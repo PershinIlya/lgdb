@@ -1,0 +1,386 @@
+{
+ "0": {
+  "domains": [
+   [
+    "relationships",
+    5
+   ],
+   [
+    "values",
+    2
+   ],
+   [
+    "happiness",
+    2
+   ]
+  ],
+  "members": [
+   [
+    "c01",
+    "Build habits around the kind of person you want to be, not only the outcomes you want."
+   ],
+   [
+    "c02",
+    "Choose carefully what to care about, because attention and energy are limited."
+   ],
+   [
+    "c02",
+    "Accept that life involves constant problems and look for problems you enjoy solving."
+   ],
+   [
+    "c02",
+    "Stop trying to feel good all the time and accept negative emotions as normal."
+   ],
+   [
+    "c02",
+    "Take responsibility for everything that happens to you, even when it is not your fault."
+   ],
+   [
+    "c02",
+    "Be willing to be wrong and test your beliefs about yourself and the world."
+   ],
+   [
+    "c02",
+    "Choose good values: those based on things you control, such as honesty, curiosity, and humility."
+   ],
+   [
+    "c02",
+    "Learn to say no and set boundaries in relationships."
+   ],
+   [
+    "c02",
+    "Commit to people, projects, and choices rather than keeping every option open."
+   ],
+   [
+    "c02",
+    "Do not see yourself as exceptional; accept being ordinary and work on mundane tasks."
+   ],
+   [
+    "c03",
+    "Stand up straight with your shoulders back, carrying yourself with confidence."
+   ],
+   [
+    "c03",
+    "Treat yourself as someone you are responsible for helping, as you would a person you care for."
+   ],
+   [
+    "c03",
+    "Befriend people who want the best for you, and drop those who drag you down."
+   ],
+   [
+    "c03",
+    "Compare yourself to who you were yesterday, not to other people."
+   ],
+   [
+    "c03",
+    "Put your own life in order before criticizing the world."
+   ],
+   [
+    "c03",
+    "Pet a cat when you encounter one, and notice the small good things in life."
+   ],
+   [
+    "c04",
+    "Reject the idea that past events or trauma determine your present; choose your actions based on present goals."
+   ],
+   [
+    "c04",
+    "Accept that you can change in this moment by choosing a new lifestyle."
+   ],
+   [
+    "c04",
+    "Stop comparing yourself to others and see differences as equal, not as superior or inferior."
+   ],
+   [
+    "c04",
+    "Separate your tasks from other people's tasks and do not interfere in theirs."
+   ],
+   [
+    "c04",
+    "Treat others as equals and build horizontal relationships."
+   ],
+   [
+    "c04",
+    "Contribute to others without needing gratitude, because the feeling of contribution is itself happiness."
+   ],
+   [
+    "c04",
+    "Accept yourself as you are and focus on using what you have, not on what you lack."
+   ],
+   [
+    "c06",
+    "Be willing to be vulnerable; accept that uncertainty, risk, and emotional exposure are part of living fully."
+   ],
+   [
+    "c06",
+    "Reject the belief that vulnerability is weakness."
+   ],
+   [
+    "c06",
+    "Resist the culture of scarcity, the feeling of never being enough, and practice recognizing what is enough."
+   ],
+   [
+    "c06",
+    "Let go of perfectionism and the fear of what others think."
+   ],
+   [
+    "c06",
+    "Do not numb discomfort with busyness, substances, or other buffers."
+   ],
+   [
+    "c06",
+    "Lead by encouraging vulnerability, honest feedback, and curiosity in organizations and classrooms."
+   ],
+   [
+    "c06",
+    "Accept that you are worthy of love and belonging as you are."
+   ],
+   [
+    "c09",
+    "Embrace challenges instead of avoiding them to look smart."
+   ],
+   [
+    "c09",
+    "Treat setbacks and failure as information and chances to learn, not as a verdict on your worth."
+   ],
+   [
+    "c09",
+    "Be inspired by others' success instead of feeling threatened."
+   ],
+   [
+    "c09",
+    "Coach and lead others by encouraging development and teamwork, not by building a culture of genius."
+   ],
+   [
+    "c09",
+    "In relationships, see partners as able to grow and work on problems together; do not blame or belittle."
+   ],
+   [
+    "c09",
+    "Do not use labels such as gifted or failure for yourself or others."
+   ],
+   [
+    "c09",
+    "Change your mindset gradually by noticing your fixed-mindset voice and choosing a growth response."
+   ],
+   [
+    "c10",
+    "Pursue less but better: focus on the vital few things and deliberately drop the trivial many."
+   ],
+   [
+    "c10",
+    "Know that you can choose what to do; you are not forced to accept every demand."
+   ]
+  ]
+ },
+ "1": {
+  "domains": [
+   [
+    "habits",
+    9
+   ],
+   [
+    "productivity",
+    5
+   ],
+   [
+    "attention",
+    4
+   ]
+  ],
+  "members": [
+   [
+    "c01",
+    "Aim for tiny improvements each day, since small changes compound into large results over time."
+   ],
+   [
+    "c01",
+    "Focus on systems and daily processes rather than on goals alone."
+   ],
+   [
+    "c01",
+    "Make a desired habit obvious by noticing cues and writing down a specific plan for when and where you will do it."
+   ],
+   [
+    "c01",
+    "Stack a new habit onto an existing routine so the old one triggers the new one."
+   ],
+   [
+    "c01",
+    "Redesign your surroundings so good cues are visible and bad cues are hidden."
+   ],
+   [
+    "c01",
+    "Make habits attractive by pairing them with something you enjoy and joining groups where the habit is normal."
+   ],
+   [
+    "c01",
+    "Make habits easy by reducing steps and starting with a version that takes about 2 minutes."
+   ],
+   [
+    "c01",
+    "Make good habits satisfying with immediate rewards and track them visibly, for example with a habit tracker."
+   ],
+   [
+    "c01",
+    "Never miss twice in a row; if you skip a day, get back on track right away."
+   ],
+   [
+    "c01",
+    "Make bad habits invisible, unattractive, difficult, and unsatisfying, reversing the rules for good ones."
+   ],
+   [
+    "c01",
+    "Pick activities that suit your strengths and personality, and keep working at the edge of your ability."
+   ],
+   [
+    "c01",
+    "Review your habits regularly and avoid tying your identity too rigidly to one role."
+   ],
+   [
+    "c02",
+    "Act first and let motivation follow, instead of waiting to feel inspired."
+   ],
+   [
+    "c07",
+    "Embrace boredom and train focus; do not switch to distraction at every brief pause."
+   ],
+   [
+    "c07",
+    "Practice productive meditation: focus on one problem while doing physical activity such as walking."
+   ],
+   [
+    "c07",
+    "Memorize or concentrate on structured material to improve your concentration."
+   ],
+   [
+    "c08",
+    "Apply the 80/20 rule: find the few tasks and customers that produce most results and drop the rest."
+   ],
+   [
+    "c08",
+    "Limit work to the essentials, setting tight deadlines and low-information routines."
+   ],
+   [
+    "c08",
+    "Do not wait for the perfect time; take action and improve as you go."
+   ],
+   [
+    "c09",
+    "Value effort as the path to mastery, not as a sign of lack of ability."
+   ],
+   [
+    "c09",
+    "In sports and business, focus on process and improvement, not on being a natural."
+   ],
+   [
+    "c10",
+    "Make time to explore and think; give yourself space for reflection and play."
+   ],
+   [
+    "c10",
+    "Escape to a quiet place regularly to think and decide what is essential."
+   ],
+   [
+    "c10",
+    "Remove obstacles to the essential, finding the biggest constraint and clearing it."
+   ],
+   [
+    "c10",
+    "Start small and reward progress, aiming for small wins instead of grand launches."
+   ],
+   [
+    "c10",
+    "Build routines that make essentials automatic, and protect the assets of body and sleep."
+   ],
+   [
+    "c10",
+    "Be present in the moment and focus on what is important right now."
+   ]
+  ]
+ },
+ "6": {
+  "domains": [
+   [
+    "parenting",
+    3
+   ],
+   [
+    "learning",
+    2
+   ],
+   [
+    "education and parenting",
+    1
+   ]
+  ],
+  "members": [
+   [
+    "c03",
+    "Do not let your children behave in ways that make others dislike them."
+   ],
+   [
+    "c03",
+    "Do not bother children while they are skating, letting them take risks and develop competence."
+   ],
+   [
+    "c04",
+    "Do not praise or rebuke others; encourage them instead to build their sense of contribution."
+   ],
+   [
+    "c06",
+    "Parent by modeling worthiness and connection, not perfection, and let children see you being imperfect."
+   ],
+   [
+    "c09",
+    "Adopt a growth mindset: believe abilities can be developed through effort, strategy, and help."
+   ],
+   [
+    "c09",
+    "Seek feedback and learn from criticism instead of getting defensive."
+   ],
+   [
+    "c09",
+    "Praise children for effort, strategies, and persistence rather than for intelligence or talent."
+   ]
+  ]
+ },
+ "5": {
+  "domains": [
+   [
+    "meaning",
+    2
+   ],
+   [
+    "death and meaning",
+    1
+   ],
+   [
+    "life meaning",
+    1
+   ]
+  ],
+  "members": [
+   [
+    "c02",
+    "Think about your own mortality to put your concerns in perspective."
+   ],
+   [
+    "c03",
+    "Pursue what is meaningful, not what is expedient."
+   ],
+   [
+    "c04",
+    "Live earnestly in the present moment, treating life as a series of dancing moments, not a path to a goal."
+   ],
+   [
+    "c08",
+    "Define what you want and fear, and set goals to build a lifestyle you actually want instead of postponing life to retirement."
+   ],
+   [
+    "c08",
+    "Fill the time you free up with learning, experiences, and service, not more work."
+   ]
+  ]
+ }
+}

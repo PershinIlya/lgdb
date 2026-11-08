@@ -1,0 +1,152 @@
+{
+ "title": "Classic of Filial Piety (Xiaojing)",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Treat filial piety as the root of all virtue and the basis of teaching.",
+   "action_type": "value",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "family",
+   "wording": "absolute",
+   "rationale": "Filial piety is the foundation from which virtue and moral instruction grow.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Take care of your body, since it was received from your parents.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "child",
+   "time_frame": "the whole of life",
+   "domain": "body",
+   "wording": "direct",
+   "rationale": "Not harming the body is where filial piety begins.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Serve parents with love and respect, and support them in old age.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "child",
+   "time_frame": "the whole of life",
+   "domain": "family",
+   "wording": "direct",
+   "rationale": "Love and reverence are the substance of filial duty.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Establish yourself and win fame so as to honor your parents.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "child",
+   "time_frame": "the whole of life",
+   "domain": "achievement",
+   "wording": "direct",
+   "rationale": "Bringing honor to parents is the end of filial piety.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Rulers should lead by love and respect, avoiding arrogance, so the people follow.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "ruler",
+   "time_frame": "the whole of life",
+   "domain": "government",
+   "wording": "direct",
+   "rationale": "Rulers' example shapes the people and secures the state.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "practical consequences"
+   ],
+   "scope": "rulers",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Serve the ruler with the same loyalty you give your father.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "official",
+   "time_frame": "the whole of life",
+   "domain": "loyalty",
+   "wording": "direct",
+   "rationale": "Filial piety extends to loyalty in office.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "officials and scholars",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Commoners should work the land with the seasons and be thrifty to support parents.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "commoner",
+   "time_frame": "a regular habit",
+   "domain": "livelihood",
+   "wording": "direct",
+   "rationale": "Diligence provides for parents.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "commoners",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Remonstrate with a parent or ruler who is acting wrongly.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "child",
+   "time_frame": "a single moment or situation",
+   "domain": "remonstrance",
+   "wording": "direct",
+   "rationale": "Obedience without protest to wrong conduct is not true filiality.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Mourn dead parents and make sacrifices to them in season.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "child",
+   "time_frame": "the whole of life",
+   "domain": "ritual",
+   "wording": "direct",
+   "rationale": "Filial duty continues after death.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

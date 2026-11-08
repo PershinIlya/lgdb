@@ -1,0 +1,134 @@
+{
+ "title": "Hind Swaraj",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Reject modern civilization and its railways, lawyers, doctors, and machinery.",
+   "action_type": "avoid",
+   "target": "society or community",
+   "addressee": "Indian reader",
+   "time_frame": "the whole of life",
+   "domain": "civilization",
+   "wording": "direct",
+   "rationale": "They enslave people materially and morally.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "India",
+   "conditions": "none",
+   "argued_against": "modern Western civilization"
+  },
+  {
+   "recommendation": "Use passive resistance, or soul-force, instead of violence.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "Indian reader",
+   "time_frame": "the whole of life",
+   "domain": "resistance",
+   "wording": "absolute",
+   "rationale": "Soul-force is superior and morally uplifts both parties.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "violence and terrorism"
+  },
+  {
+   "recommendation": "Seek swaraj as self-rule within yourself first.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "self-rule",
+   "wording": "direct",
+   "rationale": "Real home rule means self-control; otherwise English rule would persist regardless.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Promote Hindu-Muslim unity and tolerance.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "Indian reader",
+   "time_frame": "the whole of life",
+   "domain": "communal harmony",
+   "wording": "direct",
+   "rationale": "The two are one nation and have lived together.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Use only goods made in India (swadeshi).",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "Indian reader",
+   "time_frame": "the whole of life",
+   "domain": "economy",
+   "wording": "direct",
+   "rationale": "It supports village economy and independence.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not hate the English; hate the system not the people.",
+   "action_type": "avoid",
+   "target": "other people",
+   "addressee": "Indian reader",
+   "time_frame": "the whole of life",
+   "domain": "nonviolence",
+   "wording": "direct",
+   "rationale": "Hatred contradicts soul-force.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Educate for character and in the mother tongue rather than English.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "Indian reader",
+   "time_frame": "the whole of life",
+   "domain": "education",
+   "wording": "direct",
+   "rationale": "Colonial education enslaves minds.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Live simply and revive village life, practicing self-control including chastity.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "simplicity",
+   "wording": "direct",
+   "rationale": "Simple living makes soul-force possible.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

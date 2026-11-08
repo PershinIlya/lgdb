@@ -1,0 +1,168 @@
+{
+ "title": "Walden",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Simplify your life; reduce your needs and possessions.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "simplicity",
+   "wording": "direct",
+   "rationale": "Most luxuries are hindrances to elevation.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Live deliberately and face the essential facts of life.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "purpose",
+   "wording": "direct",
+   "rationale": "He did not want to find at death that he had not lived.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not spend your life earning more than needed; avoid overwork.",
+   "action_type": "avoid",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "work",
+   "wording": "direct",
+   "rationale": "Men are tools of their tools, losing life to labor.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Follow your own pace and convictions, not conformity.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "individuality",
+   "wording": "direct",
+   "rationale": "Each should march to the step he hears.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Spend time in nature and in solitude.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "nature",
+   "wording": "direct",
+   "rationale": "Nature and solitude restore and teach.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Distrust fashion and novelty; value clothes and houses for use.",
+   "action_type": "avoid",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "consumption",
+   "wording": "direct",
+   "rationale": "Fashion dictates needlessly.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be self-reliant, providing for your own needs.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "self-reliance",
+   "wording": "direct",
+   "rationale": "Experiment showed one can live on little labor.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Advance confidently in the direction of your dreams.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "aspiration",
+   "wording": "direct",
+   "rationale": "Success comes unexpectedly to those who do.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Read the great books in the original and read deliberately.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "reading",
+   "wording": "direct",
+   "rationale": "Classics are the noblest record of mankind.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Abstain from animal food if you wish a higher spiritual life.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "diet",
+   "wording": "hedged",
+   "rationale": "The higher nature is quickened by purity.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "those seeking spiritual life",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

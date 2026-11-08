@@ -1,0 +1,157 @@
+{
+ "title": "Confessions",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Turn the heart to God, the only true rest for the restless soul.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "faith",
+   "wording": "direct",
+   "rationale": "The heart is restless until it rests in God.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Confess your sins honestly and humbly before God.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "repentance",
+   "wording": "direct",
+   "rationale": "Self-knowledge and God's mercy come through confession.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not seek evil for its own sake, as in stealing for the thrill of wrongdoing.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "sin",
+   "wording": "direct",
+   "rationale": "Gratuitous sin reveals the corruption of the will.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Restrain sensual lust and seek continence through God's grace.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "chastity",
+   "wording": "direct",
+   "rationale": "Lust enslaved the author until grace freed him.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not rely on your own strength; depend on divine grace.",
+   "action_type": "believe",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "grace",
+   "wording": "direct",
+   "rationale": "Human will alone failed the author.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid pride and vain curiosity about worldly knowledge for display.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "pride",
+   "wording": "direct",
+   "rationale": "Pride separates the soul from God.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Reject false doctrines such as Manichaeism and astrology.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "belief",
+   "wording": "direct",
+   "rationale": "They proved false and misled him.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Seek truth with faith first, so that understanding follows belief.",
+   "action_type": "believe",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "faith",
+   "wording": "direct",
+   "rationale": "Faith opens the way to understanding.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Praise God continually.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "worship",
+   "wording": "direct",
+   "rationale": "God is the source of all good.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

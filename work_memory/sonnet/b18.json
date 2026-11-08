@@ -1,0 +1,168 @@
+{
+ "title": "The Art of Worldly Wisdom",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Conceal your intentions and do not reveal your full resources.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "discretion",
+   "wording": "direct",
+   "rationale": "Mystery commands respect; transparency invites defeat.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Keep your composure and never let passion rule.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "self-control",
+   "wording": "direct",
+   "rationale": "Passions cloud judgment.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Know yourself, your strengths and flaws.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "self-knowledge",
+   "wording": "direct",
+   "rationale": "Without self-knowledge you cannot rule yourself.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Guard your reputation and cultivate it.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "reputation",
+   "wording": "direct",
+   "rationale": "Reputation gives power.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Choose associates carefully; learn from the wise.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "company",
+   "wording": "direct",
+   "rationale": "Company shapes you.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Learn to say no gracefully and grant favors with care.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "a single moment or situation",
+   "domain": "relationships",
+   "wording": "direct",
+   "rationale": "Easy yes lessens value.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Time actions well; know when to act and withdraw.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "timing",
+   "wording": "direct",
+   "rationale": "Opportunity is fleeting.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid affectation and vulgarity.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "manners",
+   "wording": "direct",
+   "rationale": "Affectation spoils merit.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not complain or speak ill of yourself.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "speech",
+   "wording": "direct",
+   "rationale": "Complaint loses esteem.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Combine prudence with virtue; be honest in your dealings.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "ethics",
+   "wording": "direct",
+   "rationale": "Virtue is the sun of the world.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

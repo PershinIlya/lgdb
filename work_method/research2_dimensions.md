@@ -1,0 +1,16 @@
+Research summary 2: bottom-up discovery of latent dimensions in text with LLMs, condensed
+
+Common pipeline in the field: (1) an LLM turns raw text into short interpretable units (claims, concepts, ratings); (2) a classical latent-variable model finds dimensions (factor analysis, SVD, IRT ideal points, Bradley-Terry); (3) validation against held-out human labels or known reference points.
+
+- Lexical tradition: Big Five from factor analysis of adjective ratings (Goldberg 1990). Cross-cultural lexical studies replicate only 2 or 3 factors everywhere. LLM successors: Cutler and Condon 2022 (factor transformer similarity of trait words); Suh et al. 2024 (SVD of LLM log-probabilities of 100 adjectives over 208 persona stories recovers Big Five). Lesson: build a document x descriptor matrix filled by LLM ratings, then factor it.
+- Concept induction: BERTopic; TopicGPT (Pham et al. 2024); GoalEx goal-driven explainable clustering (Wang, Shang, McAuley 2023), where the goal can be "ways these texts disagree"; propose-then-verify (Zhong et al. 2022, 2023); LLooM (Lam et al. 2024): distill, cluster, write concepts as explicit yes/no criteria, score every document on every concept, validate against experts; HypotheSAEs (Movva et al. 2025): sparse autoencoder features on embeddings, LLM interprets, held-out validation.
+- Values and tensions: Value Kaleidoscope / ValuePrism (Sorensen et al. 2024): for each situation the LLM lists values, rights, duties with valence supports or opposes; Values in the Wild (Huang et al. 2025): bottom-up value extraction and hierarchical clustering at scale; Inverse Constitutional AI (Findeis et al. 2025): principles kept only if they predict held-out preferences; Friedman et al. 2024: themes classified as resonating with or contradicting opposing positions. No published method discovers trade-off axes (X versus Y) as such across a corpus.
+- Scaling: Wordscores, Wordfish (vocabulary-driven, 1-D; would capture era and translation style). Pairwise comparisons scaled with Bradley-Terry (Carlson and Montgomery 2017); LLM pairwise judgments of senators correlate strongly with DW-NOMINATE (Wu et al. 2023); asking and averaging direct position scores many times matches expert scaling (Le Mens and Gallego 2025).
+- No published computational study of self-help or wisdom books as a corpus was found.
+
+Transferable approaches suggested by the review:
+1. Advice as roll-call votes: extract normalized recommendations; stance matrix book x recommendation (endorse / reject / silent, silent as missing); multidimensional IRT or factor analysis gives axes.
+2. Tension-first induction (Value Kaleidoscope style): for each recommendation, the value it serves and the value it sacrifices; cluster value pairs into candidate axes; keep an axis only if both poles have real book support.
+3. Pairwise judgments plus Bradley-Terry on each candidate axis ("which book pushes more toward X"), several models, permuted order, checked against 10 to 20 hand-placed books.
+4. Embedding or sparse-autoencoder check to find axes without LLM framing bias.
+Risks: era and translation style confound embeddings; LLM prior knowledge of famous books; few axes may be universal across cultures.

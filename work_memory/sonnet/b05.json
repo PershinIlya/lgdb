@@ -1,0 +1,170 @@
+{
+ "title": "The Art of War",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Assess the five factors (way, heaven, earth, commander, method) before committing to war.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "strategy",
+   "wording": "direct",
+   "rationale": "War is vital to the state and calculation predicts outcomes.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Seek to win without fighting; subduing the enemy unfought is the highest skill.",
+   "action_type": "value",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "strategy",
+   "wording": "direct",
+   "rationale": "Battle is costly and risky.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Know the enemy and know yourself to avoid defeat.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "intelligence",
+   "wording": "direct",
+   "rationale": "Knowledge of both sides secures victory in every battle.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Use deception and appear weak when strong.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "deception",
+   "wording": "direct",
+   "rationale": "War is based on deceit.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid prolonged campaigns; win fast.",
+   "action_type": "avoid",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "logistics",
+   "wording": "direct",
+   "rationale": "Long wars drain the state's resources.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Attack where the enemy is weak and avoid his strength.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "tactics",
+   "wording": "direct",
+   "rationale": "Water avoids heights and flows to low places.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Use spies and gather intelligence rather than grudging the cost.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "ruler",
+   "time_frame": "a single moment or situation",
+   "domain": "intelligence",
+   "wording": "direct",
+   "rationale": "Foreknowledge cannot come from spirits or analogy but from men.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not fight out of anger; wage war only when advantageous.",
+   "action_type": "avoid",
+   "target": "society or community",
+   "addressee": "ruler",
+   "time_frame": "a single moment or situation",
+   "domain": "restraint",
+   "wording": "direct",
+   "rationale": "Anger can pass but a ruined state cannot return.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Care for soldiers and keep discipline firm.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "leadership",
+   "wording": "direct",
+   "rationale": "Troops will follow into danger if treated well and led firmly.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Rely on your own readiness, not on the enemy not coming.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "commander",
+   "time_frame": "a single moment or situation",
+   "domain": "preparation",
+   "wording": "direct",
+   "rationale": "Preparedness is the only reliable defense.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

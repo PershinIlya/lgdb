@@ -1,0 +1,140 @@
+{
+ "title": "Vivekachudamani",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Cultivate discrimination between the eternal and the transient.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "discrimination",
+   "wording": "direct",
+   "rationale": "Liberation arises from knowing the Self.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice dispassion toward sense objects.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "detachment",
+   "wording": "direct",
+   "rationale": "Sense objects lead to bondage.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Develop calm, self-control, withdrawal, forbearance, faith, and concentration.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "discipline",
+   "wording": "direct",
+   "rationale": "They are prerequisites to knowledge.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Intensely long for liberation.",
+   "action_type": "feel",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "aspiration",
+   "wording": "direct",
+   "rationale": "Without yearning there is no progress.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Approach a qualified teacher with devotion and questions.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "teacher",
+   "wording": "direct",
+   "rationale": "The guru transmits knowledge.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Listen to the scriptures, reflect, and meditate steadily.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "a regular habit",
+   "domain": "study",
+   "wording": "direct",
+   "rationale": "These three lead to realization.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Realize the Self is Brahman and not the body.",
+   "action_type": "believe",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "non-duality",
+   "wording": "absolute",
+   "rationale": "Identification with body is ignorance.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not rely on scholarship alone without direct realization.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "knowledge",
+   "wording": "direct",
+   "rationale": "Words without realization do not free.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

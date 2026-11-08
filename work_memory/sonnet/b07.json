@@ -1,0 +1,168 @@
+{
+ "title": "Think and Grow Rich",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Develop a burning desire for a definite goal and fix a specific amount you want.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "wealth",
+   "wording": "direct",
+   "rationale": "Riches begin with a definite state of mind.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Write down your goal and repeat it aloud twice daily, visualizing it already achieved.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "autosuggestion",
+   "wording": "direct",
+   "rationale": "Repetition impresses the subconscious mind.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Have faith that you will reach your goal.",
+   "action_type": "feel",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "faith",
+   "wording": "direct",
+   "rationale": "Faith releases the power of the subconscious.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Gain specialized knowledge useful to your purpose.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "knowledge",
+   "wording": "direct",
+   "rationale": "Organized knowledge applied to a plan has power.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Form a Master Mind alliance with others working toward a shared aim.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "cooperation",
+   "wording": "direct",
+   "rationale": "Combined minds create a third more powerful mind.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Persist through setbacks and do not accept defeat.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "persistence",
+   "wording": "direct",
+   "rationale": "Persistence separates success from failure among successful people.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Decide quickly and change decisions slowly.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "decisions",
+   "wording": "direct",
+   "rationale": "Successful people decide promptly; failures dither.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Overcome the six fears: poverty, criticism, ill health, loss of love, old age, and death.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "fear",
+   "wording": "direct",
+   "rationale": "Fear defeats desire and holds people back.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Transmute sexual energy into creative work.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "energy",
+   "wording": "direct",
+   "rationale": "Sex energy is a driving force for achievement.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not procrastinate; start acting on your plan now.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a single moment or situation",
+   "domain": "action",
+   "wording": "direct",
+   "rationale": "Plans without action produce nothing.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

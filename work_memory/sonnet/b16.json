@@ -1,0 +1,167 @@
+{
+ "title": "Republic",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Be just: let reason rule the soul with spirit and appetite subordinate.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "justice",
+   "wording": "direct",
+   "rationale": "Justice is each part doing its own work, producing harmony.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Have philosophers rule the city.",
+   "action_type": "value",
+   "target": "society or community",
+   "addressee": "society",
+   "time_frame": "the whole of life",
+   "domain": "politics",
+   "wording": "absolute",
+   "rationale": "Only those knowing the Good can rule well.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "the ideal city",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Educate guardians in music and gymnastics with censorship of harmful stories.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "society",
+   "time_frame": "the whole of life",
+   "domain": "education",
+   "wording": "direct",
+   "rationale": "Early impressions shape character.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Prefer being just over unjust, even if unseen and unrewarded.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "justice",
+   "wording": "direct",
+   "rationale": "Justice benefits the soul intrinsically.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Never harm others; harming does not make anyone better.",
+   "action_type": "avoid",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "justice",
+   "wording": "direct",
+   "rationale": "Harm makes people worse, and justice does not make worse.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Let guardians own no private property or family in common.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "guardian",
+   "time_frame": "the whole of life",
+   "domain": "property",
+   "wording": "direct",
+   "rationale": "Private interests would divide them.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "guardian class",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Everyone should perform the work suited to their nature.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "citizen",
+   "time_frame": "the whole of life",
+   "domain": "occupation",
+   "wording": "direct",
+   "rationale": "Specialization benefits the city.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Pursue knowledge of the Good through philosophy.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "philosopher",
+   "time_frame": "the whole of life",
+   "domain": "knowledge",
+   "wording": "direct",
+   "rationale": "The Good is the highest form and source of truth.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Control bodily appetites with moderation.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "temperance",
+   "wording": "direct",
+   "rationale": "Unchecked appetite enslaves the soul.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Believe the soul is immortal and justice is rewarded after death.",
+   "action_type": "believe",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "afterlife",
+   "wording": "direct",
+   "rationale": "The Myth of Er shows just souls rewarded.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

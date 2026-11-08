@@ -3,5 +3,7 @@ __pycache__/
 cache/
 corpus/source/
 corpus/raw/buddha_dhamma.txt
-work*/
-keys/
+work_pilot/
+work_pilot1/fragments.jsonl
+work_pilot1/queue/
+work_pilot1/embeddings.npy

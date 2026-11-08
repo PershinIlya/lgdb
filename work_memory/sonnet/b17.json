@@ -1,0 +1,139 @@
+{
+ "title": "The Buddha and His Dhamma",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Follow the Eightfold Path as a path of right conduct.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "morality",
+   "wording": "direct",
+   "rationale": "It ends suffering and builds right society.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Observe the five precepts: no killing, stealing, lying, sexual misconduct, or intoxicants.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "morality",
+   "wording": "direct",
+   "rationale": "They are the basis of moral life.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice compassion and loving-kindness toward all beings.",
+   "action_type": "feel",
+   "target": "other people",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "compassion",
+   "wording": "direct",
+   "rationale": "Dhamma is social morality.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Reject caste and affirm equality of all human beings.",
+   "action_type": "believe",
+   "target": "society or community",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "equality",
+   "wording": "absolute",
+   "rationale": "Inequality causes suffering and contradicts the Buddha.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "caste and Brahmanism"
+  },
+  {
+   "recommendation": "Test teachings by reason; do not accept anything on mere authority.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "reason",
+   "wording": "direct",
+   "rationale": "Dhamma is open to inquiry.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Reject ritual, sacrifice, and belief in a soul or supernatural causes.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "religion",
+   "wording": "direct",
+   "rationale": "The Buddha's religion is moral, not supernatural.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "none",
+   "conditions": "Brahmanical ritual and animal sacrifice",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice the ten perfections (paramitas), including generosity and courage.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "follower",
+   "time_frame": "the whole of life",
+   "domain": "virtue",
+   "wording": "direct",
+   "rationale": "They build character.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Monks should serve society through teaching and service.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "bhikkhu",
+   "time_frame": "the whole of life",
+   "domain": "service",
+   "wording": "direct",
+   "rationale": "Bhikkhu exists for the good of the many.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "monks",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

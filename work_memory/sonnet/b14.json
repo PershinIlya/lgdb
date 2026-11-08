@@ -1,0 +1,137 @@
+{
+ "title": "The Book of Tea",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Find beauty in the everyday and humble things.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "aesthetics",
+   "wording": "direct",
+   "rationale": "Teaism is a worship of the beautiful amid sordid existence.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice simplicity, purity, and harmony in the tea room and life.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "simplicity",
+   "wording": "direct",
+   "rationale": "Reflects Zen and Taoist ideals.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Appreciate imperfection and the incomplete.",
+   "action_type": "value",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "aesthetics",
+   "wording": "direct",
+   "rationale": "Imperfection invites imagination to complete it.",
+   "rationale_type": [
+    "reasoning",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid ostentation and display; practice restraint.",
+   "action_type": "avoid",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "humility",
+   "wording": "direct",
+   "rationale": "Rikyu's ideal refuses show.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Treat host and guest with mutual respect and sincerity.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "host and guest",
+   "time_frame": "a single moment or situation",
+   "domain": "hospitality",
+   "wording": "direct",
+   "rationale": "The tea ceremony is a shared moment.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Approach art with an open and sympathetic mind to understand it.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a single moment or situation",
+   "domain": "art appreciation",
+   "wording": "direct",
+   "rationale": "True appreciation requires inner meeting with the artist.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not wantonly destroy flowers; honor them.",
+   "action_type": "avoid",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "a single moment or situation",
+   "domain": "nature",
+   "wording": "direct",
+   "rationale": "Flower masters treat flowers with reverence.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Adapt and accommodate; harmonize with change like the Taoists.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "adaptation",
+   "wording": "direct",
+   "rationale": "Vacuum of the self allows all.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

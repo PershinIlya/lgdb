@@ -1,0 +1,182 @@
+{
+ "title": "Meditations",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Accept what fate gives and love your allotted role.",
+   "action_type": "feel",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "acceptance",
+   "wording": "direct",
+   "rationale": "Everything is ordered by the universal nature.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Focus on what you control: your judgments and choices.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "control",
+   "wording": "direct",
+   "rationale": "Things outside the mind cannot touch it.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Act for the common good as a social being.",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "duty",
+   "wording": "direct",
+   "rationale": "Humans are made for cooperation.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Remember that death is near and live accordingly.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "mortality",
+   "wording": "direct",
+   "rationale": "Life is short and everything passes.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Live in the present moment.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "presence",
+   "wording": "direct",
+   "rationale": "Only the present can be lost or held.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Get up and do your work as a human being.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "a regular habit",
+   "domain": "diligence",
+   "wording": "direct",
+   "rationale": "Humans are born for work.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be tolerant of others' faults, since they err from ignorance.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "patience",
+   "wording": "direct",
+   "rationale": "No one errs willingly.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not seek fame or worry about others' opinions.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "reputation",
+   "wording": "direct",
+   "rationale": "Fame is brief and empty.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not give in to anger.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "a single moment or situation",
+   "domain": "emotion",
+   "wording": "direct",
+   "rationale": "Anger harms the angry more than its cause.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "View human affairs from above to gain perspective.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "a regular habit",
+   "domain": "perspective",
+   "wording": "direct",
+   "rationale": "Cosmic scale shrinks troubles.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Live according to nature and reason.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "self",
+   "time_frame": "the whole of life",
+   "domain": "virtue",
+   "wording": "direct",
+   "rationale": "Virtue is the only good.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

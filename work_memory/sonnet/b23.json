@@ -1,0 +1,123 @@
+{
+ "title": "Autobiography of a Yogi",
+ "knowledge_basis": "secondary",
+ "recommendations": [
+  {
+   "recommendation": "Practice Kriya Yoga meditation regularly.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "meditation",
+   "wording": "direct",
+   "rationale": "It leads to direct God-realization.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Seek a true guru to guide you.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "seeker",
+   "time_frame": "the whole of life",
+   "domain": "guru",
+   "wording": "direct",
+   "rationale": "The guru awakens the disciple.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Seek direct experience of God rather than belief alone.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "self-realization",
+   "wording": "direct",
+   "rationale": "Religion is verified through experience.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Cultivate devotion and love for God.",
+   "action_type": "feel",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "devotion",
+   "wording": "direct",
+   "rationale": "Love is the path to God.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Believe in karma and reincarnation.",
+   "action_type": "believe",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "metaphysics",
+   "wording": "direct",
+   "rationale": "They explain life's justice.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Combine material efficiency with spiritual life, and care for body.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "balance",
+   "wording": "direct",
+   "rationale": "East and West each lack what the other has.",
+   "rationale_type": [
+    "personal experience or anecdote"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not seek miracles as an end.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "spiritual powers",
+   "wording": "hedged",
+   "rationale": "Miracles are secondary to God.",
+   "rationale_type": [
+    "personal experience or anecdote",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "title": "Rule of Saint Benedict",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Listen attentively and obey the abbot as Christ's representative.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "monk",
+   "time_frame": "the whole of life",
+   "domain": "obedience",
+   "wording": "absolute",
+   "rationale": "Obedience to the superior is obedience to God.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "authority of a person or tradition"
+   ],
+   "scope": "monks",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice humility, ascending its twelve steps.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "monk",
+   "time_frame": "the whole of life",
+   "domain": "humility",
+   "wording": "direct",
+   "rationale": "Humility leads to love of God.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Pray the Divine Office at fixed hours.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "monk",
+   "time_frame": "a regular habit",
+   "domain": "prayer",
+   "wording": "direct",
+   "rationale": "Prayer is the work of God.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "authority of a person or tradition"
+   ],
+   "scope": "monks",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Balance prayer, manual labor, and sacred reading; avoid idleness.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "monk",
+   "time_frame": "a regular habit",
+   "domain": "daily routine",
+   "wording": "direct",
+   "rationale": "Idleness is the enemy of the soul.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Own nothing privately; hold all things in common.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "monk",
+   "time_frame": "the whole of life",
+   "domain": "property",
+   "wording": "absolute",
+   "rationale": "Private ownership is a vice to be uprooted.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "reasoning"
+   ],
+   "scope": "monks",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Welcome guests as Christ.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "monk",
+   "time_frame": "a single moment or situation",
+   "domain": "hospitality",
+   "wording": "direct",
+   "rationale": "Christ is received in the guest.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Keep silence and avoid idle talk and crude laughter.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "monk",
+   "time_frame": "a regular habit",
+   "domain": "speech",
+   "wording": "direct",
+   "rationale": "Much talk invites sin.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Care for the sick, the old, and children.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "monk",
+   "time_frame": "the whole of life",
+   "domain": "care",
+   "wording": "direct",
+   "rationale": "The sick are served as Christ.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Eat and drink in measure; allow a moderate wine ration.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "monk",
+   "time_frame": "a regular habit",
+   "domain": "diet",
+   "wording": "direct",
+   "rationale": "Moderation, with allowances for weakness.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not grumble.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "monk",
+   "time_frame": "the whole of life",
+   "domain": "attitude",
+   "wording": "absolute",
+   "rationale": "Grumbling harms the soul and community.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Prefer nothing to Christ.",
+   "action_type": "value",
+   "target": "the divine or nature",
+   "addressee": "monk",
+   "time_frame": "the whole of life",
+   "domain": "devotion",
+   "wording": "direct",
+   "rationale": "Love of Christ is the goal.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

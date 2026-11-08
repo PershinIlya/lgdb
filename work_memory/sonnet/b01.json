@@ -1,0 +1,134 @@
+{
+ "title": "Satakatraya",
+ "knowledge_basis": "secondary",
+ "recommendations": [
+  {
+   "recommendation": "Give up craving and cultivate contentment, since desire is never satisfied by fulfilling it.",
+   "action_type": "feel",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "desire",
+   "wording": "direct",
+   "rationale": "Craving grows with indulgence and only keeps one restless.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Treat learning as the finest wealth, which cannot be stolen and grows when shared.",
+   "action_type": "value",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "knowledge",
+   "wording": "direct",
+   "rationale": "Knowledge is imperishable unlike material riches.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Keep company with the wise and good, and stay away from fools.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "friendship",
+   "wording": "direct",
+   "rationale": "Company shapes character; fools cannot be reasoned with.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Give wealth generously, since it is otherwise lost or merely enjoyed.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "wealth",
+   "wording": "direct",
+   "rationale": "Wealth has three fates: giving, enjoyment, or loss.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Withdraw from sensual pleasures and turn toward renunciation and devotion to Shiva.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "renunciation",
+   "wording": "direct",
+   "rationale": "Pleasures are fleeting and end in decay and death.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "reader seeking liberation",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not be proud of youth, beauty, or power, because they pass quickly.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "pride",
+   "wording": "direct",
+   "rationale": "All worldly gains are transient.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice patience and forbearance, which adorn the strong.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "character",
+   "wording": "direct",
+   "rationale": "Forbearance is a mark of true strength.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be wary of the snares of sexual attraction.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "sexuality",
+   "wording": "direct",
+   "rationale": "Passion binds and ruins the unwary.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "title": "Poor Richard's Almanack",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Rise early and go to bed early.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a regular habit",
+   "domain": "health and wealth",
+   "wording": "direct",
+   "rationale": "It makes one healthy, wealthy, and wise.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be industrious and avoid idleness.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "work",
+   "wording": "direct",
+   "rationale": "Idleness wastes time; diligence yields wealth.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be frugal and watch small expenses.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "thrift",
+   "wording": "direct",
+   "rationale": "A small leak sinks a great ship.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid debt.",
+   "action_type": "avoid",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "finance",
+   "wording": "direct",
+   "rationale": "Debt makes one a slave.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not waste time.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "time",
+   "wording": "direct",
+   "rationale": "Lost time is never found again.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be honest.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "honesty",
+   "wording": "direct",
+   "rationale": "Honesty is the best policy.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Practice moderation in eating and drinking.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "health",
+   "wording": "direct",
+   "rationale": "Excess harms health.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Do not delay what can be done today.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "a single moment or situation",
+   "domain": "procrastination",
+   "wording": "direct",
+   "rationale": "Delay wastes opportunities.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Help yourself and God will help you.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "self-reliance",
+   "wording": "direct",
+   "rationale": "Effort invites aid.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Be humble; pride is costly.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "pride",
+   "wording": "direct",
+   "rationale": "Pride is expensive.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

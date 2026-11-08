@@ -1,0 +1,152 @@
+{
+ "title": "Ramcharitmanas",
+ "knowledge_basis": "text",
+ "recommendations": [
+  {
+   "recommendation": "Devote yourself to Rama with bhakti and chant his name.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "devotee",
+   "time_frame": "the whole of life",
+   "domain": "devotion",
+   "wording": "direct",
+   "rationale": "Rama's name saves in the Kali age.",
+   "rationale_type": [
+    "divine or scriptural authority",
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Obey parents and honor commitments, as Rama accepted exile.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "child",
+   "time_frame": "the whole of life",
+   "domain": "duty",
+   "wording": "direct",
+   "rationale": "Dharma requires keeping a father's word.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Keep truth and promises.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "truthfulness",
+   "wording": "direct",
+   "rationale": "Rama's rule models truth.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Serve the guru and holy men, and keep their company.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "devotee",
+   "time_frame": "the whole of life",
+   "domain": "satsang",
+   "wording": "direct",
+   "rationale": "Good company bestows devotion and wisdom.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid pride and ego, as in Ravana.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "pride",
+   "wording": "direct",
+   "rationale": "Ravana's arrogance caused his destruction.",
+   "rationale_type": [
+    "authority of a person or tradition",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Wives should be devoted to their husbands, as Sita.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "wife",
+   "time_frame": "the whole of life",
+   "domain": "marriage",
+   "wording": "direct",
+   "rationale": "Sita is the ideal of fidelity.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Rule justly so subjects are content (Ram Rajya).",
+   "action_type": "do",
+   "target": "society or community",
+   "addressee": "ruler",
+   "time_frame": "the whole of life",
+   "domain": "kingship",
+   "wording": "direct",
+   "rationale": "Rama's reign shows righteous rule.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Overcome lust, anger, and greed.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "vice",
+   "wording": "direct",
+   "rationale": "They lead to downfall.",
+   "rationale_type": [
+    "authority of a person or tradition"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Surrender to Rama as the refuge.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "devotee",
+   "time_frame": "the whole of life",
+   "domain": "surrender",
+   "wording": "direct",
+   "rationale": "Grace of Rama frees from rebirth.",
+   "rationale_type": [
+    "divine or scriptural authority"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}

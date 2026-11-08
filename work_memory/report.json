@@ -1,0 +1,303 @@
+{
+ "models": [
+  "haiku",
+  "opus",
+  "sonnet"
+ ],
+ "controls": {
+  "Lantern Words for Young Officials": {
+   "haiku": {
+    "basis": "unknown",
+    "n_recs": 0
+   },
+   "opus": {
+    "basis": "unknown",
+    "n_recs": 0
+   },
+   "sonnet": {
+    "basis": "unknown",
+    "n_recs": 0
+   }
+  },
+  "Counsels of the River Ashram": {
+   "haiku": {
+    "basis": "unknown",
+    "n_recs": 0
+   },
+   "opus": {
+    "basis": "unknown",
+    "n_recs": 0
+   },
+   "sonnet": {
+    "basis": "unknown",
+    "n_recs": 0
+   }
+  },
+  "The Garden of Even Measures": {
+   "haiku": {
+    "basis": "unknown",
+    "n_recs": 0
+   },
+   "opus": {
+    "basis": "unknown",
+    "n_recs": 0
+   },
+   "sonnet": {
+    "basis": "unknown",
+    "n_recs": 0
+   }
+  }
+ },
+ "knowledge_basis": {
+  "haiku": {
+   "text": 21,
+   "secondary": 2,
+   "unknown": 0,
+   "n_recs": 179,
+   "share_with_conditions": 0.01,
+   "wording": {
+    "absolute": 4,
+    "direct": 173,
+    "hedged": 2,
+    "tentative": 0
+   }
+  },
+  "opus": {
+   "text": 20,
+   "secondary": 3,
+   "unknown": 0,
+   "n_recs": 455,
+   "share_with_conditions": 0.09,
+   "wording": {
+    "absolute": 48,
+    "direct": 399,
+    "hedged": 6,
+    "tentative": 2
+   }
+  },
+  "sonnet": {
+   "text": 19,
+   "secondary": 4,
+   "unknown": 0,
+   "n_recs": 204,
+   "share_with_conditions": 0.02,
+   "wording": {
+    "absolute": 10,
+    "direct": 192,
+    "hedged": 2,
+    "tentative": 0
+   }
+  }
+ },
+ "agreement": {
+  "haiku vs opus": {
+   "same_book": 0.561,
+   "different_books": 0.414,
+   "per_book": {
+    "Satakatraya": 0.5,
+    "Confessions": 0.58,
+    "The Everything and the Nothing": 0.52,
+    "Classic of Filial Piety (Xiaojing)": 0.66,
+    "The Art of War": 0.6,
+    "Think and Grow Rich": 0.6,
+    "Hind Swaraj": 0.5,
+    "Ramcharitmanas": 0.6,
+    "Walden": 0.55,
+    "Instructions for Practical Living (Chuanxilu)": 0.57,
+    "The Book of Tea": 0.5,
+    "Analects (Lunyu)": 0.58,
+    "Republic": 0.49,
+    "The Buddha and His Dhamma": 0.58,
+    "The Art of Worldly Wisdom": 0.45,
+    "Meditations": 0.56,
+    "Verses of Vemana": 0.62,
+    "Vivekachudamani": 0.51,
+    "Bhagavad Gita": 0.56,
+    "Autobiography of a Yogi": 0.58,
+    "Poor Richard's Almanack": 0.61,
+    "Rule of Saint Benedict": 0.63,
+    "Sutta Nipata": 0.55
+   }
+  },
+  "haiku vs sonnet": {
+   "same_book": 0.602,
+   "different_books": 0.411,
+   "per_book": {
+    "Satakatraya": 0.54,
+    "Confessions": 0.63,
+    "The Everything and the Nothing": 0.61,
+    "Classic of Filial Piety (Xiaojing)": 0.67,
+    "The Art of War": 0.63,
+    "Think and Grow Rich": 0.66,
+    "Hind Swaraj": 0.52,
+    "Ramcharitmanas": 0.59,
+    "Walden": 0.63,
+    "Instructions for Practical Living (Chuanxilu)": 0.53,
+    "The Book of Tea": 0.59,
+    "Analects (Lunyu)": 0.61,
+    "Republic": 0.51,
+    "The Buddha and His Dhamma": 0.67,
+    "The Art of Worldly Wisdom": 0.54,
+    "Meditations": 0.58,
+    "Verses of Vemana": 0.58,
+    "Vivekachudamani": 0.61,
+    "Bhagavad Gita": 0.6,
+    "Autobiography of a Yogi": 0.65,
+    "Poor Richard's Almanack": 0.64,
+    "Rule of Saint Benedict": 0.7,
+    "Sutta Nipata": 0.58
+   }
+  },
+  "opus vs sonnet": {
+   "same_book": 0.613,
+   "different_books": 0.394,
+   "per_book": {
+    "Satakatraya": 0.52,
+    "Confessions": 0.58,
+    "The Everything and the Nothing": 0.6,
+    "Classic of Filial Piety (Xiaojing)": 0.69,
+    "The Art of War": 0.68,
+    "Think and Grow Rich": 0.64,
+    "Hind Swaraj": 0.59,
+    "Ramcharitmanas": 0.62,
+    "Walden": 0.58,
+    "Instructions for Practical Living (Chuanxilu)": 0.64,
+    "The Book of Tea": 0.59,
+    "Analects (Lunyu)": 0.57,
+    "Republic": 0.6,
+    "The Buddha and His Dhamma": 0.64,
+    "The Art of Worldly Wisdom": 0.52,
+    "Meditations": 0.6,
+    "Verses of Vemana": 0.65,
+    "Vivekachudamani": 0.6,
+    "Bhagavad Gita": 0.64,
+    "Autobiography of a Yogi": 0.62,
+    "Poor Richard's Almanack": 0.64,
+    "Rule of Saint Benedict": 0.67,
+    "Sutta Nipata": 0.6
+   }
+  }
+ },
+ "grounding": {
+  "Satakatraya": {
+   "threshold": 0.497,
+   "haiku": 0.43,
+   "opus": 0.52,
+   "sonnet": 0.38
+  },
+  "Confessions": {
+   "threshold": 0.518,
+   "haiku": 0.75,
+   "opus": 0.74,
+   "sonnet": 0.67
+  },
+  "Classic of Filial Piety (Xiaojing)": {
+   "threshold": 0.461,
+   "haiku": 0.83,
+   "opus": 0.78,
+   "sonnet": 0.67
+  },
+  "The Art of War": {
+   "threshold": 0.441,
+   "haiku": 1.0,
+   "opus": 0.87,
+   "sonnet": 0.9
+  },
+  "Hind Swaraj": {
+   "threshold": 0.473,
+   "haiku": 0.67,
+   "opus": 0.79,
+   "sonnet": 1.0
+  },
+  "Ramcharitmanas": {
+   "threshold": 0.523,
+   "haiku": 0.25,
+   "opus": 0.68,
+   "sonnet": 0.56
+  },
+  "Walden": {
+   "threshold": 0.514,
+   "haiku": 0.38,
+   "opus": 0.67,
+   "sonnet": 0.3
+  },
+  "Instructions for Practical Living (Chuanxilu)": {
+   "threshold": 0.526,
+   "haiku": 0.88,
+   "opus": 0.53,
+   "sonnet": 0.71
+  },
+  "The Book of Tea": {
+   "threshold": 0.446,
+   "haiku": 0.5,
+   "opus": 0.6,
+   "sonnet": 0.62
+  },
+  "Analects (Lunyu)": {
+   "threshold": 0.482,
+   "haiku": 0.22,
+   "opus": 0.2,
+   "sonnet": 0.3
+  },
+  "Republic": {
+   "threshold": 0.522,
+   "haiku": 0.57,
+   "opus": 0.73,
+   "sonnet": 0.8
+  },
+  "The Buddha and His Dhamma": {
+   "threshold": 0.548,
+   "haiku": 0.38,
+   "opus": 0.56,
+   "sonnet": 0.38
+  },
+  "The Art of Worldly Wisdom": {
+   "threshold": 0.543,
+   "haiku": 0.22,
+   "opus": 0.13,
+   "sonnet": 0.4
+  },
+  "Meditations": {
+   "threshold": 0.525,
+   "haiku": 0.33,
+   "opus": 0.12,
+   "sonnet": 0.36
+  },
+  "Verses of Vemana": {
+   "threshold": 0.503,
+   "haiku": 0.0,
+   "opus": 0.25,
+   "sonnet": 0.43
+  },
+  "Vivekachudamani": {
+   "threshold": 0.483,
+   "haiku": 0.29,
+   "opus": 0.76,
+   "sonnet": 0.62
+  },
+  "Bhagavad Gita": {
+   "threshold": 0.508,
+   "haiku": 0.5,
+   "opus": 0.46,
+   "sonnet": 0.5
+  },
+  "Poor Richard's Almanack": {
+   "threshold": 0.437,
+   "haiku": 0.33,
+   "opus": 0.19,
+   "sonnet": 0.3
+  },
+  "Rule of Saint Benedict": {
+   "threshold": 0.497,
+   "haiku": 0.6,
+   "opus": 0.52,
+   "sonnet": 0.55
+  },
+  "Sutta Nipata": {
+   "threshold": 0.499,
+   "haiku": 0.5,
+   "opus": 0.55,
+   "sonnet": 0.5
+  }
+ }
+}

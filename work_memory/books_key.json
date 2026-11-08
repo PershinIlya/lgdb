@@ -1,0 +1,184 @@
+[
+ {
+  "title": "Satakatraya",
+  "author": "Bhartrihari",
+  "year": "5th-7th c",
+  "real": true,
+  "id": "b01"
+ },
+ {
+  "title": "Confessions",
+  "author": "Augustine",
+  "year": "c. 397-400",
+  "real": true,
+  "id": "b02"
+ },
+ {
+  "title": "The Everything and the Nothing",
+  "author": "Meher Baba",
+  "year": "1963",
+  "real": true,
+  "id": "b03"
+ },
+ {
+  "title": "Classic of Filial Piety (Xiaojing)",
+  "author": "Confucius/Zengzi",
+  "year": "3rd-2nd c. BCE",
+  "real": true,
+  "id": "b04"
+ },
+ {
+  "title": "The Art of War",
+  "author": "Sunzi",
+  "year": "5th-4th c. BCE",
+  "real": true,
+  "id": "b05"
+ },
+ {
+  "title": "Lantern Words for Young Officials",
+  "author": "Shen Guangming",
+  "year": "1621",
+  "real": false,
+  "id": "b06"
+ },
+ {
+  "title": "Think and Grow Rich",
+  "author": "Napoleon Hill",
+  "year": "1937",
+  "real": true,
+  "id": "b07"
+ },
+ {
+  "title": "Hind Swaraj",
+  "author": "M. K. Gandhi",
+  "year": "1909",
+  "real": true,
+  "id": "b08"
+ },
+ {
+  "title": "Counsels of the River Ashram",
+  "author": "Swami Nirmalendra Tirtha",
+  "year": "1931",
+  "real": false,
+  "id": "b09"
+ },
+ {
+  "title": "Ramcharitmanas",
+  "author": "Tulsidas",
+  "year": "1574-1577",
+  "real": true,
+  "id": "b10"
+ },
+ {
+  "title": "Walden",
+  "author": "Henry David Thoreau",
+  "year": "1854",
+  "real": true,
+  "id": "b11"
+ },
+ {
+  "title": "The Garden of Even Measures",
+  "author": "Teodor Halvik",
+  "year": "1958",
+  "real": false,
+  "id": "b12"
+ },
+ {
+  "title": "Instructions for Practical Living (Chuanxilu)",
+  "author": "Wang Yangming",
+  "year": "1518-1572",
+  "real": true,
+  "id": "b13"
+ },
+ {
+  "title": "The Book of Tea",
+  "author": "Okakura Kakuzo",
+  "year": "1906",
+  "real": true,
+  "id": "b14"
+ },
+ {
+  "title": "Analects (Lunyu)",
+  "author": "Confucius and disciples",
+  "year": "5th-3rd c. BCE",
+  "real": true,
+  "id": "b15"
+ },
+ {
+  "title": "Republic",
+  "author": "Plato",
+  "year": "c. 375 BCE",
+  "real": true,
+  "id": "b16"
+ },
+ {
+  "title": "The Buddha and His Dhamma",
+  "author": "B. R. Ambedkar",
+  "year": "1957",
+  "real": true,
+  "id": "b17"
+ },
+ {
+  "title": "The Art of Worldly Wisdom",
+  "author": "Baltasar Gracian",
+  "year": "1647",
+  "real": true,
+  "id": "b18"
+ },
+ {
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "year": "c. 170-180",
+  "real": true,
+  "id": "b19"
+ },
+ {
+  "title": "Verses of Vemana",
+  "author": "Vemana",
+  "year": "17th-18th c",
+  "real": true,
+  "id": "b20"
+ },
+ {
+  "title": "Vivekachudamani",
+  "author": "Adi Shankara",
+  "year": "8th-14th c",
+  "real": true,
+  "id": "b21"
+ },
+ {
+  "title": "Bhagavad Gita",
+  "author": "Vyasa",
+  "year": "c. 200 BCE-200 CE",
+  "real": true,
+  "id": "b22"
+ },
+ {
+  "title": "Autobiography of a Yogi",
+  "author": "Paramahansa Yogananda",
+  "year": "1946",
+  "real": true,
+  "id": "b23"
+ },
+ {
+  "title": "Poor Richard's Almanack",
+  "author": "Benjamin Franklin",
+  "year": "1732-1758",
+  "real": true,
+  "id": "b24"
+ },
+ {
+  "title": "Rule of Saint Benedict",
+  "author": "Benedict of Nursia",
+  "year": "c. 530-560",
+  "real": true,
+  "id": "b25"
+ },
+ {
+  "title": "Sutta Nipata",
+  "author": "attributed to the Buddha",
+  "year": "c. 3rd c. BCE",
+  "real": true,
+  "id": "b26"
+ }
+]

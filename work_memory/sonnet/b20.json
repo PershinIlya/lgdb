@@ -1,0 +1,119 @@
+{
+ "title": "Verses of Vemana",
+ "knowledge_basis": "secondary",
+ "recommendations": [
+  {
+   "recommendation": "Reject caste distinctions.",
+   "action_type": "avoid",
+   "target": "society or community",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "caste",
+   "wording": "direct",
+   "rationale": "All humans are alike and share one source.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "all people",
+   "conditions": "none",
+   "argued_against": "caste pride"
+  },
+  {
+   "recommendation": "Do not rely on outward show, rituals, or costumes.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "hypocrisy",
+   "wording": "direct",
+   "rationale": "Real piety lies in the mind.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "none",
+   "conditions": "hypocritical ascetics and priests",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Seek God within oneself.",
+   "action_type": "do",
+   "target": "the divine or nature",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "spirituality",
+   "wording": "direct",
+   "rationale": "God is inside, not in idols.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Give to the needy rather than hoarding.",
+   "action_type": "do",
+   "target": "work or possessions",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "charity",
+   "wording": "direct",
+   "rationale": "Wealth does not accompany you at death.",
+   "rationale_type": [
+    "reasoning",
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Speak truth and be humble.",
+   "action_type": "do",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "virtue",
+   "wording": "direct",
+   "rationale": "Truth is the greatest virtue.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Avoid greed and lust.",
+   "action_type": "avoid",
+   "target": "oneself",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "desire",
+   "wording": "direct",
+   "rationale": "They cause downfall.",
+   "rationale_type": [
+    "practical consequences"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  },
+  {
+   "recommendation": "Keep good company.",
+   "action_type": "do",
+   "target": "other people",
+   "addressee": "reader",
+   "time_frame": "the whole of life",
+   "domain": "company",
+   "wording": "direct",
+   "rationale": "Company affects character.",
+   "rationale_type": [
+    "reasoning"
+   ],
+   "scope": "not stated",
+   "conditions": "none",
+   "argued_against": "none"
+  }
+ ]
+}
