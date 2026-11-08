@@ -24,3 +24,5 @@
 {"label": "code_r1_00", "agent": "a344f351dd315dbef", "model": "claude-sonnet-5-5", "context_tokens": 136364, "output_tokens": 41976, "total": 178340, "note": ""}
 {"label": "code_r2_01", "agent": "aad87b331b73e95b1", "model": "claude-opus-5-5", "context_tokens": 136476, "output_tokens": 36709, "total": 173185, "note": ""}
 {"label": "code_r1_01", "agent": "a925759b2840cbfa4", "model": "claude-sonnet-5-5", "context_tokens": 132398, "output_tokens": 47134, "total": 179532, "note": ""}
+{"label": "code_r2_00", "agent": "acf8aa10bf09974e9", "model": "claude-opus-5-5", "context_tokens": 178728, "output_tokens": 42751, "total": 221479, "note": ""}
+{"label": "tie_00", "agent": "aa2ed55a9b038bdce", "model": "claude-haiku-5-5", "context_tokens": 57314, "output_tokens": 2858, "total": 60172, "note": ""}

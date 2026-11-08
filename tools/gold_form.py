@@ -18,65 +18,86 @@ from lgdb import stance as st  # noqa: E402
 
 WORK = ROOT / "work_stance"
 
-PAGE = """<!doctype html>
-<html lang="ru"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Stance gold cells</title>
+PAGE = """<title>Stance gold cells</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono&display=swap">
 <style>
-:root{--bg:#fbfaf7;--fg:#1d1d1b;--muted:#6b6a65;--card:#fff;--line:#e3e0d8;--accent:#2f5d8a}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#17171a;--fg:#ececea;--muted:#a3a29c;--card:#202024;--line:#33333a;--accent:#8fb6e0}}
-:root[data-theme="dark"]{--bg:#17171a;--fg:#ececea;--muted:#a3a29c;--card:#202024;--line:#33333a;--accent:#8fb6e0}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}
-main{max-width:780px;margin:0 auto;padding:16px}
-h1{font-size:1.3rem;margin:.5rem 0}
-.help{color:var(--muted);font-size:.95rem}
-.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin:18px 0}
-.stmt{font-weight:600;margin:.4rem 0 .8rem}
-details{margin:.3rem 0 .8rem}
-details pre{white-space:pre-wrap;font:14px/1.45 ui-monospace,monospace;background:var(--bg);padding:10px;border-radius:6px;max-height:340px;overflow:auto}
-.codes label{display:inline-block;margin:4px 10px 4px 0;cursor:pointer}
-input[type=text]{width:6em;padding:4px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--fg)}
-textarea{width:100%;box-sizing:border-box;min-height:2.2em;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--fg)}
-.bar{position:sticky;top:0;background:var(--bg);padding:8px 0;border-bottom:1px solid var(--line);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-button{background:var(--accent);color:#fff;border:0;border-radius:6px;padding:8px 14px;font-size:1rem;cursor:pointer}
-.n{color:var(--muted);font-size:.9rem}
-</style></head><body><main>
+/* Layout: one reading column of cards, a sticky status bar on top */
+:root{--bg:#f7f8f6;--fg:#1c2120;--muted:#5f6864;--card:#ffffff;--line:#dde2de;--accent:#2d6a5a;--accent-fg:#ffffff;--pick:#e3efe9;
+--body:"Source Sans 3",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#141816;--fg:#e6ebe8;--muted:#9aa49f;--card:#1c211f;--line:#2e3532;--accent:#7cc0aa;--accent-fg:#0e1311;--pick:#21332c;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#141816;--fg:#e6ebe8;--muted:#9aa49f;--card:#1c211f;--line:#2e3532;--accent:#7cc0aa;--accent-fg:#0e1311;--pick:#21332c;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:16px/1.5 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+main{max-width:760px;margin:0 auto;padding-block:12px 40px}
+h1{font-size:1.35rem;margin:.4rem 0;text-wrap:balance}
+.help{color:var(--muted);font-size:.95rem;max-width:65ch}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center;flex-wrap:wrap;z-index:5}
+.n{color:var(--muted);font-size:.9rem;font-variant-numeric:tabular-nums}
+.cards{display:grid;gap:18px;margin-top:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px;display:grid;gap:10px;min-width:0}
+.stmt{font-weight:600;font-size:1.05rem}
+details pre{white-space:pre-wrap;font:13.5px/1.45 var(--mono);background:var(--bg);padding:10px;border-radius:6px;max-height:340px;overflow:auto;margin:6px 0 0}
+.codes{display:flex;flex-wrap:wrap;gap:6px}
+.codes label{border:1px solid var(--line);border-radius:6px;padding:4px 10px;cursor:pointer}
+.codes label:has(input:checked){background:var(--pick);border-color:var(--accent)}
+.row{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+input[type=text]{width:6em;padding:4px 6px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--fg);font:inherit}
+textarea{width:100%;box-sizing:border-box;min-height:2.4em;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--fg);font:inherit}
+button{background:var(--accent);color:var(--accent-fg);border:0;border-radius:6px;padding:7px 14px;font:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+<main>
 <h1>Ручная проверка: 40 ячеек</h1>
-<p class="help">В каждой карточке: заметки о том, что советует одна книга (название скрыто), и одно утверждение.
+<p class="help">В каждой карточке заметки о том, что советует одна книга (название скрыто), и одно утверждение.
 Ответьте, что эта книга сказала бы читателю об утверждении, только по заметкам.<br>
-A = советует; B = советует против (критикует это или советует другой путь в той же ситуации); N = не затрагивает; U = по заметкам не понять.
-Отметка «с оговорками», если позиция только для названных людей, времён или ситуаций. Для A и B укажите номер заметки (например t3 или m12).
-Ответы сохраняются в этом браузере. В конце нажмите «Скачать ответы» и пришлите файл.</p>
-<div class="bar"><button id="dl">Скачать ответы</button><span id="cnt" class="n"></span></div>
+A = советует. B = советует против (критикует это или советует другой путь в той же ситуации). N = не затрагивает. U = по заметкам не понять.<br>
+«С оговорками»: позиция только для названных людей, времён или ситуаций. Для A и B укажите номер заметки, например t3 или m12.</p>
+<div class="bar"><span id="cnt" class="n"></span><span id="sync" class="n"></span><button id="dl" hidden>Скачать ответы</button></div>
+<div class="cards">
 __CARDS__
+</div>
 </main>
 <script>
-const KEY="lgdb_stance_gold_v1";
-let st={};try{st=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
-function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){};count()}
+const KEY="lgdb_stance_gold_v1";let st={};let db=null;const timers={};
+try{st=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
 function count(){const n=Object.values(st).filter(v=>v&&v.code).length;document.getElementById("cnt").textContent="Заполнено: "+n+" из __N__"}
-document.querySelectorAll(".card").forEach(c=>{const id=c.dataset.cell;const v=st[id]||{};
- c.querySelectorAll("input[type=radio]").forEach(r=>{if(r.value===v.code)r.checked=true;r.onchange=()=>{st[id]={...st[id],code:r.value};save()}});
- const f=c.querySelector("input[type=checkbox]");f.checked=!!v.cond;f.onchange=()=>{st[id]={...st[id],cond:f.checked};save()};
- const e=c.querySelector("input[type=text]");e.value=v.ev||"";e.oninput=()=>{st[id]={...st[id],ev:e.value.trim()};save()};
- const t=c.querySelector("textarea");t.value=v.note||"";t.oninput=()=>{st[id]={...st[id],note:t.value};save()};});
-document.getElementById("dl").onclick=()=>{const b=new Blob([JSON.stringify(st,null,1)],{type:"application/json"});
- const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download="stance_gold_answers.json";a.click()};
-count();
-</script></body></html>"""
+function paint(){document.querySelectorAll(".card").forEach(c=>{const id=c.dataset.cell;const v=st[id]||{};
+ c.querySelectorAll("input[type=radio]").forEach(r=>{r.checked=r.value===v.code});
+ c.querySelector("input[type=checkbox]").checked=!!v.cond;c.querySelector("input[type=text]").value=v.ev||"";c.querySelector("textarea").value=v.note||""});count()}
+function sync(t){document.getElementById("sync").textContent=t}
+function save(id){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){};count();
+ if(!db)return;clearTimeout(timers[id]);timers[id]=setTimeout(()=>{sync("Сохраняю…");
+ db.doc("gold/"+id).set(st[id]).then(()=>sync("Сохранено на сервере")).catch(e=>sync("Не сохранилось на сервере: "+(e&&e.code||"ошибка")+". Ответ остался в этом браузере."))},600)}
+function upd(id,patch){st[id]={...(st[id]||{}),...patch};save(id)}
+document.querySelectorAll(".card").forEach(c=>{const id=c.dataset.cell;
+ c.querySelectorAll("input[type=radio]").forEach(r=>r.onchange=()=>upd(id,{code:r.value}));
+ const f=c.querySelector("input[type=checkbox]");f.onchange=()=>upd(id,{cond:f.checked});
+ const e=c.querySelector("input[type=text]");e.oninput=()=>upd(id,{ev:e.value.trim()});
+ const t=c.querySelector("textarea");t.oninput=()=>upd(id,{note:t.value})});
+paint();
+(async()=>{let d=null;try{d=window.claude&&window.claude.use?await window.claude.use("db"):null}catch(e){}
+ if(!d){sync("Ответы хранятся в этом браузере.");const b=document.getElementById("dl");b.hidden=false;
+  b.onclick=()=>{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(st,null,1)],{type:"application/json"}));a.download="stance_gold_answers.json";a.click()};return}
+ db=d;sync("Загружаю…");const timer=setTimeout(()=>sync("Сервер пока не отвечает. Ответы сохраняются в браузере."),10000);
+ try{const snap=await db.collection("gold").get();clearTimeout(timer);snap.docs.forEach(x=>{if(x.exists)st[x.id]={...(st[x.id]||{}),...x.data()}});
+  paint();sync("Ответы сохраняются на сервере");
+  for(const id in st){if(!snap.docs.some(x=>x.id===id)&&st[id]&&st[id].code)save(id)}}
+ catch(e){clearTimeout(timer);sync("Сервер недоступен: ответы сохраняются в браузере.")}})();
+</script>"""
 
 CARD = """<section class="card" data-cell="{cell}">
 <div class="n">{cell}</div>
 <div class="stmt">{stmt}</div>
 <details open><summary>Заметки о книге</summary><pre>{dossier}</pre></details>
 <div class="codes">
-<label><input type="radio" name="{cell}" value="A"> A советует</label>
-<label><input type="radio" name="{cell}" value="B"> B против</label>
-<label><input type="radio" name="{cell}" value="N"> N не затрагивает</label>
-<label><input type="radio" name="{cell}" value="U"> U не понять</label>
+<label><input type="radio" id="{cell}-A" name="{cell}" value="A"> A советует</label>
+<label><input type="radio" id="{cell}-B" name="{cell}" value="B"> B против</label>
+<label><input type="radio" id="{cell}-N" name="{cell}" value="N"> N не затрагивает</label>
+<label><input type="radio" id="{cell}-U" name="{cell}" value="U"> U не понять</label>
 </div>
-<label><input type="checkbox"> с оговорками</label> &nbsp; заметка: <input type="text" placeholder="t3">
-<div class="n" style="margin-top:6px">Комментарий (по желанию)</div><textarea></textarea>
+<div class="row"><label><input type="checkbox" id="{cell}-c"> с оговорками</label><label>заметка: <input type="text" id="{cell}-ev" placeholder="t3"></label></div>
+<label class="n" for="{cell}-note">Комментарий (по желанию)</label><textarea id="{cell}-note"></textarea>
 </section>"""
 
 
@@ -93,7 +114,11 @@ def build():
 
 
 def score(path: str):
-    ans = json.load(open(path))
+    """answers: the downloaded JSON {cell: {...}}, or an ArtifactData list dump of collection gold."""
+    raw = json.load(open(path))
+    if isinstance(raw, dict) and "docs" in raw:
+        raw = {d["id"]: d.get("data", d) for d in raw["docs"]}
+    ans = raw
     key = {c["cell"]: c for c in json.loads((WORK / "gold_key.json").read_text())}
     fin = st.consensus(WORK)
     tp = fp = fn = 0

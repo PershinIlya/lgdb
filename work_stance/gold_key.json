@@ -1,0 +1,242 @@
+[
+ {
+  "cell": "g01",
+  "row": "D16",
+  "sid": "S052",
+  "stratum": "N"
+ },
+ {
+  "cell": "g02",
+  "row": "D20",
+  "sid": "S071",
+  "stratum": "A"
+ },
+ {
+  "cell": "g03",
+  "row": "D16",
+  "sid": "S121",
+  "stratum": "A"
+ },
+ {
+  "cell": "g04",
+  "row": "D07",
+  "sid": "S077",
+  "stratum": "dispute"
+ },
+ {
+  "cell": "g05",
+  "row": "D17",
+  "sid": "S043",
+  "stratum": "B"
+ },
+ {
+  "cell": "g06",
+  "row": "D31",
+  "sid": "S010",
+  "stratum": "A"
+ },
+ {
+  "cell": "g07",
+  "row": "D35",
+  "sid": "S094",
+  "stratum": "B"
+ },
+ {
+  "cell": "g08",
+  "row": "D03",
+  "sid": "S041",
+  "stratum": "A"
+ },
+ {
+  "cell": "g09",
+  "row": "D25",
+  "sid": "S117",
+  "stratum": "A"
+ },
+ {
+  "cell": "g10",
+  "row": "D35",
+  "sid": "S077",
+  "stratum": "N"
+ },
+ {
+  "cell": "g11",
+  "row": "D07",
+  "sid": "S068",
+  "stratum": "A"
+ },
+ {
+  "cell": "g12",
+  "row": "D22",
+  "sid": "S091",
+  "stratum": "dispute"
+ },
+ {
+  "cell": "g13",
+  "row": "D06",
+  "sid": "S015",
+  "stratum": "B"
+ },
+ {
+  "cell": "g14",
+  "row": "D13",
+  "sid": "S126",
+  "stratum": "N"
+ },
+ {
+  "cell": "g15",
+  "row": "D15",
+  "sid": "S129",
+  "stratum": "dispute"
+ },
+ {
+  "cell": "g16",
+  "row": "D12",
+  "sid": "S141",
+  "stratum": "N"
+ },
+ {
+  "cell": "g17",
+  "row": "D14",
+  "sid": "S018",
+  "stratum": "B"
+ },
+ {
+  "cell": "g18",
+  "row": "D03",
+  "sid": "S108",
+  "stratum": "N"
+ },
+ {
+  "cell": "g19",
+  "row": "D24",
+  "sid": "S049",
+  "stratum": "dispute"
+ },
+ {
+  "cell": "g20",
+  "row": "D11",
+  "sid": "S073",
+  "stratum": "dispute"
+ },
+ {
+  "cell": "g21",
+  "row": "D14",
+  "sid": "S070",
+  "stratum": "B"
+ },
+ {
+  "cell": "g22",
+  "row": "D07",
+  "sid": "S067",
+  "stratum": "A"
+ },
+ {
+  "cell": "g23",
+  "row": "D30",
+  "sid": "S111",
+  "stratum": "N"
+ },
+ {
+  "cell": "g24",
+  "row": "D03",
+  "sid": "S126",
+  "stratum": "A"
+ },
+ {
+  "cell": "g25",
+  "row": "D35",
+  "sid": "S107",
+  "stratum": "B"
+ },
+ {
+  "cell": "g26",
+  "row": "D05",
+  "sid": "S008",
+  "stratum": "A"
+ },
+ {
+  "cell": "g27",
+  "row": "D32",
+  "sid": "S060",
+  "stratum": "N"
+ },
+ {
+  "cell": "g28",
+  "row": "D24",
+  "sid": "S073",
+  "stratum": "N"
+ },
+ {
+  "cell": "g29",
+  "row": "D06",
+  "sid": "S067",
+  "stratum": "B"
+ },
+ {
+  "cell": "g30",
+  "row": "D34",
+  "sid": "S003",
+  "stratum": "B"
+ },
+ {
+  "cell": "g31",
+  "row": "D29",
+  "sid": "S067",
+  "stratum": "B"
+ },
+ {
+  "cell": "g32",
+  "row": "D06",
+  "sid": "S107",
+  "stratum": "B"
+ },
+ {
+  "cell": "g33",
+  "row": "D15",
+  "sid": "S070",
+  "stratum": "B"
+ },
+ {
+  "cell": "g34",
+  "row": "D06",
+  "sid": "S137",
+  "stratum": "B"
+ },
+ {
+  "cell": "g35",
+  "row": "D05",
+  "sid": "S140",
+  "stratum": "N"
+ },
+ {
+  "cell": "g36",
+  "row": "D27",
+  "sid": "S103",
+  "stratum": "A"
+ },
+ {
+  "cell": "g37",
+  "row": "D31",
+  "sid": "S084",
+  "stratum": "N"
+ },
+ {
+  "cell": "g38",
+  "row": "D12",
+  "sid": "S025",
+  "stratum": "B"
+ },
+ {
+  "cell": "g39",
+  "row": "D31",
+  "sid": "S003",
+  "stratum": "B"
+ },
+ {
+  "cell": "g40",
+  "row": "D35",
+  "sid": "S067",
+  "stratum": "B"
+ }
+]

@@ -503,6 +503,30 @@ def criteria(work: Path) -> dict:
         res["per_threshold"][lab_] = {"statements": sum(lab_ in s["thresholds"] for s in stmts.values()),
                                       "addressed": len(ks),
                                       "neg_share": round(sum(fin[k]["code"] == "B" for k in ks) / max(len(ks), 1), 3)}
+    # by statement kind; two-sided statements (NOMINATE-style: >= 3 addressed, minority >= 10%)
+    res["by_kind"], kept = {}, []
+    for kind in ("advised", "criticized", "reversed"):
+        ss = [s for s in stmts if stmts[s]["kind"] == kind]
+        na = nb = 0
+        for s in ss:
+            cs = [fin[(r, s)]["code"] for r in key if key[r]["group"] in ("classic", "modern")]
+            a_, b_ = cs.count("A"), cs.count("B")
+            na, nb = na + a_, nb + b_
+            if kind != "reversed" and a_ + b_ >= 3 and min(a_, b_) / (a_ + b_) >= 0.10:
+                kept.append(s)
+        res["by_kind"][kind] = {"statements": len(ss), "A": na, "B": nb, "neg_share": round(nb / max(na + nb, 1), 3),
+                                "two_sided": sum(1 for s in kept if stmts[s]["kind"] == kind)}
+    m2 = np.array([[SIGN.get(fin[(r, s)]["code"]) or 0 for s in kept] for r in rws], dtype=float)
+    u2, sv2, _ = np.linalg.svd(m2 - m2.mean(0), full_matrices=False)
+    pc1 = u2[:, 0] * sv2[0]
+    res["pc1_two_sided"] = {"statements": len(kept), "var_share": round(float(sv2[0] ** 2 / (sv2 ** 2).sum()), 3),
+                            "r2_modern": r2(lab(lambda k: k["group"] == "modern")),
+                            "r2_text_source": r2(lab(lambda k: k["source"] == "text")),
+                            "r2_coverage": r2(np.abs(m2).sum(1)), "r2_neg_count": r2((m2 < 0).sum(1))}
+    res["two_sided_statements"] = [{"sid": s, "statement": stmts[s]["statement"],
+                                    "A": sum(fin[(r, s)]["code"] == "A" for r in key if key[r]["group"] in ("classic", "modern")),
+                                    "B": sum(fin[(r, s)]["code"] == "B" for r in key if key[r]["group"] in ("classic", "modern"))}
+                                   for s in kept]
     return res
 
 
@@ -516,8 +540,12 @@ def gold_sample(work: Path, n_b=15, n_a=10, n_n=10, n_d=5) -> list[dict]:
     dis = [k for k in real if fin[k]["how"] in ("tie", "weak")]
     pick = rng.sample(dis, min(n_d, len(dis)))
     taken = set(pick)
-    for code_, n in (("B", n_b), ("A", n_a), ("N", n_n)):
-        pool = [k for k in real if fin[k]["code"] == code_ and fin[k]["how"] == "agree" and k not in taken]
+    # B cells mostly from advised statements: rejects of criticized-pole statements are near-unanimous and easy
+    strata = (("B", 12, ("advised",)), ("B", n_b - 12, ("criticized",)), ("A", n_a, ("advised", "criticized")),
+              ("N", n_n, ("advised", "criticized")))
+    for code_, n, kinds in strata:
+        pool = [k for k in real if fin[k]["code"] == code_ and fin[k]["how"] == "agree" and k not in taken
+                and stmts[k[1]]["kind"] in kinds]
         s = rng.sample(pool, min(n, len(pool)))
         pick += s
         taken.update(s)

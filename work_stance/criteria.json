@@ -1,0 +1,272 @@
+{
+ "c1_negative": {
+  "addressed_cells": 1088,
+  "negative": 507,
+  "neg_share": 0.466,
+  "neg_share_without_own_source": 0.349,
+  "neg_share_strict_agree": 0.441,
+  "statements_with_A_and_B": 31,
+  "statements_with_2plus_B": 54,
+  "share_2plus_B": 0.5,
+  "pass": true
+ },
+ "coverage_median_share": 0.329,
+ "c3_alpha": {
+  "nominal_ABNU": 0.736,
+  "interval_sign_U_missing": 0.848,
+  "pass": true
+ },
+ "rater_code_counts": {
+  "r1": {
+   "U": 96,
+   "N": 2889,
+   "B": 777,
+   "A": 678
+  },
+  "r2": {
+   "N": 3115,
+   "A": 578,
+   "B": 598,
+   "U": 149
+  }
+ },
+ "no_evidence_cells": {},
+ "c4_reversal": {
+  "pairs_both_addressed": 374,
+  "both_advised": 0,
+  "share": 0.0,
+  "pass": true
+ },
+ "c5_controls": {
+  "uncoded_share": 1.0,
+  "per_row": {
+   "null1/null": 1.0,
+   "null2/null": 1.0,
+   "i3/memory": 1.0,
+   "i2/memory": 1.0,
+   "i1/memory": 1.0
+  },
+  "pass": true
+ },
+ "c6_memory_vs_text": {
+  "both_addressed": 326,
+  "sign_agreement": 0.985,
+  "addressed_text": 471,
+  "addressed_memory": 398,
+  "pass": true
+ },
+ "pc1": {
+  "var_share": 0.228,
+  "r2_modern": 0.416,
+  "r2_text_source": 0.187,
+  "r2_coverage": 0.883,
+  "r2_neg_count": 0.768
+ },
+ "per_threshold": {
+  "tight": {
+   "statements": 58,
+   "addressed": 579,
+   "neg_share": 0.344
+  },
+  "loose": {
+   "statements": 58,
+   "addressed": 582,
+   "neg_share": 0.584
+  }
+ },
+ "by_kind": {
+  "advised": {
+   "statements": 72,
+   "A": 578,
+   "B": 70,
+   "neg_share": 0.108,
+   "two_sided": 26
+  },
+  "criticized": {
+   "statements": 36,
+   "A": 3,
+   "B": 437,
+   "neg_share": 0.993,
+   "two_sided": 1
+  },
+  "reversed": {
+   "statements": 40,
+   "A": 141,
+   "B": 316,
+   "neg_share": 0.691,
+   "two_sided": 0
+  }
+ },
+ "pc1_two_sided": {
+  "statements": 27,
+  "var_share": 0.248,
+  "r2_modern": 0.051,
+  "r2_text_source": 0.047,
+  "r2_coverage": 0.083,
+  "r2_neg_count": 0.032
+ },
+ "two_sided_statements": [
+  {
+   "sid": "S003",
+   "statement": "A person should stay even-minded and not grieve over death, loss of loved ones, or changing fortunes.",
+   "A": 9,
+   "B": 6
+  },
+  {
+   "sid": "S009",
+   "statement": "A person should honor, obey and care for their parents while alive and mourn them with proper rites.",
+   "A": 9,
+   "B": 1
+  },
+  {
+   "sid": "S010",
+   "statement": "A person should feel painful emotions rather than numb them, while keeping grief from destroying their life.",
+   "A": 7,
+   "B": 6
+  },
+  {
+   "sid": "S016",
+   "statement": "A person should schedule their workday in advance and stop working at a fixed time each day.",
+   "A": 4,
+   "B": 1
+  },
+  {
+   "sid": "S018",
+   "statement": "A person should remember death is coming and do good in this life rather than worrying about the afterlife.",
+   "A": 8,
+   "B": 2
+  },
+  {
+   "sid": "S019",
+   "statement": "A person should be truthful, keep their word, and never pretend to be what they are not.",
+   "A": 18,
+   "B": 2
+  },
+  {
+   "sid": "S027",
+   "statement": "A person should demand much of themselves, aim high, and believe their abilities can grow through effort.",
+   "A": 6,
+   "B": 1
+  },
+  {
+   "sid": "S044",
+   "statement": "A person should honor and obey their parents and elder siblings and fulfil their family duties.",
+   "A": 9,
+   "B": 1
+  },
+  {
+   "sid": "S048",
+   "statement": "A person should worship the deity with wholehearted faith and devotion, meditating on it constantly.",
+   "A": 7,
+   "B": 3
+  },
+  {
+   "sid": "S052",
+   "statement": "A person should care for their own health, resources and future as they would for someone in their charge.",
+   "A": 6,
+   "B": 1
+  },
+  {
+   "sid": "S054",
+   "statement": "A person should see the same soul in all beings and love friends, strangers and enemies equally.",
+   "A": 8,
+   "B": 3
+  },
+  {
+   "sid": "S057",
+   "statement": "A person should respect parents, elders, rulers and traditional laws rather than following momentary whims.",
+   "A": 9,
+   "B": 2
+  },
+  {
+   "sid": "S060",
+   "statement": "A person should guard their mind against disturbance from outside things, including passion-stirring art and poetry.",
+   "A": 10,
+   "B": 2
+  },
+  {
+   "sid": "S067",
+   "statement": "A person should perform traditional rites and honor ancestors, gods and parents with sincere reverence.",
+   "A": 8,
+   "B": 5
+  },
+  {
+   "sid": "S070",
+   "statement": "A person should devote their life to seeking liberation by realizing their identity with ultimate reality, never returning to worldly life.",
+   "A": 4,
+   "B": 6
+  },
+  {
+   "sid": "S075",
+   "statement": "A person should work or practice steadily within set routines, avoiding excess.",
+   "A": 9,
+   "B": 1
+  },
+  {
+   "sid": "S076",
+   "statement": "A person should not grieve over loss, death or hardship, but bear it calmly.",
+   "A": 11,
+   "B": 4
+  },
+  {
+   "sid": "S077",
+   "statement": "A person should keep their own death in mind and use that to focus on doing good in this life.",
+   "A": 5,
+   "B": 1
+  },
+  {
+   "sid": "S082",
+   "statement": "A person should act cautiously, keep resources in reserve, and avoid needless risks.",
+   "A": 4,
+   "B": 2
+  },
+  {
+   "sid": "S094",
+   "statement": "A person should fix their mind on the deity within and serve it through their work rather than through ritual prayers alone.",
+   "A": 5,
+   "B": 2
+  },
+  {
+   "sid": "S105",
+   "statement": "A person should fix their mind on the deity and, if unable, serve it through work done without seeking its fruits.",
+   "A": 5,
+   "B": 2
+  },
+  {
+   "sid": "S107",
+   "statement": "A person should worship the deity alone with wholehearted faith, devoting every action and prayer to it.",
+   "A": 5,
+   "B": 3
+  },
+  {
+   "sid": "S115",
+   "statement": "A person should detach from sensual pleasures, family ties and the pursuit of wealth to free themselves from craving.",
+   "A": 5,
+   "B": 4
+  },
+  {
+   "sid": "S127",
+   "statement": "A person should investigate the truth for themselves rather than blindly accept others' beliefs, while staying open to being wrong.",
+   "A": 11,
+   "B": 3
+  },
+  {
+   "sid": "S131",
+   "statement": "A person should see themselves as ordinary and equal to others rather than special.",
+   "A": 5,
+   "B": 1
+  },
+  {
+   "sid": "S137",
+   "statement": "A person should withdraw from sense pleasures and meditate to realize the Self as one with ultimate reality.",
+   "A": 5,
+   "B": 2
+  },
+  {
+   "sid": "S021",
+   "statement": "A person should rely on the material world and their own powers instead of faith and prayer to the divine.",
+   "A": 2,
+   "B": 11
+  }
+ ]
+}
