@@ -32,6 +32,9 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 main{max-width:760px;margin:0 auto;padding-block:12px 40px}
 h1{font-size:1.35rem;margin:.4rem 0;text-wrap:balance}
 .help{color:var(--muted);font-size:.95rem;max-width:65ch}
+.help p{margin:.4rem 0}
+.orig{color:var(--muted);font-size:.9rem}
+.orig summary{cursor:pointer}
 .bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center;flex-wrap:wrap;z-index:5}
 .n{color:var(--muted);font-size:.9rem;font-variant-numeric:tabular-nums}
 .cards{display:grid;gap:18px;margin-top:16px}
@@ -48,11 +51,16 @@ button{background:var(--accent);color:var(--accent-fg);border:0;border-radius:6p
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 </style>
 <main>
-<h1>Ручная проверка: 40 ячеек</h1>
-<p class="help">В каждой карточке заметки о том, что советует одна книга (название скрыто), и одно утверждение.
-Ответьте, что эта книга сказала бы читателю об утверждении, только по заметкам.<br>
-A = советует. B = советует против (критикует это или советует другой путь в той же ситуации). N = не затрагивает. U = по заметкам не понять.<br>
-«С оговорками»: позиция только для названных людей, времён или ситуаций. Для A и B укажите номер заметки, например t3 или m12.</p>
+<h1>Ручная проверка: 40 карточек</h1>
+<div class="help">
+<p>В каждой карточке 2 части.</p>
+<p><b>Утверждение</b> (жирная строка): совет вида «Человеку следует…». Один и тот же набор утверждений проверялся на всех книгах пилота. Утверждение не обязательно взято из этой книги.</p>
+<p><b>Заметки о книге</b>: краткий список того, что советует одна книга. Название и имена убраны. Буква в номере говорит об источнике: <b>t</b> значит по тексту книги, <b>m</b> значит по памяти модели.</p>
+<p><b>Ваш вопрос:</b> что эта книга сказала бы читателю об утверждении? Судите только по заметкам, даже если узнали книгу.</p>
+<p>A: советует. B: советует против (критикует это или советует другой путь в той же ситуации). N: эту тему не затрагивает. U: по заметкам не понять.<br>
+«С оговорками»: позиция только для названных людей, времён или ситуаций. Для A и B по желанию укажите номер заметки, например m3.</p>
+<p>Текст переведён на русский. Английский оригинал открывается строкой «Оригинал». Если перевод кажется неточным, опирайтесь на оригинал и отметьте это в комментарии.</p>
+</div>
 <div class="bar"><span id="cnt" class="n"></span><span id="sync" class="n"></span><button id="dl" hidden>Скачать ответы</button></div>
 <div class="cards">
 __CARDS__
@@ -90,13 +98,14 @@ CARD = """<section class="card" data-cell="{cell}">
 <div class="n">{cell}</div>
 <div class="stmt">{stmt}</div>
 <details open><summary>Заметки о книге</summary><pre>{dossier}</pre></details>
+<details class="orig"><summary>Оригинал (английский)</summary><p><b>{stmt_en}</b></p><pre>{dossier_en}</pre></details>
 <div class="codes">
 <label><input type="radio" id="{cell}-A" name="{cell}" value="A"> A советует</label>
 <label><input type="radio" id="{cell}-B" name="{cell}" value="B"> B против</label>
 <label><input type="radio" id="{cell}-N" name="{cell}" value="N"> N не затрагивает</label>
 <label><input type="radio" id="{cell}-U" name="{cell}" value="U"> U не понять</label>
 </div>
-<div class="row"><label><input type="checkbox" id="{cell}-c"> с оговорками</label><label>заметка: <input type="text" id="{cell}-ev" placeholder="t3"></label></div>
+<div class="row"><label><input type="checkbox" id="{cell}-c"> с оговорками</label><label>заметка: <input type="text" id="{cell}-ev" placeholder="m3"></label></div>
 <label class="n" for="{cell}-note">Комментарий (по желанию)</label><textarea id="{cell}-note"></textarea>
 </section>"""
 
@@ -106,11 +115,22 @@ def build():
     stmts = {s["sid"]: s for s in st.final_list(WORK)}
     rows = {r["row"]: r for r in st.rows(WORK)}
     (WORK / "gold_key.json").write_text(json.dumps(cells, indent=1))
-    cards = [CARD.format(cell=c["cell"], stmt=html.escape(stmts[c["sid"]]["statement"]),
-                         dossier=html.escape(st._dossier_text(rows[c["row"]]["entries"]))) for c in cells]
+    ru_path = WORK / "gold_ru.json"
+    ru = json.loads(ru_path.read_text()) if ru_path.exists() else {}
+
+    def dossier_ru(row):
+        ents = rows[row]["entries"]
+        if not ents:
+            return "(заметок нет)"
+        return "\n".join(f"{e['id']}. " + ru.get(f"{row}.{e['id']}", st._dossier_text([e]).split(". ", 1)[1]) for e in ents)
+
+    cards = [CARD.format(cell=c["cell"], stmt=html.escape(ru.get(c["sid"], stmts[c["sid"]]["statement"])),
+                         dossier=html.escape(dossier_ru(c["row"])),
+                         stmt_en=html.escape(stmts[c["sid"]]["statement"]),
+                         dossier_en=html.escape(st._dossier_text(rows[c["row"]]["entries"]))) for c in cells]
     out = ROOT / "human" / "stance_gold_form.html"
     out.write_text(PAGE.replace("__CARDS__", "\n".join(cards)).replace("__N__", str(len(cells))))
-    print({"cells": len(cells), "form": str(out)})
+    print({"cells": len(cells), "form": str(out), "translated": sum(k in ru for k in [c["sid"] for c in cells])})
 
 
 def score(path: str):
