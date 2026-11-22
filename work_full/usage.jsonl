@@ -27,3 +27,7 @@
 {"label": "fcode_r2_01", "agent": "ac20c3166e4d7d835", "model": "claude-opus-5-5", "context_tokens": 171413, "output_tokens": 30930, "total": 202343, "note": ""}
 {"label": "fcode_r2_03", "agent": "ae7df31235b9e7f0c", "model": "claude-opus-5-5", "context_tokens": 169742, "output_tokens": 29721, "total": 199463, "note": ""}
 {"label": "fcode_r2_06", "agent": "a7d76238c653c46f9", "model": "claude-opus-5-5", "context_tokens": 112627, "output_tokens": 22007, "total": 134634, "note": ""}
+{"label": "fcode_r2_02", "agent": "a2e1eb4f044141894", "model": "claude-opus-5-5", "context_tokens": 175258, "output_tokens": 34988, "total": 210246, "note": ""}
+{"label": "fcode_r2_04", "agent": "aa4f3d972c6c0fc33", "model": "claude-opus-5-5", "context_tokens": 123792, "output_tokens": 25694, "total": 149486, "note": ""}
+{"label": "fcode_r2_05", "agent": "aae9c2c0e35fdfe5c", "model": "claude-opus-5-5", "context_tokens": 84836, "output_tokens": 31639, "total": 116475, "note": ""}
+{"label": "fcode_r2_08", "agent": "a52f0634a2b9b2526", "model": "claude-opus-5-5", "context_tokens": 132899, "output_tokens": 29102, "total": 162001, "note": ""}
