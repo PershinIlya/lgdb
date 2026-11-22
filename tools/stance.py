@@ -102,6 +102,8 @@ def main():
             out = st.code({r: q(m) for r, m in RATERS.items()}, WORK)
         elif name == "tie":
             out = st.tiebreak(q("haiku"), WORK)
+        elif name == "gold":
+            out = st.gold_panel({m: q(m) for m in ("opus", "sonnet", "haiku")}, WORK)
         elif name == "criteria":
             out = st.criteria(WORK)
             (WORK / "criteria.json").write_text(json.dumps(out, indent=1))

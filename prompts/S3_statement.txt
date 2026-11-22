@@ -1,10 +1,8 @@
 You are helping build a list of plain statements about how a person should live. Each statement will later be checked against many books.
 
-Below are groups of short notes. Each group gathers similar notes taken from different books.
-- In a group of kind "advised", the notes are things that books advise.
-- In a group of kind "criticized", the notes are things that books argue against. For these, state the practice or view itself, as advice that someone could give.
+Below are groups of short notes. Each group gathers similar notes taken from different books. Some notes are pieces of advice; others name a practice, attitude, or view without phrasing it as advice.
 
-For each group, write one sentence that begins "A person should" and states what the notes in the group have in common, so that someone could check it against a book.
+For each group, write one sentence that begins "A person should" and states what the notes in the group have in common, so that someone could check it against a book. When the notes name a practice or view rather than give advice, state it as advice, in the words a person who recommends that practice would use.
 
 Make the sentence concrete: name a specific action or choice, so that a reader could tell whether they follow it. For example, write "A person should spend evenings studying instead of attending social gatherings" rather than "A person should value learning", and "A person should give a fixed share of their income to the poor" rather than "A person should be generous".
 

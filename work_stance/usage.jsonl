@@ -28,3 +28,8 @@
 {"label": "tie_00", "agent": "aa2ed55a9b038bdce", "model": "claude-haiku-5-5", "context_tokens": 57314, "output_tokens": 2858, "total": 60172, "note": ""}
 {"label": "translate_1", "agent": "a0106661326bd9b7a", "model": "claude-sonnet-5-5", "context_tokens": 67634, "output_tokens": 16989, "total": 84623, "note": "gold form translation"}
 {"label": "translate_0", "agent": "a502faa9b7709f037", "model": "claude-sonnet-5-5", "context_tokens": 71153, "output_tokens": 22321, "total": 93474, "note": "gold form translation"}
+{"label": "audit_S3v2", "agent": "ab6650f19750f801f", "model": "claude-sonnet-5-5", "context_tokens": 54464, "output_tokens": 935, "total": 55399, "note": ""}
+{"label": "audit_S3v2", "agent": "a756d2ce6d207e3cd", "model": "claude-opus-5-5", "context_tokens": 54458, "output_tokens": 869, "total": 55327, "note": ""}
+{"label": "audit_S3v2", "agent": "a38d3dbcc9df9a751", "model": "claude-haiku-5-5", "context_tokens": 54619, "output_tokens": 2145, "total": 56764, "note": ""}
+{"label": "gold_sonnet", "agent": "a3bbdf4d832c838d3", "model": "claude-sonnet-5-5", "context_tokens": 129903, "output_tokens": 5834, "total": 135737, "note": ""}
+{"label": "gold_opus", "agent": "a1dce5fd7a1af2ddb", "model": "claude-opus-5-5", "context_tokens": 131945, "output_tokens": 6069, "total": 138014, "note": ""}

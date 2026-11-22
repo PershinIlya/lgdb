@@ -165,7 +165,7 @@ def build_pool(work: Path, provider="sentence-transformers") -> dict:
 def _groups_text(gs: list[dict]) -> str:
     out = []
     for g in gs:
-        out.append(f"{g['group']} (kind: {g['kind']})")
+        out.append(g["group"])
         out += [f"- {m['text']}" for m in g["members"][:12]]
     return "\n".join(out)
 
@@ -552,3 +552,44 @@ def gold_sample(work: Path, n_b=15, n_a=10, n_n=10, n_d=5) -> list[dict]:
     rng.shuffle(pick)
     return [{"cell": f"g{i:02d}", "row": r, "sid": s, "stratum": fin[(r, s)]["code"] if fin[(r, s)]["how"] == "agree"
              else "dispute"} for i, (r, s) in enumerate(pick, 1)]
+
+
+# ---------- model gold panel (replaces the researcher's hand check, by his decision of Nov 15) ----------
+
+def gold_panel(q_by_model: dict, work: Path) -> dict:
+    """Each gold cell coded alone (one statement per prompt) by fresh agents of 3 models; majority = gold."""
+    key = json.loads((work / "gold_key.json").read_text())
+    stmts = {s["sid"]: s for s in final_list(work)}
+    rs = {r["row"]: r for r in rows(work)}
+    out, missing = {}, Counter()
+    for name, q in q_by_model.items():
+        for c in key:
+            r = rs[c["row"]]
+            ans = q.call(coding_prompt("r1", r, [stmts[c["sid"]]]))
+            if ans is None:
+                missing[name] += 1
+                continue
+            p = parse_codes(ans, {e["id"].lower() for e in r["entries"]}, {c["sid"]})
+            out.setdefault(c["cell"], {})[name] = p.get(c["sid"], {"code": "N"})["code"]
+    if missing:
+        return {"missing": dict(missing)}
+    fin = consensus(work)
+    tp = fp = fn = 0
+    rows_out = []
+    for c in key:
+        votes = out[c["cell"]]
+        top, n = Counter(votes.values()).most_common(1)[0]
+        gold = top if n >= 2 else "U"
+        m = fin[(c["row"], c["sid"])]["code"]
+        tp += m == "B" and gold == "B"
+        fp += m == "B" and gold != "B"
+        fn += m != "B" and gold == "B"
+        rows_out.append({**c, "votes": votes, "gold": gold, "matrix": m})
+    res = {"cells": len(rows_out), "reject_precision": round(tp / max(tp + fp, 1), 3),
+           "reject_recall": round(tp / max(tp + fn, 1), 3),
+           "agree_all_codes": round(sum(r["gold"] == r["matrix"] for r in rows_out) / len(rows_out), 3),
+           "unanimous_panel": sum(len(set(r["votes"].values())) == 1 for r in rows_out)}
+    res["pass"] = res["reject_precision"] >= 0.7 and res["reject_recall"] >= 0.6
+    save_jsonl(work / "gold_panel.jsonl", rows_out)
+    (work / "gold_panel.json").write_text(json.dumps(res, indent=1))
+    return res
