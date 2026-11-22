@@ -25,3 +25,5 @@
 {"label": "fcode_r1_04", "agent": "a2054d1f9ca91094a", "model": "claude-sonnet-5-5", "context_tokens": 138610, "output_tokens": 68765, "total": 207375, "note": ""}
 {"label": "fcode_r2_12", "agent": "a93d218aa41f858a4", "model": "claude-opus-5-5", "context_tokens": 84966, "output_tokens": 12482, "total": 97448, "note": ""}
 {"label": "fcode_r2_01", "agent": "ac20c3166e4d7d835", "model": "claude-opus-5-5", "context_tokens": 171413, "output_tokens": 30930, "total": 202343, "note": ""}
+{"label": "fcode_r2_03", "agent": "ae7df31235b9e7f0c", "model": "claude-opus-5-5", "context_tokens": 169742, "output_tokens": 29721, "total": 199463, "note": ""}
+{"label": "fcode_r2_06", "agent": "a7d76238c653c46f9", "model": "claude-opus-5-5", "context_tokens": 112627, "output_tokens": 22007, "total": 134634, "note": ""}
