@@ -20,3 +20,4 @@
 {"label": "fcode_r1_11", "agent": "a423c4483d1acb65d", "model": "claude-sonnet-5-5", "context_tokens": 141112, "output_tokens": 51270, "total": 192382, "note": ""}
 {"label": "fcode_r1_07", "agent": "aa820103bd3a282f9", "model": "claude-sonnet-5-5", "context_tokens": 141668, "output_tokens": 48951, "total": 190619, "note": ""}
 {"label": "fcode_r1_08", "agent": "aebeca58a4760e2dd", "model": "claude-sonnet-5-5", "context_tokens": 139146, "output_tokens": 53193, "total": 192339, "note": ""}
+{"label": "fcode_r1_09", "agent": "a22edd089b47fbc16", "model": "claude-sonnet-5-5", "context_tokens": 111617, "output_tokens": 57635, "total": 169252, "note": ""}
