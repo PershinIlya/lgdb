@@ -13,3 +13,5 @@ a423c4483d1acb65d fcode_r1_11
 af2708400c2dd790e fcode_r1_12
 a3135aad780a29b9b fcode_r2_00
 ac20c3166e4d7d835 fcode_r2_01
+a2e1eb4f044141894 fcode_r2_02
+ae7df31235b9e7f0c fcode_r2_03
