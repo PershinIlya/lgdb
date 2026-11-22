@@ -34,3 +34,6 @@
 {"label": "fcode_r2_07", "agent": "af9ba825961d8c27b", "model": "claude-opus-5-5", "context_tokens": 127144, "output_tokens": 37694, "total": 164838, "note": ""}
 {"label": "fcode_r2_10", "agent": "aa910412922796132", "model": "claude-opus-5-5", "context_tokens": 126751, "output_tokens": 34989, "total": 161740, "note": ""}
 {"label": "fcode_r2_11", "agent": "a65b64a5427b7de0e", "model": "claude-opus-5-5", "context_tokens": 119076, "output_tokens": 31971, "total": 151047, "note": ""}
+{"label": "fcode_r2_09", "agent": "a4cca141f628d3e39", "model": "claude-opus-5-5", "context_tokens": 165131, "output_tokens": 38031, "total": 203162, "note": ""}
+{"label": "ftie_00", "agent": "a47997c359d1fe984", "model": "claude-haiku-5-5", "context_tokens": 70772, "output_tokens": 6620, "total": 77392, "note": ""}
+{"label": "poles", "agent": "a2658cf824dc9f802", "model": "claude-opus-5-5", "context_tokens": 61968, "output_tokens": 730, "total": 62698, "note": "P6 blind pole naming, opus"}

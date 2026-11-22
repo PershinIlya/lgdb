@@ -1,0 +1,116 @@
+Below are 4 dimensions found by a statistical analysis of how many books of life advice relate to many advice statements. For each dimension you get the 12 statements most typical of end X and the 12 most typical of end Y.
+
+## Dimension 1
+End X:
+- A person should seek a true teacher and follow their guidance with humble faith.
+- A person should pray, read scripture, or do spiritual practice every day with persistent diligence.
+- A person should withdraw daily into meditation or prayer to cultivate inner stillness.
+- A person should devote themselves wholly to the deity, relying on prayer and grace rather than their own efforts.
+- A person should study under a true teacher, follow their guidance, and reflect deeply on what they learn.
+- A person should keep in continual communion with the deity through daily prayer and trust.
+- A person should value learning and the guidance of a true teacher as rare treasures.
+- A person should meditate regularly in a quiet place with correct posture, focusing on a single object.
+- A person should confess their sins fully to the deity and turn away from them.
+- A person should turn inward to discern the true self, recognizing the body, mind, and world as transient appearances rather than the self.
+- A person should practice regulated, mindful breathing.
+- A person should restrain their desires and senses and focus only on what is within their control, without striving to become something.
+End Y:
+- A person should test received ideas by their own experience and trust their own thought rather than believing blindly.
+- A person should critically examine teachings by reason and reject those that conflict with it.
+- A person should question and test received beliefs through reason and experience rather than accepting them blindly.
+- A person should study philosophy and put it into practice.
+- A person should treat all people as equals regardless of caste, race, or sex, and not simply conform to social conventions.
+- A person should accept themselves, others, and situations as they are, without projections or forced self-improvement.
+- A person should watch their thoughts and feelings as a witness without identifying with, condemning, or justifying them.
+- A person should treat all people as equals regardless of caste, race, or sex.
+- A person should let thoughts come and go without attaching to them, quieting the mind without forcing it.
+- A person should judge people by their character and deeds, not by birth, wealth, or rank.
+- A person should judge and rank people by their character and deeds, not by birth, wealth, or status.
+- A person should pursue moderate, realistic virtue rather than extreme virtue or happiness in pleasure, honor, or wealth.
+
+## Dimension 2
+End X:
+- A person should not harm, kill, or exploit living beings.
+- A person should hold truth as the highest value and live truthfully in thought, word, and deed.
+- A person should keep their promises and never lie, even at great cost.
+- A person should not harm, kill, or exploit living beings, nor waste their own life and health for gain.
+- A person should treat all people as equals regardless of caste, race, or sex.
+- A person should never harm others, even the wicked, while keeping a watchful distance from dangerous or wicked people.
+- A person should treat all people as equals regardless of caste, race, or sex, and not simply conform to social conventions.
+- A person should judge and rank people by their character and deeds, not by birth, wealth, or status.
+- A person should judge people by their character and deeds, not by birth, wealth, or rank.
+- A person should speak gently and never return harsh words or blows when insulted.
+- A person should speak only words that are true, kind, and beneficial.
+- A person should resist injustice without violence or hatred, willingly accepting the penalties.
+End Y:
+- A person should study under a true teacher, follow their guidance, and reflect deeply on what they learn.
+- A person should seek a true teacher and follow their guidance with humble faith.
+- A person should stop identifying with the body and mind, understanding the true self as distinct from them.
+- A person should let thoughts come and go without attaching to them, quieting the mind without forcing it.
+- A person should stop centering their life on their own goals and happiness.
+- A person should wage war only as a last resort, with sorrow, sparing those who surrender.
+- A person should go to war only as a last resort and with restraint, preferring peace and sparing those who surrender.
+- A person should watch their thoughts and feelings as a witness without identifying with, condemning, or justifying them.
+- A person should accept themselves, others, and situations as they are, without projections or forced self-improvement.
+- A person should turn inward to discern the true self, recognizing the body, mind, and world as transient appearances rather than the self.
+- A person should value learning and the guidance of a true teacher as rare treasures.
+- A person should stop centering their life on their own self, its improvement, and its ambitions.
+
+## Dimension 3
+End X:
+- A person should accept themselves, others, and situations as they are, without projections or forced self-improvement.
+- A person should stop centering their life on their own self, its improvement, and its ambitions.
+- A person should let thoughts come and go without attaching to them, quieting the mind without forcing it.
+- A person should watch their thoughts and feelings as a witness without identifying with, condemning, or justifying them.
+- A person should stop identifying with the body and mind, understanding the true self as distinct from them.
+- A person should stop centering their life on their own goals and happiness.
+- A person should turn inward to discern the true self, recognizing the body, mind, and world as transient appearances rather than the self.
+- A person should spend time alone in silence regularly rather than fleeing loneliness into company, talk, or distractions.
+- A person should devote themselves wholly to the deity, relying on prayer and grace rather than their own efforts.
+- A person should accept whatever fortune brings calmly and willingly, rather than struggling against or brooding over what happens.
+- A person should restrain their desires and senses and focus only on what is within their control, without striving to become something.
+- A person should regard the outer world as an appearance and seek reality within the self.
+End Y:
+- A person should value learning and the guidance of a true teacher as rare treasures.
+- A person should examine themselves every day and correct their shortcomings.
+- A person should study under a true teacher, follow their guidance, and reflect deeply on what they learn.
+- A person should study philosophy and put it into practice.
+- A person should critically examine teachings by reason and reject those that conflict with it.
+- A person should meditate regularly in a quiet place with correct posture, focusing on a single object.
+- A person should test received ideas by their own experience and trust their own thought rather than believing blindly.
+- A person should seek a true teacher and follow their guidance with humble faith.
+- A person should question and test received beliefs through reason and experience rather than accepting them blindly.
+- A person should practice regulated, mindful breathing.
+- A person should repay wrongs with justice rather than revenge, and kindness with kindness.
+- A person should pursue moderate, realistic virtue rather than extreme virtue or happiness in pleasure, honor, or wealth.
+
+## Dimension 4
+End X:
+- A person should examine themselves every day and correct their shortcomings.
+- A person should choose what is right over life or advantage, facing death bravely for a just cause but not recklessly.
+- A person should stop centering their life on their own goals and happiness.
+- A person should speak only words that are true, kind, and beneficial.
+- A person should study philosophy and put it into practice.
+- A person should accept whatever fortune brings calmly and willingly, rather than struggling against or brooding over what happens.
+- A person should confess their sins fully to the deity and turn away from them.
+- A person should devote themselves wholly to the deity, relying on prayer and grace rather than their own efforts.
+- A person should hold truth as the highest value and live truthfully in thought, word, and deed.
+- A person should practice sincere devotion and morality rather than relying on rituals, pilgrimages, or pleasing people.
+- A person should respect all religions as paths to the same truth and promote friendship between religious communities.
+- A person should stop centering their life on their own self, its improvement, and its ambitions.
+End Y:
+- A person should test received ideas by their own experience and trust their own thought rather than believing blindly.
+- A person should critically examine teachings by reason and reject those that conflict with it.
+- A person should question and test received beliefs through reason and experience rather than accepting them blindly.
+- A person should accept themselves, others, and situations as they are, without projections or forced self-improvement.
+- A person should value learning and the guidance of a true teacher as rare treasures.
+- A person should let thoughts come and go without attaching to them, quieting the mind without forcing it.
+- A person should watch their thoughts and feelings as a witness without identifying with, condemning, or justifying them.
+- A person should meditate regularly in a quiet place with correct posture, focusing on a single object.
+- A person should turn inward to discern the true self, recognizing the body, mind, and world as transient appearances rather than the self.
+- A person should withdraw daily into meditation or prayer to cultivate inner stillness.
+- A person should study under a true teacher, follow their guidance, and reflect deeply on what they learn.
+- A person should stop identifying with the body and mind, understanding the true self as distinct from them.
+
+For each dimension answer in JSON: {"dim": n, "name_X": "2 to 5 words", "name_Y": "2 to 5 words", "dimension_name": "short", "relation": "opposed" if following end X typically means giving up what end Y recommends, "different_topics" if the two ends are about unrelated matters, or "mixed", "why": "one sentence"}.
+Return a JSON list of 4 objects and nothing else.

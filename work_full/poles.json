@@ -1,0 +1,34 @@
+[
+ {
+  "dim": 1,
+  "name_X": "Devotional discipline under guidance",
+  "name_Y": "Independent reason and equality",
+  "dimension_name": "Faith and practice vs critical autonomy",
+  "relation": "opposed",
+  "why": "End X asks for humble faith in teachers, the deity, and set daily practice, while end Y tells you to test teachings by your own reason and not believe blindly, so following X largely means giving up Y."
+ },
+ {
+  "dim": 2,
+  "name_X": "Nonviolence, truth, equality",
+  "name_Y": "Inner self-realization via teacher",
+  "dimension_name": "Social ethics vs inner spiritual path",
+  "relation": "different_topics",
+  "why": "End X covers how to treat others (no harm, honesty, equality), while end Y covers seeing past the self, following a teacher, and limits on war, which are separate concerns rather than direct trade-offs."
+ },
+ {
+  "dim": 3,
+  "name_X": "Surrender and non-striving",
+  "name_Y": "Disciplined learning and self-improvement",
+  "dimension_name": "Letting go vs active cultivation",
+  "relation": "opposed",
+  "why": "End X rejects forced self-improvement and striving, while end Y calls for daily self-correction, study, and structured practice, so following one means giving up the other."
+ },
+ {
+  "dim": 4,
+  "name_X": "Moral-religious sincerity and duty",
+  "name_Y": "Contemplative inquiry and meditation",
+  "dimension_name": "Ethical devotion vs meditative introspection",
+  "relation": "mixed",
+  "why": "Some parts clash (devotion and self-correction in X against critical questioning and non-forcing acceptance in Y), but much of it simply puts moral conduct beside meditation techniques, which are different topics."
+ }
+]
