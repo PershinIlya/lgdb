@@ -1,0 +1,1090 @@
+[
+ {
+  "book": "f022",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D001"
+ },
+ {
+  "book": "f038",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D002"
+ },
+ {
+  "book": "f084",
+  "source": "text",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D003"
+ },
+ {
+  "book": "f076",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D004"
+ },
+ {
+  "book": "f077",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D005"
+ },
+ {
+  "book": "f081",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D006"
+ },
+ {
+  "book": "f015",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D007"
+ },
+ {
+  "book": "f049",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D008"
+ },
+ {
+  "book": "f075",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D009"
+ },
+ {
+  "book": "f002",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D010"
+ },
+ {
+  "book": "null2",
+  "source": "null",
+  "group": "null",
+  "period": "null",
+  "region": "null",
+  "row": "D011"
+ },
+ {
+  "book": "f057",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D012"
+ },
+ {
+  "book": "f095",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D013"
+ },
+ {
+  "book": "f085",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D014"
+ },
+ {
+  "book": "f106",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D015"
+ },
+ {
+  "book": "f109",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D016"
+ },
+ {
+  "book": "f101",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D017"
+ },
+ {
+  "book": "f082",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D018"
+ },
+ {
+  "book": "f054",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D019"
+ },
+ {
+  "book": "f021",
+  "source": "text",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D020"
+ },
+ {
+  "book": "i1",
+  "source": "memory",
+  "group": "invented",
+  "period": "invented",
+  "region": "invented",
+  "row": "D021"
+ },
+ {
+  "book": "f042",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D022"
+ },
+ {
+  "book": "f108",
+  "source": "text",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D023"
+ },
+ {
+  "book": "f051",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D024"
+ },
+ {
+  "book": "f119",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D025"
+ },
+ {
+  "book": "f017",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D026"
+ },
+ {
+  "book": "i3",
+  "source": "memory",
+  "group": "invented",
+  "period": "invented",
+  "region": "invented",
+  "row": "D027"
+ },
+ {
+  "book": "f028",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D028"
+ },
+ {
+  "book": "f104",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D029"
+ },
+ {
+  "book": "f110",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D030"
+ },
+ {
+  "book": "f009",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D031"
+ },
+ {
+  "book": "f111",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D032"
+ },
+ {
+  "book": "f094",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D033"
+ },
+ {
+  "book": "f055",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D034"
+ },
+ {
+  "book": "f119",
+  "source": "text",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D035"
+ },
+ {
+  "book": "f061",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D036"
+ },
+ {
+  "book": "f096",
+  "source": "text",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D037"
+ },
+ {
+  "book": "f092",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D038"
+ },
+ {
+  "book": "i2",
+  "source": "memory",
+  "group": "invented",
+  "period": "invented",
+  "region": "invented",
+  "row": "D039"
+ },
+ {
+  "book": "f014",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D040"
+ },
+ {
+  "book": "f048",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D041"
+ },
+ {
+  "book": "f086",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D042"
+ },
+ {
+  "book": "f047",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D043"
+ },
+ {
+  "book": "f074",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D044"
+ },
+ {
+  "book": "f117",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D045"
+ },
+ {
+  "book": "f030",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D046"
+ },
+ {
+  "book": "f003",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D047"
+ },
+ {
+  "book": "f113",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D048"
+ },
+ {
+  "book": "f007",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D049"
+ },
+ {
+  "book": "f059",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D050"
+ },
+ {
+  "book": "f122",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D051"
+ },
+ {
+  "book": "f027",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D052"
+ },
+ {
+  "book": "f078",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D053"
+ },
+ {
+  "book": "f011",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D054"
+ },
+ {
+  "book": "f067",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D055"
+ },
+ {
+  "book": "f005",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D056"
+ },
+ {
+  "book": "f046",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D057"
+ },
+ {
+  "book": "f013",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D058"
+ },
+ {
+  "book": "f062",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D059"
+ },
+ {
+  "book": "f090",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D060"
+ },
+ {
+  "book": "f116",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D061"
+ },
+ {
+  "book": "f102",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D062"
+ },
+ {
+  "book": "f052",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D063"
+ },
+ {
+  "book": "f025",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D064"
+ },
+ {
+  "book": "f016",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D065"
+ },
+ {
+  "book": "f023",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D066"
+ },
+ {
+  "book": "f024",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D067"
+ },
+ {
+  "book": "f039",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D068"
+ },
+ {
+  "book": "f026",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D069"
+ },
+ {
+  "book": "f053",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D070"
+ },
+ {
+  "book": "f064",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D071"
+ },
+ {
+  "book": "f083",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D072"
+ },
+ {
+  "book": "f060",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D073"
+ },
+ {
+  "book": "f050",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D074"
+ },
+ {
+  "book": "f058",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D075"
+ },
+ {
+  "book": "f065",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D076"
+ },
+ {
+  "book": "f035",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D077"
+ },
+ {
+  "book": "f109",
+  "source": "text",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D078"
+ },
+ {
+  "book": "f020",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D079"
+ },
+ {
+  "book": "f006",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D080"
+ },
+ {
+  "book": "f037",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D081"
+ },
+ {
+  "book": "f105",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D082"
+ },
+ {
+  "book": "f041",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D083"
+ },
+ {
+  "book": "f063",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D084"
+ },
+ {
+  "book": "f018",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D085"
+ },
+ {
+  "book": "f071",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D086"
+ },
+ {
+  "book": "f045",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D087"
+ },
+ {
+  "book": "f033",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D088"
+ },
+ {
+  "book": "f088",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D089"
+ },
+ {
+  "book": "f084",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D090"
+ },
+ {
+  "book": "f100",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D091"
+ },
+ {
+  "book": "f032",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D092"
+ },
+ {
+  "book": "f029",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D093"
+ },
+ {
+  "book": "f121",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D094"
+ },
+ {
+  "book": "f091",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D095"
+ },
+ {
+  "book": "f068",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D096"
+ },
+ {
+  "book": "f120",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D097"
+ },
+ {
+  "book": "f021",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D098"
+ },
+ {
+  "book": "f080",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D099"
+ },
+ {
+  "book": "f099",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D100"
+ },
+ {
+  "book": "f066",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D101"
+ },
+ {
+  "book": "f114",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D102"
+ },
+ {
+  "book": "f115",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D103"
+ },
+ {
+  "book": "f031",
+  "source": "text",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D104"
+ },
+ {
+  "book": "f073",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D105"
+ },
+ {
+  "book": "f044",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D106"
+ },
+ {
+  "book": "f067",
+  "source": "text",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D107"
+ },
+ {
+  "book": "f087",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D108"
+ },
+ {
+  "book": "f097",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D109"
+ },
+ {
+  "book": "f093",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D110"
+ },
+ {
+  "book": "f004",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D111"
+ },
+ {
+  "book": "f036",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D112"
+ },
+ {
+  "book": "f056",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D113"
+ },
+ {
+  "book": "f079",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D114"
+ },
+ {
+  "book": "f019",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "South Asia",
+  "row": "D115"
+ },
+ {
+  "book": "f008",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D116"
+ },
+ {
+  "book": "f108",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D117"
+ },
+ {
+  "book": "f069",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "South Asia",
+  "row": "D118"
+ },
+ {
+  "book": "f072",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D119"
+ },
+ {
+  "book": "null1",
+  "source": "null",
+  "group": "null",
+  "period": "null",
+  "region": "null",
+  "row": "D120"
+ },
+ {
+  "book": "f089",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D121"
+ },
+ {
+  "book": "f098",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D122"
+ },
+ {
+  "book": "f010",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D123"
+ },
+ {
+  "book": "f031",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D124"
+ },
+ {
+  "book": "f070",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D125"
+ },
+ {
+  "book": "f102",
+  "source": "text",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D126"
+ },
+ {
+  "book": "f096",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "East Asia",
+  "row": "D127"
+ },
+ {
+  "book": "f103",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D128"
+ },
+ {
+  "book": "f107",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "South Asia",
+  "row": "D129"
+ },
+ {
+  "book": "f040",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D130"
+ },
+ {
+  "book": "f118",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D131"
+ },
+ {
+  "book": "f112",
+  "source": "memory",
+  "group": "real",
+  "period": "before 1500",
+  "region": "Western (Europe and the Americas)",
+  "row": "D132"
+ },
+ {
+  "book": "f034",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "Western (Europe and the Americas)",
+  "row": "D133"
+ },
+ {
+  "book": "f012",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D134"
+ },
+ {
+  "book": "f001",
+  "source": "memory",
+  "group": "real",
+  "period": "1500 to 1945",
+  "region": "East Asia",
+  "row": "D135"
+ },
+ {
+  "book": "f043",
+  "source": "memory",
+  "group": "real",
+  "period": "after 1945",
+  "region": "East Asia",
+  "row": "D136"
+ }
+]

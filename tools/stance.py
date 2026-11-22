@@ -102,6 +102,8 @@ def main():
             out = st.build_pool(WORK)
         elif name == "statements":
             out = st.statements(q("opus"), WORK)
+            if FULL and "statements" in out:
+                out["final_unique"] = len(sf.final_list(WORK))
         elif name == "reverse":
             out = st.reverse(q("opus"), WORK)
         elif name == "code":

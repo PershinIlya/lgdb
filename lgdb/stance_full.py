@@ -135,6 +135,16 @@ def final_list(work: Path) -> list[dict]:
         return load_jsonl(path)
     rows = [{"src": r["group"], "statement": r["statement"], "kind": r["kind"], "thresholds": r["thresholds"],
              "books": r["books"], "reversal_of": None} for r in load_jsonl(work / "pool" / "statements.jsonl")]
+    seen, uniq = {}, []
+    for r in rows:  # exact duplicate texts (same idea found at both thresholds or twice) are coded once
+        k = r["statement"].strip().lower()
+        if k in seen:
+            seen[k]["thresholds"] = sorted(set(seen[k]["thresholds"]) | set(r["thresholds"]))
+            seen[k]["books"] = sorted(set(seen[k]["books"]) | set(r["books"]))
+            continue
+        seen[k] = r
+        uniq.append(r)
+    rows = uniq
     random.Random(SEED + 1).shuffle(rows)
     for n, r in enumerate(rows, 1):
         r["sid"] = f"S{n:03d}"

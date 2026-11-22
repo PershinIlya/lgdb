@@ -8,3 +8,4 @@
 {"label": "frecall_06", "agent": "a8a401ead6f64d056", "model": "claude-opus-5-5", "context_tokens": 62729, "output_tokens": 29084, "total": 91813, "note": ""}
 {"label": "frecall_07", "agent": "a59a5344bd79e1a24", "model": "claude-opus-5-5", "context_tokens": 62698, "output_tokens": 30008, "total": 92706, "note": ""}
 {"label": "frecall_extra", "agent": "a9059c6465a26a90c", "model": "claude-opus-5-5", "context_tokens": 59378, "output_tokens": 3034, "total": 62412, "note": ""}
+{"label": "fstatements", "agent": "a34f7bb1fda3c9fd7", "model": "claude-opus-5-5", "context_tokens": 99219, "output_tokens": 15818, "total": 115037, "note": ""}
