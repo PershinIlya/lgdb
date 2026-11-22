@@ -15,3 +15,8 @@ a3135aad780a29b9b fcode_r2_00
 ac20c3166e4d7d835 fcode_r2_01
 a2e1eb4f044141894 fcode_r2_02
 ae7df31235b9e7f0c fcode_r2_03
+aa4f3d972c6c0fc33 fcode_r2_04
+aae9c2c0e35fdfe5c fcode_r2_05
+a7d76238c653c46f9 fcode_r2_06
+af9ba825961d8c27b fcode_r2_07
+a52f0634a2b9b2526 fcode_r2_08
