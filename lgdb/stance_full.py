@@ -39,6 +39,16 @@ def books() -> list[dict]:
     for r in rows:
         if r["status"] in ELIGIBLE:
             cells[(r["period"], r["region"], r["cell_format"])].append(r)
+    # rule 2 again on normalized titles (parenthetical subtitles differ between cells)
+    best = {}
+    for r in rows:
+        if r["status"] in ELIGIBLE:
+            k = r["title"].split(" (")[0].strip().lower()
+            score = (int(r["rank"]), 0 if r["cell_format"] == "collection" else 1)
+            if k not in best or score < best[k][0]:
+                best[k] = (score, id(r))
+    for c in cells:
+        cells[c] = [r for r in cells[c] if best[r["title"].split(" (")[0].strip().lower()][1] == id(r)]
     out = []
     for c in sorted(cells):
         for r in sorted(cells[c], key=lambda r: int(r["rank"]))[:PER_CELL]:
