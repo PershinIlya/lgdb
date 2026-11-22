@@ -22,3 +22,9 @@ def test_kripp():
 def test_null_dossier_deterministic():
     assert st._null_dossier(1) == st._null_dossier(1)
     assert len(st._null_dossier(1)) == 20
+
+
+def test_parse_codes_spaced_flag():
+    out = st.parse_codes({"codes": ["S001 A c m14", "S002 Bc t3", "S003 N"]}, {"m14", "t3"}, {"S001", "S002", "S003"})
+    assert out["S001"]["code"] == "A" and out["S001"]["cond"] and out["S001"]["ev"] == "m14"
+    assert out["S002"]["code"] == "B" and out["S002"]["cond"]

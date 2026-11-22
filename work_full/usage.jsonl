@@ -13,3 +13,9 @@
 {"label": "fcode_r1_03", "agent": "afdea24c2884dbccd", "model": "claude-sonnet-5-5", "context_tokens": 139879, "output_tokens": 43677, "total": 183556, "note": ""}
 {"label": "fcode_r1_00", "agent": "ab89c1a5083dd5200", "model": "claude-sonnet-5-5", "context_tokens": 140777, "output_tokens": 47317, "total": 188094, "note": ""}
 {"label": "fcode_r1_10", "agent": "a8e1fbe3d11d8120c", "model": "claude-sonnet-5-5", "context_tokens": 113878, "output_tokens": 43059, "total": 156937, "note": ""}
+{"label": "fcode_r1_01", "agent": "a7f0f52c47c7285a5", "model": "claude-sonnet-5-5", "context_tokens": 140040, "output_tokens": 53062, "total": 193102, "note": ""}
+{"label": "fcode_r1_02", "agent": "a64196a97900a889d", "model": "claude-sonnet-5-5", "context_tokens": 140714, "output_tokens": 52312, "total": 193026, "note": ""}
+{"label": "fcode_r1_05", "agent": "aac422a3004f824b6", "model": "claude-sonnet-5-5", "context_tokens": 137714, "output_tokens": 53673, "total": 191387, "note": ""}
+{"label": "fcode_r1_06", "agent": "a57f4fc467022d20b", "model": "claude-sonnet-5-5", "context_tokens": 138980, "output_tokens": 51653, "total": 190633, "note": ""}
+{"label": "fcode_r1_11", "agent": "a423c4483d1acb65d", "model": "claude-sonnet-5-5", "context_tokens": 141112, "output_tokens": 51270, "total": 192382, "note": ""}
+{"label": "fcode_r1_07", "agent": "aa820103bd3a282f9", "model": "claude-sonnet-5-5", "context_tokens": 141668, "output_tokens": 48951, "total": 190619, "note": ""}

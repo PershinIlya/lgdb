@@ -34,7 +34,7 @@ INVENTED = [
 THRESHOLDS = {"tight": 0.40, "loose": 0.50}  # cosine distance; set before any coding
 MAX_PER_THRESHOLD = 60
 N_REVERSED = 40
-CODE_RE = re.compile(r"^\s*(S\d{3})\s+([ABNU])(c?)\s*([tm]\d+)?", re.I)
+CODE_RE = re.compile(r"^\s*(S\d{3})\s+([ABNU])\s*(c?)\s*([tm]\d+)?", re.I)
 
 
 # ---------- books and dossiers ----------
