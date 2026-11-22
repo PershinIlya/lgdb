@@ -33,3 +33,6 @@
 {"label": "audit_S3v2", "agent": "a38d3dbcc9df9a751", "model": "claude-haiku-5-5", "context_tokens": 54619, "output_tokens": 2145, "total": 56764, "note": ""}
 {"label": "gold_sonnet", "agent": "a3bbdf4d832c838d3", "model": "claude-sonnet-5-5", "context_tokens": 129903, "output_tokens": 5834, "total": 135737, "note": ""}
 {"label": "gold_opus", "agent": "a1dce5fd7a1af2ddb", "model": "claude-opus-5-5", "context_tokens": 131945, "output_tokens": 6069, "total": 138014, "note": ""}
+{"label": "audit_S3v3", "agent": "a6f9ec1f1a39644da", "model": "claude-opus-5-5", "context_tokens": 54407, "output_tokens": 1146, "total": 55553, "note": ""}
+{"label": "audit_S3v3", "agent": "a014a8fd4afc86c36", "model": "claude-sonnet-5-5", "context_tokens": 54413, "output_tokens": 917, "total": 55330, "note": ""}
+{"label": "audit_S3v3", "agent": "a0851d94b590ade89", "model": "claude-haiku-5-5", "context_tokens": 56183, "output_tokens": 2487, "total": 58670, "note": ""}

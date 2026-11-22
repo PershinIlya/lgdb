@@ -145,15 +145,15 @@
    "verdict": "pass"
   },
   "S3_statement": {
-   "rounds": 1,
-   "date": "2026-11-08",
+   "rounds": 3,
+   "date": "2026-11-22",
    "core_models": [],
    "borderline": [
-    "opus rank 3 p=0.35: what one book advises another criticizes",
-    "sonnet rank 3 p=0.4 same; rank 5 p=0.25 trade-offs, cue: example 'studying instead of attending social gatherings'"
+    "v3 opus rank 2 p=0.45: concrete advice differs or even conflicts across traditions; rank 3 p=0.3 trade-offs, cue: studying-instead-of-gatherings example"
    ],
    "verdict": "pass",
-   "note": "top-2 guesses: universal core of advice; books or traditions differ on concrete practices"
+   "note": "v3 top-2 guesses: convergence on shared concrete norms; concrete statements are easier to check",
+   "history": "v1 pass (Nov 8) but produced strawman statements for criticized groups; v2 (steelman wording, kind labels shown) failed opus (rank 1, books disagree: one advises what another criticizes, p=0.55) and sonnet (rank 2, p=0.45); v3 hides the advised/criticized kind from the writer and asks to state any named practice in the words of someone who recommends it"
   },
   "S5_reverse": {
    "rounds": 1,
