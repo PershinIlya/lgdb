@@ -1,0 +1,8 @@
+{
+ "cells": 40,
+ "reject_precision": 1.0,
+ "reject_recall": 0.947,
+ "agree_all_codes": 0.95,
+ "unanimous_panel": 36,
+ "pass": true
+}

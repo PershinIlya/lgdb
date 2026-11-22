@@ -36,3 +36,4 @@
 {"label": "audit_S3v3", "agent": "a6f9ec1f1a39644da", "model": "claude-opus-5-5", "context_tokens": 54407, "output_tokens": 1146, "total": 55553, "note": ""}
 {"label": "audit_S3v3", "agent": "a014a8fd4afc86c36", "model": "claude-sonnet-5-5", "context_tokens": 54413, "output_tokens": 917, "total": 55330, "note": ""}
 {"label": "audit_S3v3", "agent": "a0851d94b590ade89", "model": "claude-haiku-5-5", "context_tokens": 56183, "output_tokens": 2487, "total": 58670, "note": ""}
+{"label": "gold_haiku", "agent": "a580ee9a47c61d76d", "model": "claude-haiku-5-5", "context_tokens": 157496, "output_tokens": 30906, "total": 188402, "note": ""}

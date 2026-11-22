@@ -21,9 +21,11 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 from lgdb import stance as st  # noqa: E402
+from lgdb import stance_full as sf  # noqa: E402
 from lgdb.llm import QueueLLM  # noqa: E402
 
-WORK = ROOT / "work_stance"
+FULL = os.environ.get("LGDB_FULL") == "1"
+WORK = ROOT / ("work_full" if FULL else "work_stance")
 Q = WORK / "queue"
 BATCH_DIR = Path(os.environ.get("LGDB_BATCH_DIR", str(Q)))
 MODELS = {"opus": "claude-opus-5-5", "sonnet": "claude-sonnet-5-5", "haiku": "claude-haiku-5-5"}
@@ -88,7 +90,11 @@ def main():
 
     if a.cmd == "stage":
         name = a.args[0]
-        if name == "recall":
+        if FULL and name in ("recall", "pool", "code", "tie"):
+            out = {"recall": lambda: sf.recall(q("opus"), WORK), "pool": lambda: sf.build_pool(WORK),
+                   "code": lambda: sf.code({r: q(m) for r, m in RATERS.items()}, WORK),
+                   "tie": lambda: sf.tiebreak(q("haiku"), WORK)}[name]()
+        elif name == "recall":
             out = st.recall(q("opus"), WORK)
         elif name == "condense":
             out = st.condense(q("sonnet"), WORK)
