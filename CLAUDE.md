@@ -25,5 +25,12 @@ Ordinary subagents receive this CLAUDE.md (it states the hypothesis); renaming t
 - Criterion 2 waits for the researcher: 40 blind cells at https://claude.ai/artifact/7hGxwQNXv4b6Gvt2btxFyG (db collection "gold"; score with tools/gold_form.py score). Criterion 7: no leakage guess named poles or trade-offs in top-2 for S1-S4.
 - Pilot spent about 2.5M tokens (work_stance/usage.jsonl).
 
+## Full stance run (done Nov 22, work_full/, code lgdb/stance_full.py, lgdb/stance_analysis.py)
+- 125 books (7 per period x region x format cell, rule in stance_full.books), 122 known to memory; 192 statements; R1 sonnet, R2 opus, 8 A-vs-B ties by haiku. About 5.55M tokens (work_full/usage.jsonl).
+- `LGDB_FULL=1 python tools/stance.py stage analyze` writes work_full/analysis.json. Negatives are rare (7.4% of addressed cells); 47 statements two-sided enough, 58 books placed (34 South Asian).
+- Parallel analysis k=4. By the locked keep rules 0 axes pass: dim 1 (faith and guidance vs own reason) congruence 0.93, rater r 0.93, text vs memory 0.94, fails on R2 with negative count 0.33 > 0.30; dim 2 (nonviolence and truth vs inner path) congruence 0.849; dims 3 (letting go vs disciplined cultivation) and 4 unstable. Blind pole names: work_full/poles.json.
+- No extremity: tail shares below the permutation null, unimodal. Period eta2 <= 0.08 (all p > 0.09); region weak (dims 2, 4).
+- Map page: human/stance_map.html, https://claude.ai/artifact/SmdbNEVET8ypmkW4JvU9wW
+
 ## Not in git
 Ambedkar text (US copyright), downloaded sources (python run.py fetch restores them), cache/, pilot fragments.
