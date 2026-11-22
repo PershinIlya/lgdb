@@ -20,3 +20,7 @@ aae9c2c0e35fdfe5c fcode_r2_05
 a7d76238c653c46f9 fcode_r2_06
 af9ba825961d8c27b fcode_r2_07
 a52f0634a2b9b2526 fcode_r2_08
+a4cca141f628d3e39 fcode_r2_09
+aa910412922796132 fcode_r2_10
+a65b64a5427b7de0e fcode_r2_11
+a93d218aa41f858a4 fcode_r2_12
