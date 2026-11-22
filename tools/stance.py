@@ -112,6 +112,13 @@ def main():
             out = st.tiebreak(q("haiku"), WORK)
         elif name == "gold":
             out = st.gold_panel({m: q(m) for m in ("opus", "sonnet", "haiku")}, WORK)
+        elif name == "analyze":
+            from lgdb import stance_analysis as sa
+            out = sa.analyze(WORK)
+            (WORK / "analysis.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
+            out = {k: v for k, v in out.items() if k not in ("dimensions", "kept_statement_ids")} | {
+                "dimensions": [{k: v for k, v in d.items() if k not in ("books", "pole_high", "pole_low")}
+                               for d in out["dimensions"]]}
         elif name == "criteria":
             out = st.criteria(WORK)
             (WORK / "criteria.json").write_text(json.dumps(out, indent=1))
