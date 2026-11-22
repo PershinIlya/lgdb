@@ -16,3 +16,5 @@ Analysis (preregistered):
 - Extremity (one-pole hypothesis): bimodality of book scores per dimension (share of books beyond 1 SD vs middle) compared with a null that permutes each statement's codes among the books that address it and repeats the same selection and SVD (200 permutations).
 - Era and culture: eta-squared of scores on period and on region, permutation p (1000); memory rows only, text rows as a check.
 - Poles named by one opus agent from the top 12 statements per end, no book names (P6, exempt).
+
+Amendment (Nov 22, before statements and coding): clusters with more than 40 members are dropped. At 0.50 a few average-linkage clusters chained unrelated advice (up to 123 items from 70 books), which cannot yield one checkable statement.

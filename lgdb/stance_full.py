@@ -26,6 +26,7 @@ ELIGIBLE = {"selected", "no usable full text yet", "available, beyond first 6"}
 THRESHOLDS = {"tight": 0.40, "loose": 0.50}
 MIN_BOOKS = 3
 MAX_PER_THRESHOLD = 100
+MAX_MEMBERS = 40  # larger average-linkage clusters chain unrelated advice
 PILOT_TEXT = {"Analects (Lunyu)": "analects", "Bhagavad Gita": "gita", "Vivekachudamani": "vivekachudamani",
               "Meditations": "meditations", "Republic": "republic",
               "Classic of Filial Piety (Xiaojing)": "xiaojing", "The Art of Worldly Wisdom": "worldly_wisdom",
@@ -101,7 +102,7 @@ def build_pool(work: Path, provider="sentence-transformers") -> dict:
                 cl[int(l)].append(k)
             for m in cl.values():
                 bk = {items[k]["book"] for k in m}
-                if len(bk) < MIN_BOOKS:
+                if len(bk) < MIN_BOOKS or len(m) > MAX_MEMBERS:
                     continue
                 sig = tuple(sorted(m))
                 if sig in seen:
