@@ -5,3 +5,4 @@
 {"label": "audit_A1_opus", "agent": "ac8cfffd699492870", "model": "claude-opus-5-5", "context_tokens": 78956, "output_tokens": 1241, "total": 80197, "note": "P0 leakage audit"}
 {"label": "audit_A1_sonnet", "agent": "a3d16cbd30ac855e3", "model": "claude-sonnet-5-5", "context_tokens": 78962, "output_tokens": 1639, "total": 80601, "note": "P0 leakage audit"}
 {"label": "audit_A1_haiku", "agent": "a346d0d1d40e72af1", "model": "claude-haiku-5-5", "context_tokens": 79053, "output_tokens": 3049, "total": 82102, "note": "P0 leakage audit"}
+{"label": "xrecall_01", "agent": "a19160f4197b1a19e", "model": "claude-opus-5-5", "context_tokens": 59593, "output_tokens": 17399, "total": 76992, "note": ""}
