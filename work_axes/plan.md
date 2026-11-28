@@ -35,3 +35,9 @@ recorded in work_axes/audit_raw and left for the researcher to accept or reject.
 Extra titles: 24 well-known books, speeches and essays outside the mechanical sample
 (work_axes/extra_books.json), recalled with S1 and coded like the rest. They are drawn on the map,
 marked as added, and excluded from every test.
+
+## Amendment 2 (2026-11-28, after the first analysis, at the researcher's request for more modern titles)
+Modern books touch few of the 12 axes (median 4). More axes are written with the same A1 prompt, fed with
+the 40 tension groups not used by K01..K12 that the existing axes cover worst (mean number of placed axes
+of the group's books, lowest first). Period is not used in the selection. New axes are coded like the first
+ones (S225 onward, codes_more.jsonl) and analysed with the same keep rules. K01..K12 results are unchanged.

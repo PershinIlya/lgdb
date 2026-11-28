@@ -117,6 +117,42 @@ def recall_extra(q, work: Path) -> dict:
     return {"done": len(res), "missing": missing, "basis": dict(Counter(r.get("knowledge_basis") for r in res.values()))}
 
 
+MORE_GROUPS = 40
+
+
+def axes_more(q, work: Path) -> dict:
+    """Second A1 call (amendment 2): same prompt, fed with the tension groups not used by the first
+    axes, ranked by how poorly the existing axes cover their books (fewest placed axes first)."""
+    groups = load_jsonl(work / "tensions.jsonl")
+    first = [a for a in load_jsonl(work / "axes.jsonl") if int(a["kid"][1:]) <= 12]
+    used = {g for a in first for g in a["x_groups"] + a["y_groups"]}
+    an = json.loads((work / "analysis.json").read_text())
+    cov = defaultdict(list)
+    for b in an["books"].values():
+        if b["source"] == "memory":
+            cov[b["book"]].append(len(b["pos"]))
+    cover = {k: np.mean(v) for k, v in cov.items()}
+    rest = [g for g in groups if g["gid"] not in used]
+    rest.sort(key=lambda g: (np.mean([cover.get(b, 0) for b in g["books"]]), g["gid"]))
+    pick = sorted(rest[:MORE_GROUPS], key=lambda g: g["gid"])
+    ans = q.call(render(prompt("A1"), {"GROUPS": _groups_text(pick)}))
+    if ans is None:
+        return {"missing": 1}
+    gb = {g["gid"]: set(g["books"]) for g in pick}
+    out = []
+    for a in ans.get("axes", []):
+        xg = [g for g in a.get("x_groups", []) if g in gb]
+        yg = [g for g in a.get("y_groups", []) if g in gb]
+        if xg and yg:
+            a["x_books"] = len(set().union(*[gb[g] for g in xg]))
+            a["y_books"] = len(set().union(*[gb[g] for g in yg]))
+            out.append(a)
+    for n, a in enumerate(out, len(first) + 1):
+        a["kid"] = f"K{n:02d}"
+    save_jsonl(work / "axes.jsonl", first + out)
+    return {"new_axes": len(out), "list": [(a["kid"], a["question"], a["x"], a["y"], a["x_books"], a["y_books"]) for a in out]}
+
+
 def rows(work: Path) -> list[dict]:
     """Rows of the full run (same ids and blinding) plus memory rows of the extra titles."""
     out = sf.rows(sf.ROOT / "work_full")
@@ -139,7 +175,13 @@ def statements(work: Path) -> list[dict]:
 
 
 def code(q_by_rater: dict, work: Path) -> dict:
-    stmts = statements(work)
+    """Code the statements of axes K01..K12 into codes.jsonl, later axes into codes_more.jsonl."""
+    allst = statements(work)
+    if (work / "codes.jsonl").exists():
+        done = {c["sid"] for c in load_jsonl(work / "codes.jsonl")}
+        stmts, out = [s for s in allst if s["sid"] not in done], "codes_more.jsonl"
+    else:
+        stmts, out = allst, "codes.jsonl"
     sids = {s["sid"] for s in stmts}
     cells, missing = [], Counter()
     for rater, q in q_by_rater.items():
@@ -153,8 +195,8 @@ def code(q_by_rater: dict, work: Path) -> dict:
                 cells.append({"rater": rater, "row": r["row"], "sid": sid,
                               **p.get(sid, {"code": "N", "cond": False, "ev": "", "flag": "missing_line"})})
     if not missing:
-        save_jsonl(work / "codes.jsonl", cells)
-    return {"cells": len(cells), "missing": dict(missing)}
+        save_jsonl(work / out, cells)
+    return {"cells": len(cells), "missing": dict(missing), "file": out}
 
 
 SIGN = {"A": 1, "B": -1}
@@ -165,7 +207,8 @@ def placements(work: Path) -> None:
     Not placed when the rater coded neither answer A or B."""
     side = {s["sid"]: s for s in statements(work)}
     by = defaultdict(dict)
-    for c in load_jsonl(work / "codes.jsonl"):
+    more = work / "codes_more.jsonl"
+    for c in load_jsonl(work / "codes.jsonl") + (load_jsonl(more) if more.exists() else []):
         by[(c["rater"], c["row"], side[c["sid"]]["kid"])][side[c["sid"]]["side"]] = c["code"]
     cells = []
     for (rater, row, kid), v in by.items():

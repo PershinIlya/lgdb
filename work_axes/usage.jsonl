@@ -28,3 +28,4 @@
 {"label": "acode_r2_08", "agent": "a3971d9f67c76c52b", "model": "claude-opus-5-5", "context_tokens": 90465, "output_tokens": 7333, "total": 97798, "note": ""}
 {"label": "acode_r2_09", "agent": "ab2e5af4328936126", "model": "claude-opus-5-5", "context_tokens": 89684, "output_tokens": 7549, "total": 97233, "note": ""}
 {"label": "acode_r1_fix_00", "agent": "a10baa9db2aa74ebf", "model": "claude-sonnet-5-5", "context_tokens": 61103, "output_tokens": 1436, "total": 62539, "note": ""}
+{"label": "axes_more_00", "agent": "a02357d5e234da19f", "model": "claude-opus-5-5", "context_tokens": 71535, "output_tokens": 4204, "total": 75739, "note": ""}
