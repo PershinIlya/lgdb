@@ -172,7 +172,8 @@ stage.addEventListener("wheel",e=>{e.preventDefault();auto=false;tdist=Math.max(
 const ray=new THREE.Raycaster(),mv=new THREE.Vector2();
 function hit(e){mv.set(e.clientX/innerWidth*2-1,-e.clientY/innerHeight*2+1);ray.setFromCamera(mv,cam);
  const h=ray.intersectObjects(pts.filter(p=>p.show&&visible(p.b)).map(p=>p.m));return h.length?h[0].object.userData.b:null}
-function hover(e){const b=hit(e);if(b){tip.hidden=false;tip.textContent=`${b.ru} (${b.a})`;tip.style.left=e.clientX+"px";tip.style.top=e.clientY+"px";stage.style.cursor="pointer"}else{tip.hidden=true;stage.style.cursor=""}}
+let hov=null;
+function hover(e){const b=hit(e);hov=b?b.id:null;if(b){tip.hidden=false;tip.textContent=`${b.ru} (${b.a})`;tip.style.left=e.clientX+"px";tip.style.top=e.clientY+"px";stage.style.cursor="pointer"}else{tip.hidden=true;stage.style.cursor=""}}
 function click(e){const b=hit(e);sel=b?b.id:null;card()}
 const info=document.getElementById("info"),about=document.getElementById("about");
 info.onclick=()=>{about.hidden=!about.hidden;info.setAttribute("aria-expanded",String(!about.hidden));if(!about.hidden){sel=null;card()}};
@@ -203,7 +204,15 @@ function frame(t){
   p.halo.scale.setScalar(p.s*(2.4+.25*Math.sin(t/300)));p.halo.material.opacity=isSel?.3:0;
   const a=p.drop.geometry.attributes.position;a.setXYZ(0,p.pos.x,p.pos.y,p.pos.z);a.setXYZ(1,p.pos.x,FLOOR,p.pos.z);a.needsUpdate=true;
   p.drop.material.opacity=vis?.2:.02;p.sh.position.set(p.pos.x,FLOOR+.02,p.pos.z);p.sh.material.opacity=vis?.3:.04;
-  p.lb.classList.toggle("sel",isSel);place(p.lb,p.pos,vis&&(isSel||p.b.tier===1))}
+  p.lb.classList.toggle("sel",isSel);p.vis=vis}
+ // labels: selected and hovered first, then the best-known books nearest the camera; a label is shown only where it overlaps none already placed
+ const cand=pts.filter(p=>p.vis&&(p.b.id===sel||p.b.id===hov||p.b.tier===1||p.b.extra)).map(p=>{v.copy(p.pos).project(cam);
+  return {p,x:(v.x+1)/2*innerWidth,y:(1-v.y)/2*innerHeight,z:v.z,pr:p.b.id===sel?0:p.b.id===hov?1:p.b.tier===1?2:3}}).filter(c=>c.z<1)
+  .sort((a,b)=>a.pr-b.pr||a.z-b.z);
+ const boxes=[],on=new Set();const MAXL=innerWidth<700?7:16;
+ for(const c of cand){if(on.size>=MAXL&&c.pr>1)break;const w=c.p.lw||(c.p.lw=c.p.lb.textContent.length*7+12),bx=[c.x+8,c.y-9,c.x+8+w,c.y+9];
+  if(c.pr>1&&boxes.some(b=>bx[0]<b[2]&&bx[2]>b[0]&&bx[1]<b[3]&&bx[3]>b[1]))continue;boxes.push(bx);on.add(c.p);c.p.lb.style.left=c.x+"px";c.p.lb.style.top=c.y+"px"}
+ for(const p of pts)p.lb.style.opacity=on.has(p)?1:0;
  DIRS.forEach((d,i)=>{place(poleEls[2*i],d.clone().multiplyScalar(LIM*S+3.4),true);place(poleEls[2*i+1],d.clone().multiplyScalar(-(LIM*S+3.4)),true)});
  R.render(scene,cam);requestAnimationFrame(frame)}
 requestAnimationFrame(frame);
