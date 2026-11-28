@@ -23,3 +23,15 @@ Questions answered per kept axis:
 - memory vs text: sign agreement on the 9 classics where both rows are placed.
 The map shows kept axes; a book is drawn when it is placed on at least 2 of the 3 shown axes,
 a missing coordinate sits at 0 and is marked in the book card.
+
+## Amendment 1 (2026-11-28, before any coding was seen)
+The leakage audit failed for A1 (axis writer) and A2 (placement): 2 of 3 models put "opposed advice"
+in their top 2 guesses. A2 is dropped. Instead every answer of every axis is one statement (24 in all,
+S201..S224), coded with the audited S4a/S4b prompts (R1 sonnet, R2 opus, statements shuffled,
+pairs never shown together). Per rater, position = s(x) - s(y) with A=+1, B=-1, other 0, so -2..+2;
+not placed if neither answer got A or B. Consensus and keep rules as above.
+A1 is used as written (it only words questions; no book is coded with it); its audit failure is
+recorded in work_axes/audit_raw and left for the researcher to accept or reject.
+Extra titles: 24 well-known books, speeches and essays outside the mechanical sample
+(work_axes/extra_books.json), recalled with S1 and coded like the rest. They are drawn on the map,
+marked as added, and excluded from every test.

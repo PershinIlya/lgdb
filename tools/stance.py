@@ -95,6 +95,8 @@ def main():
             from lgdb import axes as ax
             out = {"tensions": lambda: ax.tensions(WORK), "axes": lambda: ax.axes(q("opus"), WORK),
                    "place": lambda: ax.place({r: q(m) for r, m in ax.RATERS.items()}, WORK),
+                   "recall": lambda: ax.recall_extra(q("opus"), WORK),
+                   "code": lambda: ax.code({r: q(m) for r, m in RATERS.items()}, WORK),
                    "analyze": lambda: ax.analyze(WORK)}[name]()
         elif FULL and name in ("recall", "pool", "code", "tie"):
             out = {"recall": lambda: sf.recall(q("opus"), WORK), "pool": lambda: sf.build_pool(WORK),

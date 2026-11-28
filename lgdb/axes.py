@@ -98,8 +98,82 @@ def axes(q, work: Path) -> dict:
             "list": [(a["kid"], a["question"], a["x"], a["y"], a["x_books"], a["y_books"]) for a in out]}
 
 
+def extra_books(work: Path) -> list[dict]:
+    """Well-known titles added for the map only (not in the mechanical sample, excluded from tests)."""
+    return json.loads((work / "extra_books.json").read_text())
+
+
+def recall_extra(q, work: Path) -> dict:
+    tpl = prompt("S1")
+    res, missing = {}, 0
+    for b in extra_books(work):
+        r = q.call(render(tpl, {"TITLE": b["title"], "AUTHOR": b["author"], "YEAR": b["year"]}))
+        if r is None:
+            missing += 1
+        else:
+            res[b["id"]] = r
+    if not missing:
+        (work / "extra_memory.json").write_text(json.dumps(res, indent=1, ensure_ascii=False))
+    return {"done": len(res), "missing": missing, "basis": dict(Counter(r.get("knowledge_basis") for r in res.values()))}
+
+
 def rows(work: Path) -> list[dict]:
-    return sf.rows(sf.ROOT / "work_full")  # same rows, ids and blinding as the full run
+    """Rows of the full run (same ids and blinding) plus memory rows of the extra titles."""
+    out = sf.rows(sf.ROOT / "work_full")
+    mem = json.loads((work / "extra_memory.json").read_text())
+    for b in extra_books(work):
+        d = mem.get(b["id"]) or {}
+        if d.get("knowledge_basis") in ("text", "secondary") and st.entries(d):
+            out.append({"book": b["id"], "source": "memory", "group": "extra", "period": b["period"],
+                        "region": b["region"], "entries": st.entries(d), "row": "E" + b["id"][1:]})
+    return out
+
+
+def statements(work: Path) -> list[dict]:
+    """Each answer of each axis becomes one statement (S201...), coded with the audited S4 prompts."""
+    out = []
+    for n, a in enumerate(load_jsonl(work / "axes.jsonl")):
+        out.append({"sid": f"S{201 + 2 * n}", "statement": a["x_advice"], "kid": a["kid"], "side": "x"})
+        out.append({"sid": f"S{202 + 2 * n}", "statement": a["y_advice"], "kid": a["kid"], "side": "y"})
+    return out
+
+
+def code(q_by_rater: dict, work: Path) -> dict:
+    stmts = statements(work)
+    sids = {s["sid"] for s in stmts}
+    cells, missing = [], Counter()
+    for rater, q in q_by_rater.items():
+        for r in rows(work):
+            ans = q.call(st.coding_prompt(rater, r, stmts))
+            if ans is None:
+                missing[rater] += 1
+                continue
+            p = st.parse_codes(ans, {e["id"].lower() for e in r["entries"]}, sids)
+            for sid in sorted(sids):
+                cells.append({"rater": rater, "row": r["row"], "sid": sid,
+                              **p.get(sid, {"code": "N", "cond": False, "ev": "", "flag": "missing_line"})})
+    if not missing:
+        save_jsonl(work / "codes.jsonl", cells)
+    return {"cells": len(cells), "missing": dict(missing)}
+
+
+SIGN = {"A": 1, "B": -1}
+
+
+def placements(work: Path) -> None:
+    """Position of a row on an axis, per rater: s(x answer) - s(y answer), A=+1, B=-1, else 0; range -2..2.
+    Not placed when the rater coded neither answer A or B."""
+    side = {s["sid"]: s for s in statements(work)}
+    by = defaultdict(dict)
+    for c in load_jsonl(work / "codes.jsonl"):
+        by[(c["rater"], c["row"], side[c["sid"]]["kid"])][side[c["sid"]]["side"]] = c["code"]
+    cells = []
+    for (rater, row, kid), v in by.items():
+        x, y = SIGN.get(v.get("x"), 0), SIGN.get(v.get("y"), 0)
+        placed = v.get("x") in SIGN or v.get("y") in SIGN
+        cells.append({"rater": rater, "row": row, "kid": kid, "x": v.get("x"), "y": v.get("y"),
+                      "v": (x - y) if placed else None})
+    save_jsonl(work / "placements.jsonl", cells)
 
 
 def place_prompt(rater: str, row: dict, axs: list[dict]) -> str:
@@ -154,6 +228,7 @@ MIN_PLACED, MIN_SIDE, MIN_R, MAX_OPPOSITE = 20, 5, 0.6, 0.10
 
 
 def consensus(work: Path) -> dict:
+    placements(work)
     by = defaultdict(dict)
     for c in load_jsonl(work / "placements.jsonl"):
         by[(c["row"], c["kid"])][c["rater"]] = c
@@ -180,7 +255,7 @@ def _eta2(x, lab, n=1000, seed=SEED):
 
 
 def analyze(work: Path) -> dict:
-    key = {r["row"]: r for r in json.loads((sf.ROOT / "work_full" / "rows_key.json").read_text())}
+    key = {r["row"]: {k: v for k, v in r.items() if k != "entries"} for r in rows(work)}
     axs = load_jsonl(work / "axes.jsonl")
     con = consensus(work)
     res = {"axes": []}
@@ -215,8 +290,9 @@ def analyze(work: Path) -> dict:
         res["axes"].append(d)
     res["books"] = {}
     for (r, k), c in con.items():
-        if key[r]["group"] == "real":
-            res["books"].setdefault(r, {"book": key[r]["book"], "source": key[r]["source"], "pos": {}})["pos"][k] = c
+        if key[r]["group"] in ("real", "extra"):
+            res["books"].setdefault(r, {"book": key[r]["book"], "source": key[r]["source"], "group": key[r]["group"],
+                                        "pos": {}})["pos"][k] = c
     (work / "analysis.json").write_text(json.dumps(res, indent=1, ensure_ascii=False))
     return {"controls_placed": res["controls_placed"],
             "axes": [{x: d[x] for x in d if x not in ("x_advice", "y_advice", "question")} for d in res["axes"]]}
