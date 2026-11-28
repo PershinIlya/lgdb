@@ -4,6 +4,7 @@
 - Reply in Russian. Never use em or en dashes. Numbers as numerals. Answer first, short clear sentences, explain jargon plainly.
 - No markdown reports for him to read; put review content in chat.
 - No API budget. All model calls run as Claude subagents inside his subscription, in batches (tools/agents.py: QueueLLM queue -> batch files -> agents write answers_*.jsonl -> ingest -> rerun stage). About 70k tokens overhead per agent; budget a few million tokens per day.
+- At most 3 agents running at the same time (researcher's rule, Nov 28). Launch batches in waves of 3 and start the next wave only when agents finish.
 
 ## Research goal
 Place influential books on how to live (before 1500 to after 1945; Western, East Asian, South Asian; aphorism collections and single-thesis books, incl. modern bestsellers) on data-driven dimensions of disagreement between their recommendations. Annotator agents must stay blind to the hypothesis (books simplify dilemmas by taking one pole of trade-off axes; positions depend on era and culture). Every new prompt must pass the leakage audit (fresh opus, sonnet, haiku guess the hypothesis; see audit/leakage_audit.json).
@@ -37,7 +38,8 @@ Ordinary subagents receive this CLAUDE.md (it states the hypothesis); renaming t
 - Leakage audit: A1 and A2 failed (2 of 3 models guessed "opposed advice"); A2 dropped; A1 used, its exemption is the researcher's call (raw in work_axes/audit_raw). Do not self-mark exemptions.
 - 24 well-known extra titles (work_axes/extra_books.json) recalled with S1 and drawn on the map, excluded from tests. Russian titles and fame tiers: work_axes/display.json (tiers are the analyst's judgment, display only).
 - Results (work_axes/analysis.json): 11 of 12 axes pass keep rules (rater r 0.88 to 0.98, no opposite signs, controls uncoded); K12 (arguing) fails. Era: K01 improve vs accept (eta2 0.29, p 0.001; after 1945 leans to accept) and K02 withdraw vs practice in daily life (0.26, p 0.001; after 1945 leans to daily life). Region: K11 moderation vs renunciation (0.27, p 0.001; South Asia renunciation). Middle positions rare (0 to 9%), but the coding makes "middle" require advising both answers.
-- About 2.7M tokens incl. audits (work_axes/usage.jsonl). Map: same artifact as before (version 3).
+- Amendment 2 (work_axes/plan.md): 12 more axes K13-K24 from the tension groups worst covered by K01-K12 (same A1 prompt), coded into codes_more.jsonl. 10 of 12 kept (K18 gratitude and K12 fail); no era effect on K13-K24 (all p > 0.06); region weak (K19, K21). 22 kept axes in all.
+- Map default view = 3 kept axes showing the most books after 1945 (K01, K14, K15); toggle shows books placed on 1 of 3 axes. About 5M tokens for work_axes in all. Map: same artifact (version 4).
 
 ## Not in git
 Ambedkar text (US copyright), downloaded sources (python run.py fetch restores them), cache/, pilot fragments.

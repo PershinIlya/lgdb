@@ -42,9 +42,12 @@ def data() -> dict:
     # default view: the 3 kept axes on which the most well-known books can be drawn (placed on 2 of 3)
     import itertools
     kept = [a["k"] for a in axes if a["keep"]]
-    def shown(t, tier1):
-        return sum(1 for b in books if (b["tier"] == 1 or not tier1) and sum(k in b["pos"] for k in t) >= 2)
-    default = max(itertools.combinations(kept, 3), key=lambda t: (shown(t, True), shown(t, False)))
+    def shown(t, keep):
+        return sum(1 for b in books if keep(b) and sum(k in b["pos"] for k in t) >= 2)
+    # display choice: the view that shows the most books after 1945, then the most well-known ones
+    default = max(itertools.combinations(kept, 3), key=lambda t: (shown(t, lambda b: b["p"] == "after 1945"),
+                                                                    shown(t, lambda b: b["tier"] == 1),
+                                                                    shown(t, lambda b: True)))
     return {"axes": axes, "books": books, "default": list(default)}
 
 

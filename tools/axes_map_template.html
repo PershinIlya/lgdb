@@ -96,7 +96,7 @@ select{font:inherit;font-size:.82rem;color:var(--fg);background:var(--bg);border
 <div class="ui" id="about" hidden>
  <p><b>Оси.</b> Каждая ось это вопрос, на который книги отвечают по-разному. Вопросы собраны из пар «книга советует X и спорит с Y», которые есть в самих книгах.</p>
  <p><b>Позиция.</b> 2 модели вслепую отметили, советует ли книга каждый из 2 ответов. Край оси значит: советует этот ответ и спорит с другим. Центр значит: советует оба или ни один.</p>
- <p><b>Облачко</b> вокруг точки показывает, насколько модели разошлись. Большие точки это самые известные книги. Ромбы добавлены для узнаваемости и в статистику не входят.</p>
+ <p><b>Облачко</b> вокруг точки показывает, насколько модели разошлись. Большие точки это самые известные книги. Ромбы добавлены для узнаваемости и в статистику не входят. Полупрозрачные книги ответили только на 1 из 3 показанных вопросов: по 2 другим они стоят в центре.</p>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script>
@@ -108,7 +108,7 @@ const AXC=["#ffd27a","#7fd6e0","#d7a6ff"];
 const A=Object.fromEntries(D.axes.map(a=>[a.k,a]));
 const score=a=>a.placed*Math.min(a.sx,a.sy)/Math.max(a.sx,a.sy,1);
 const order=D.axes.slice().sort((a,b)=>(b.keep-a.keep)||(score(b)-score(a)));
-let axes=D.default.slice(),sel=null,off=new Set();
+let axes=D.default.slice(),sel=null,off=new Set(),minAx=2;
 const stage=document.getElementById("stage"),labels=document.getElementById("labels");
 const R=new THREE.WebGLRenderer({antialias:true,alpha:true});R.setPixelRatio(Math.min(devicePixelRatio,2));stage.appendChild(R.domElement);
 const scene=new THREE.Scene();scene.fog=new THREE.Fog(0x0d1420,55,110);
@@ -137,7 +137,7 @@ for(const b of D.books){const col=new THREE.Color(css(REG[b.r][1]));
  pts.push({b,m,cloud,halo,drop,sh,lb,s,pos:new THREE.Vector3(),tgt:new THREE.Vector3(),show:true,cr:0})}
 const poleEls=[];for(let i=0;i<6;i++){const e=document.createElement("div");e.className="pole";labels.appendChild(e);poleEls.push(e)}
 function target(p){let n=0,sp=0;const z=axes.map((k,i)=>{const c=p.b.pos[k];if(!c)return 0;n++;sp+=c[2]?1.5:(c[1]||0);return Math.max(-2,Math.min(2,c[0]))*S+jit(p.b.id,i)*S});
- p.tgt.set(z[0],z[1],z[2]);p.show=n>=2;p.cr=n?(.15+.6*sp/n):0}
+ p.tgt.set(z[0],z[1],z[2]);p.show=n>=minAx;p.part=n<2;p.cr=n?(.15+.6*sp/n):0}
 pts.forEach(p=>{target(p);p.pos.copy(p.tgt)});
 function poles(){axes.forEach((k,i)=>{const a=A[k];poleEls[2*i].innerHTML=`<small style="color:${AXC[i]}">${esc(a.q)}</small>${esc(a.x)}`;poleEls[2*i+1].innerHTML=`<small style="color:${AXC[i]}">${esc(a.q)}</small>${esc(a.y)}`})}
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
@@ -152,6 +152,10 @@ function chips(id,obj,key){const box=document.getElementById(id);for(const k in 
  c.setAttribute("aria-pressed","true");c.onclick=()=>{const t=key+":"+k;off.has(t)?off.delete(t):off.add(t);c.classList.toggle("off");c.setAttribute("aria-pressed",String(!off.has(t)))};box.appendChild(c)}}
 chips("fame",{1:["","","<i class='dot' style='background:var(--fg);width:12px;height:12px'></i>Самые известные"],2:["","","<i class='dot' style='background:var(--muted);width:9px;height:9px'></i>Известные"],3:["","","<i class='dot' style='background:var(--muted);width:6px;height:6px'></i>Для специалистов"],x:["","","<i class='oct'></i>Добавленные"]},"tier");
 chips("regions",REG,"region");chips("periods",PER,"period");
+{const c=document.createElement("button");c.type="button";c.className="chip off";c.id="more";c.setAttribute("aria-pressed","false");
+ c.innerHTML="<i class='dot' style='background:var(--muted);opacity:.5'></i>Книги с 1 ответом из 3";
+ c.onclick=()=>{minAx=minAx===2?1:2;c.classList.toggle("off",minAx===2);c.setAttribute("aria-pressed",String(minAx===1));pts.forEach(target)};
+ document.getElementById("fame").appendChild(c)}
 const visible=b=>!off.has("region:"+b.r)&&!off.has("period:"+b.p)&&!off.has("tier:"+b.tier)&&!(b.extra&&off.has("tier:x"));
 const dl2=document.getElementById("titles");D.books.slice().sort((a,b)=>a.ru.localeCompare(b.ru)).forEach(b=>{const o=document.createElement("option");o.value=b.ru;dl2.appendChild(o)});
 document.getElementById("q").addEventListener("change",e=>{const v=e.target.value.trim().toLowerCase();const b=D.books.find(x=>x.ru.toLowerCase()===v)||D.books.find(x=>x.ru.toLowerCase().includes(v)||x.t.toLowerCase().includes(v));if(b){sel=b.id;card()}});
@@ -199,7 +203,7 @@ function frame(t){
  for(const p of pts){p.pos.lerp(p.tgt,.08);p.m.position.copy(p.pos);p.halo.position.copy(p.pos);p.cloud.position.copy(p.pos);
   const vis=p.show&&visible(p.b),isSel=p.b.id===sel;
   p.m.visible=p.cloud.visible=p.drop.visible=p.sh.visible=p.halo.visible=p.show;
-  p.m.material.opacity+=((vis?1:.06)-p.m.material.opacity)*.15;
+  p.m.material.opacity+=((vis?(p.part?.4:1):.06)-p.m.material.opacity)*.15;
   p.m.rotation.y+=.004;p.cloud.scale.setScalar(p.cr*S*.32);p.cloud.material.opacity=vis?.06:0;
   p.halo.scale.setScalar(p.s*(2.4+.25*Math.sin(t/300)));p.halo.material.opacity=isSel?.3:0;
   const a=p.drop.geometry.attributes.position;a.setXYZ(0,p.pos.x,p.pos.y,p.pos.z);a.setXYZ(1,p.pos.x,FLOOR,p.pos.z);a.needsUpdate=true;
