@@ -1,0 +1,3237 @@
+{
+ "e01": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Care only about what truly matters, and choose your values carefully.",
+    "argued_against": "caring about everything",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Accept that suffering and problems are inevitable; choose problems worth having.",
+    "argued_against": "positive thinking culture",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Take responsibility for your problems, even those not your fault.",
+    "argued_against": "blame and victimhood",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Recognize you are not special or exceptional.",
+    "argued_against": "entitlement",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Be uncertain about your beliefs and willing to be wrong.",
+    "argued_against": "certainty",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Embrace failure as part of growth.",
+    "argued_against": "fear of failure",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Learn to say no and reject alternatives.",
+    "argued_against": "endless options",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Remember you will die, to clarify what matters.",
+    "argued_against": "denying death",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Use the do-something principle: action creates motivation.",
+    "argued_against": "waiting for motivation",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Choose good values: honesty, innovation, vulnerability, standing up for oneself.",
+    "argued_against": "bad values like pleasure, material success, always being right",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Keep healthy boundaries in relationships.",
+    "argued_against": "codependency",
+    "applies_to": "people in relationships",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Commit to depth over breadth.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e02": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Stand up straight with your shoulders back, and face life's challenges voluntarily instead of hunching in defeat.",
+    "argued_against": "the slumped, defeated posture of someone who accepts a low place in the hierarchy",
+    "applies_to": "everyone, especially people who feel beaten down or bullied",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Treat yourself like someone you are responsible for helping, and care for your own health and future as you would a loved one's.",
+    "argued_against": "self-contempt; people who look after their pets' medication better than their own",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Make friends with people who want the best for you and who support your attempts to improve.",
+    "argued_against": "keeping company with people who drag you down; naively trying to rescue those who do not want to change",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Compare yourself to who you were yesterday, not to who someone else is today.",
+    "argued_against": "measuring yourself against other people's successes",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Do not let your children do things that make you dislike them; discipline them so others will welcome them.",
+    "argued_against": "permissive parenting that avoids correcting children",
+    "applies_to": "parents, especially of young children",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Set your own house in order before criticizing the world.",
+    "argued_against": "blaming society or existence for your suffering; resentful nihilism",
+    "applies_to": "people who are resentful or tempted to condemn the world",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Pursue what is meaningful rather than what is expedient or immediately gratifying.",
+    "argued_against": "short-term impulse and convenience",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Tell the truth, or at least do not lie.",
+    "argued_against": "lying to manipulate the world toward what you want; ideological rigidity",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Assume the person you are listening to might know something you do not, and listen genuinely.",
+    "argued_against": "arguing merely to win or to show off",
+    "applies_to": "conversations and disagreements",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Be precise in your speech; name problems clearly so they can be dealt with.",
+    "argued_against": "vague avoidance and leaving problems unspoken, especially in relationships",
+    "applies_to": "relationships and marriages in particular",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Do not bother children when they are taking risks like skateboarding; let them build competence through danger.",
+    "argued_against": "overprotection; attitudes that treat masculine competitiveness as inherently oppressive",
+    "applies_to": "children, especially boys",
+    "centrality": "core"
+   },
+   {
+    "id": "m12",
+    "advice": "Pay attention to small moments of beauty, like petting a cat on the street, amid life's suffering.",
+    "argued_against": "none",
+    "applies_to": "people facing suffering",
+    "centrality": "core"
+   },
+   {
+    "id": "m13",
+    "advice": "Take on responsibility, because accepting responsibility is what gives life meaning.",
+    "argued_against": "a focus on rights and entitlement without responsibility",
+    "applies_to": "everyone, especially young men",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Aim at the highest good you can conceive and orient your life toward it.",
+    "argued_against": "aimlessness",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Voluntarily confront chaos and the unknown, balancing it with order rather than hiding.",
+    "argued_against": "avoidance of difficulty; excessive rigid order",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Accept that life involves suffering, and do not add to it through resentment, deceit, or arrogance.",
+    "argued_against": "resentment and deceit",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Make small, achievable improvements each day rather than attempting a total transformation at once.",
+    "argued_against": "grandiose, overwhelming plans",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Delay gratification and sacrifice in the present to secure a better future.",
+    "argued_against": "living for immediate pleasure",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Stand up for yourself and refuse to be exploited or bullied in relationships.",
+    "argued_against": "being a pushover who tolerates mistreatment",
+    "applies_to": "people who are too agreeable or submissive",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Socialize children by around age four so that other adults and children like them.",
+    "argued_against": "leaving children unsocialized",
+    "applies_to": "parents of young children",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e03": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Be impeccable with your word: speak with integrity and say only what you mean.",
+    "argued_against": "using words to spread fear, lies, and harm",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Avoid gossip, since it spreads emotional poison among people.",
+    "argued_against": "gossiping",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Do not use words against yourself through harsh self-judgment.",
+    "argued_against": "the inner judge and self-rejection",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Do not take anything personally; what others say and do reflects their own reality, not you.",
+    "argued_against": "personal importance and needing others' approval",
+    "applies_to": "everyone, including when insulted or praised",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Do not make assumptions; ask questions and communicate clearly what you want.",
+    "argued_against": "assuming others know what we think or mean",
+    "applies_to": "everyone, especially in relationships",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Always do your best, recognizing your best varies with circumstances; no more and no less.",
+    "argued_against": "overdoing to exhaustion or underdoing and then regretting",
+    "applies_to": "everyone in all situations",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Question the beliefs and agreements you absorbed in childhood through reward and punishment.",
+    "argued_against": "the domestication of humans by society",
+    "applies_to": "everyone, as all were conditioned as children",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Replace fear-based agreements with new ones through repeated practice and discipline.",
+    "argued_against": "passively living by old limiting agreements",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Do things for the love of doing them, not for an expected reward.",
+    "argued_against": "acting only to receive reward",
+    "applies_to": "work and daily activities",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Forgive those who hurt you, and forgive yourself, to heal emotional wounds.",
+    "argued_against": "holding onto resentment",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Accept yourself as you are rather than measuring yourself against an impossible ideal of perfection.",
+    "argued_against": "self-rejection and the victim mindset",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Do not let others' opinions, praise or criticism, determine your sense of worth.",
+    "argued_against": "dependence on others' opinions",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Accept a partner as they are instead of expecting to change them.",
+    "argued_against": "entering relationships hoping to change the other person",
+    "applies_to": "romantic relationships",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Take action on what you know; ideas without action bring no change.",
+    "argued_against": "knowing without doing",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Live fully in the present as if each day might be your last.",
+    "argued_against": "living in the past or postponing life",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e04": {
+  "knowledge_basis": "secondary",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Find your reason for getting up each morning, where what you love, are good at, are paid for, and the world needs meet.",
+    "argued_against": "living without a clear purpose",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Never fully retire; keep doing things you love and stay engaged as long as you can.",
+    "argued_against": "the idea of stopping all activity at retirement",
+    "applies_to": "older people and everyone planning their later years",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Stop eating when you are about eighty percent full.",
+    "argued_against": "overeating",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Eat a varied diet rich in vegetables and fruit, with little sugar and salt, and drink green tea.",
+    "argued_against": "diets heavy in sugar and salt",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Stay active with gentle daily movement such as walking, gardening, and light stretching exercises.",
+    "argued_against": "a sedentary life; reliance on intense exercise",
+    "applies_to": "people of all ages, including the elderly",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Surround yourself with good friends and maintain close community ties and mutual support.",
+    "argued_against": "isolation",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Seek flow by focusing on one challenging task at a time, with clear goals and no distractions.",
+    "argued_against": "multitasking and constant distraction",
+    "applies_to": "work and hobbies",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Take life slowly and avoid constant hurry.",
+    "argued_against": "the rushed pace of modern life",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Keep your mind active by learning new things and seeking new challenges.",
+    "argued_against": "mental routine and inactivity",
+    "applies_to": "especially as one ages",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Avoid chronic stress, which accelerates aging.",
+    "argued_against": "constant stress and overwork",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Get enough sleep.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "Smile, be friendly, and keep a positive attitude.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Reconnect with nature regularly.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Give thanks daily for the people and things that brighten your life.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Live in the present moment rather than regretting the past or fearing the future.",
+    "argued_against": "dwelling on past and future",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Build resilience: face setbacks calmly, prepare for bad outcomes, and grow stronger through adversity.",
+    "argued_against": "fragility and being overwhelmed by misfortune",
+    "applies_to": "times of hardship",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Accept imperfection and impermanence in yourself and the world.",
+    "argued_against": "perfectionism",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Accept your emotions rather than fighting them, and act constructively anyway.",
+    "argued_against": "trying to eliminate unpleasant feelings",
+    "applies_to": "people dealing with anxiety or negative emotions",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Search for meaning in life, even in suffering, to sustain yourself.",
+    "argued_against": "existential emptiness",
+    "applies_to": "people facing crisis or lack of meaning",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Make routine tasks engaging by adding challenge or attention so they become enjoyable.",
+    "argued_against": "doing tasks mechanically and with boredom",
+    "applies_to": "everyday work",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e05": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Adopt a growth mindset: believe abilities can be developed through effort.",
+    "argued_against": "the fixed mindset",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Praise effort and strategies rather than intelligence or talent.",
+    "argued_against": "praising intelligence",
+    "applies_to": "parents, teachers, coaches",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "See failure as an opportunity to learn, not a judgment of worth.",
+    "argued_against": "failure as identity",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Embrace challenges rather than avoiding them.",
+    "argued_against": "avoiding challenges",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Learn from criticism instead of becoming defensive.",
+    "argued_against": "defensiveness",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Find inspiration in others' success rather than feeling threatened.",
+    "argued_against": "envy",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Leaders should foster growth mindsets in organizations.",
+    "argued_against": "genius leadership",
+    "applies_to": "business leaders",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "In relationships, work through problems rather than blaming partners' traits.",
+    "argued_against": "fixed views of partners",
+    "applies_to": "couples",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Coaches should value effort, teamwork, and character over natural talent.",
+    "argued_against": "talent worship",
+    "applies_to": "coaches and athletes",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Teach children that the brain grows like a muscle with use.",
+    "argued_against": "fixed intelligence",
+    "applies_to": "students",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Hold high standards while giving students a nurturing atmosphere.",
+    "argued_against": "lowering standards",
+    "applies_to": "teachers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Make concrete plans for when, where, and how you will act on growth goals.",
+    "argued_against": "vague intentions",
+    "applies_to": "people trying to change",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Recognize your fixed mindset triggers and talk back to that voice.",
+    "argued_against": "fixed mindset persona",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Avoid labeling people as smart or dumb.",
+    "argued_against": "labeling",
+    "applies_to": "parents and teachers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Value the process of learning over proving yourself.",
+    "argued_against": "proving yourself repeatedly",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m16",
+    "advice": "Give constructive criticism that helps fix things without labeling.",
+    "argued_against": "labeling criticism",
+    "applies_to": "parents and teachers",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e06": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Spend significant time in deep work: distraction-free, cognitively demanding concentration that creates value.",
+    "argued_against": "shallow work culture",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Choose a depth philosophy suited to you: monastic, bimodal, rhythmic, or journalistic.",
+    "argued_against": "one-size-fits-all approaches",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Build rituals specifying where, how long, and under what rules you will work deeply.",
+    "argued_against": "relying on willpower alone",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Embrace boredom; don't reach for your phone every time you feel bored.",
+    "argued_against": "constant distraction",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Schedule internet use and stay offline outside those blocks.",
+    "argued_against": "internet sabbaths as sufficient",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Quit social media unless it substantially supports core goals.",
+    "argued_against": "any-benefit approach to tool adoption",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Drain the shallows: schedule every minute of your workday and limit shallow work.",
+    "argued_against": "reactive workdays",
+    "applies_to": "knowledge workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Use a shutdown ritual to end work fully each day.",
+    "argued_against": "always-on work",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Make grand gestures, like retreats, to commit to deep work projects.",
+    "argued_against": "none",
+    "applies_to": "ambitious projects",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Follow 4DX: focus on the wildly important, track lead measures, keep a scoreboard, create accountability.",
+    "argued_against": "vague goals",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Practice productive meditation during physical activity.",
+    "argued_against": "none",
+    "applies_to": "people who walk or exercise",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "Make email senders do more work and don't respond to every message.",
+    "argued_against": "feeling obligated to reply",
+    "applies_to": "email users",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Fill leisure time with quality activities rather than web surfing.",
+    "argued_against": "passive internet leisure",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Ask how long a trained graduate would take to do a task, to judge shallowness.",
+    "argued_against": "none",
+    "applies_to": "knowledge workers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Collaborate deeply in a hub-and-spoke way, but don't rely on open offices.",
+    "argued_against": "open office plans",
+    "applies_to": "teams",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Master hard things quickly and produce at an elite level to thrive economically.",
+    "argued_against": "none",
+    "applies_to": "workers in the new economy",
+    "centrality": "core"
+   },
+   {
+    "id": "m17",
+    "advice": "Use deliberate practice with intense focus to improve skills.",
+    "argued_against": "multitasking",
+    "applies_to": "people learning skills",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Avoid attention residue by not switching tasks frequently.",
+    "argued_against": "task switching",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Set a fixed end time for work and plan backward from it.",
+    "argued_against": "long hours as a measure of value",
+    "applies_to": "knowledge workers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Become hard to reach, setting limits on availability.",
+    "argued_against": "constant connectivity",
+    "applies_to": "knowledge workers",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e07": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Do less but better: focus your energy only on the few things that are truly essential.",
+    "argued_against": "the nonessentialist who tries to do everything and says yes to everyone",
+    "applies_to": "everyone, especially busy professionals and leaders",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Recognize that you always have a choice about how to spend your time and energy.",
+    "argued_against": "learned helplessness and feeling you have to do everything",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Accept trade-offs; ask which problem you want rather than how to do it all.",
+    "argued_against": "the belief that you can have it all",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Deliberately make space and time away from distraction to think and explore.",
+    "argued_against": "constant busyness and connectivity",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Protect your sleep as an asset that enables high performance.",
+    "argued_against": "the culture of bragging about sleep deprivation",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Make time for play, which fuels creativity and exploration.",
+    "argued_against": "seeing play as trivial",
+    "applies_to": "adults and organizations",
+    "centrality": "passing"
+   },
+   {
+    "id": "m7",
+    "advice": "Use strict criteria: if an option is not a clear yes, treat it as a no.",
+    "argued_against": "accepting opportunities that are merely good",
+    "applies_to": "decisions about commitments and opportunities",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Say no gracefully, separating the decision from the relationship.",
+    "argued_against": "saying yes out of social pressure or fear of disappointing",
+    "applies_to": "requests from colleagues, bosses, and others",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Define one clear, concrete, inspiring essential intent for your work or life.",
+    "argued_against": "vague mission statements and many competing priorities",
+    "applies_to": "individuals and teams",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Uncommit from projects that no longer serve you, cutting losses despite sunk costs.",
+    "argued_against": "sunk-cost bias and the endowment effect",
+    "applies_to": "existing commitments",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Edit your life by eliminating unnecessary activities and commitments.",
+    "argued_against": "accumulating clutter of activities",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Set clear boundaries so others' problems do not consume your time.",
+    "argued_against": "letting others' agendas take over",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Build buffers, such as adding extra time to estimates, to prepare for the unexpected.",
+    "argued_against": "the planning fallacy and overoptimistic estimates",
+    "applies_to": "projects and plans",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Identify and remove the main obstacle slowing your progress instead of pushing harder.",
+    "argued_against": "adding more effort without addressing constraints",
+    "applies_to": "projects",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Celebrate small wins and pursue steady incremental progress.",
+    "argued_against": "aiming only for big, dramatic wins",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Design routines that make essential activities the effortless default.",
+    "argued_against": "relying on willpower each time",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Focus on what is important right now and be fully present.",
+    "argued_against": "multitasking of attention and dwelling on past or future",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Look for the essential point in situations, as a reporter seeks the main story.",
+    "argued_against": "getting lost in details",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Beware that success brings more options, which can distract you from what made you successful.",
+    "argued_against": "undisciplined pursuit of more",
+    "applies_to": "successful people and organizations",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Treat priority as singular: identify the one most important thing.",
+    "argued_against": "having many priorities",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e08": {
+  "knowledge_basis": "secondary",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Embrace vulnerability as the source of courage, connection, creativity, and love.",
+    "argued_against": "the myth that vulnerability is weakness",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Show up and let yourself be seen even when you can't control the outcome.",
+    "argued_against": "waiting to be perfect before engaging",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Ignore criticism from people who are not in the arena themselves taking risks.",
+    "argued_against": "cheap-seat critics and cynics",
+    "applies_to": "people taking creative or personal risks",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Build shame resilience by recognizing shame, checking it against reality, reaching out, and speaking about it.",
+    "argued_against": "hiding shame in secrecy and silence",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Distinguish shame from guilt: focus on 'I did something bad' rather than 'I am bad'.",
+    "argued_against": "shaming as a tool for change",
+    "applies_to": "parents, leaders, everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Cultivate a sense of worthiness and 'enough' instead of a culture of scarcity.",
+    "argued_against": "the cultural message of never enough",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Let go of perfectionism, which is a shield against shame rather than healthy striving.",
+    "argued_against": "perfectionism",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Practice gratitude to counter foreboding joy when happiness feels risky.",
+    "argued_against": "rehearsing tragedy to avoid vulnerability",
+    "applies_to": "moments of joy",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Avoid numbing painful emotions, because numbing also dulls joy.",
+    "argued_against": "numbing through busyness, substances, or distraction",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Share vulnerable stories only with people who have earned the right to hear them.",
+    "argued_against": "oversharing as a form of armor",
+    "applies_to": "relationships",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Leaders should create cultures where feedback is given honestly and without shame.",
+    "argued_against": "shame-based leadership and blame cultures",
+    "applies_to": "organizations, schools, leaders",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Parents should model the vulnerability and wholeheartedness they want their children to have.",
+    "argued_against": "shaming parenting",
+    "applies_to": "parents",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Sit on the same side of the table when giving feedback.",
+    "argued_against": "adversarial feedback",
+    "applies_to": "managers, teachers, parents",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Reject cynicism and 'cool' detachment as ways of avoiding risk.",
+    "argued_against": "cynicism and criticism as protection",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Ask for help and accept it, rather than only offering it.",
+    "argued_against": "self-sufficiency as identity",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Recognize gender-specific shame expectations and avoid reinforcing them.",
+    "argued_against": "rigid gender norms around weakness and appearance",
+    "applies_to": "men and women",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e09": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Accept that life is difficult; once you truly accept this, it becomes less difficult.",
+    "argued_against": "expecting life to be easy and complaining about problems",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Practice discipline as the basic tool for solving life's problems.",
+    "argued_against": "avoiding problems and the pain they bring",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Delay gratification: face the pain first so you can enjoy the pleasure afterward.",
+    "argued_against": "impulsive pursuit of immediate pleasure",
+    "applies_to": "everyone, learned in childhood",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Accept responsibility for your own problems rather than blaming others or circumstances.",
+    "argued_against": "those who take too little responsibility and those who take too much",
+    "applies_to": "everyone, especially patients in therapy",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Dedicate yourself to truth, continually revising your mental map of reality.",
+    "argued_against": "clinging to outdated views formed in childhood",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Seek out challenge to your views and welcome being questioned.",
+    "argued_against": "defensive avoidance of criticism",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Be honest and avoid lies, including white lies, while using judgment about withholding truth.",
+    "argued_against": "casual or comforting lies",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Balance your impulses flexibly, and be willing to give up parts of yourself to grow.",
+    "argued_against": "rigidity",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Understand love as the will to extend yourself for your own or another's spiritual growth.",
+    "argued_against": "common misconceptions of love as feeling",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Do not mistake falling in love for real love, which requires sustained effort.",
+    "argued_against": "romantic love as the ideal",
+    "applies_to": "couples",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Avoid dependency on others, which is a counterfeit of love.",
+    "argued_against": "passive dependence",
+    "applies_to": "relationships",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Give loved ones real attention, especially by listening carefully.",
+    "argued_against": "inattention",
+    "applies_to": "parents, partners, friends",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Have courage to risk loss, commit, and confront loved ones when needed, with humility.",
+    "argued_against": "avoiding conflict to keep peace",
+    "applies_to": "love relationships and parenting",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Respect the separateness of those you love rather than treating them as extensions of yourself.",
+    "argued_against": "possessive or narcissistic love",
+    "applies_to": "parents and spouses",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Give children time and attention to help them learn discipline and feel valued.",
+    "argued_against": "neglectful parenting",
+    "applies_to": "parents",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Examine your religious or worldview beliefs for yourself rather than simply inheriting them.",
+    "argued_against": "unexamined inherited religion; also narrow skepticism",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Be open to grace and serendipity that support growth.",
+    "argued_against": "purely mechanistic views",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Overcome laziness, the main obstacle to spiritual growth.",
+    "argued_against": "laziness and fear of change",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Consider psychotherapy as a worthwhile path for personal growth.",
+    "argued_against": "stigma around therapy",
+    "applies_to": "people struggling with their problems",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e10": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Do not work for money; make money work for you.",
+    "argued_against": "working for a paycheck and job security",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Educate yourself in financial literacy, including accounting, investing, markets, and law.",
+    "argued_against": "schools that do not teach about money",
+    "applies_to": "everyone, including children",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Know the difference between assets and liabilities, and acquire assets that put money in your pocket.",
+    "argued_against": "buying liabilities believing they are assets",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Do not consider your home an investment asset.",
+    "argued_against": "the common belief that your house is your biggest asset",
+    "applies_to": "homeowners",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Mind your own business: build your asset column while keeping your day job.",
+    "argued_against": "spending your life building someone else's business",
+    "applies_to": "employees",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Understand taxes and use corporations legally to protect and grow wealth.",
+    "argued_against": "the idea that the rich should be taxed",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Develop financial intelligence to spot opportunities others miss.",
+    "argued_against": "waiting for the right opportunity",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Work to learn, not to earn; gain broad skills, especially selling and communication.",
+    "argued_against": "narrow specialization",
+    "applies_to": "young people and employees",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Do not let fear and greed control your financial decisions.",
+    "argued_against": "fear of losing money",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Pay yourself first, investing before paying bills.",
+    "argued_against": "paying everyone else first",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Ask 'How can I afford it?' instead of saying 'I can't afford it.'",
+    "argued_against": "closing your mind with 'I can't afford it'",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Use income from assets, not salary, to buy luxuries.",
+    "argued_against": "buying luxuries on credit",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Overcome cynicism, laziness, bad habits, and arrogance that block wealth.",
+    "argued_against": "cynics and lazy people",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Pay good advisors and brokers well, since their knowledge makes you money.",
+    "argued_against": "cheapness with professionals",
+    "applies_to": "investors",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Seek to recover your initial investment quickly while keeping the asset.",
+    "argued_against": "none",
+    "applies_to": "investors",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Choose financial heroes and mentors and learn from them.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Give what you want to receive, such as teaching others.",
+    "argued_against": "stinginess",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Escape the cycle of rising expenses with rising income.",
+    "argued_against": "the rat race",
+    "applies_to": "middle-class workers",
+    "centrality": "core"
+   },
+   {
+    "id": "m19",
+    "advice": "Accept risk and failure as part of learning to become rich.",
+    "argued_against": "playing it safe",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Find a strong reason greater than reality to motivate financial change.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e11": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Value time and mobility over money, living well now rather than deferring life to retirement.",
+    "argued_against": "the deferred-life plan of working decades to retire",
+    "applies_to": "employees and business owners",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Define your ideal lifestyle concretely and calculate its actual monthly cost.",
+    "argued_against": "vague goals",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Define your fears by writing out the worst case of taking action.",
+    "argued_against": "paralysis by fear",
+    "applies_to": "people considering major change",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Eliminate: apply the 80/20 rule to tasks and customers.",
+    "argued_against": "busywork",
+    "applies_to": "work",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Shorten deadlines because work expands to fill the time available.",
+    "argued_against": "open-ended timelines",
+    "applies_to": "work",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Adopt a low-information diet, avoiding news.",
+    "argued_against": "information overload",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Batch email checking and avoid interruptions.",
+    "argued_against": "constant email checking",
+    "applies_to": "work",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Avoid meetings without clear agendas.",
+    "argued_against": "unproductive meetings",
+    "applies_to": "workplace",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Automate by outsourcing tasks to remote assistants.",
+    "argued_against": "doing everything yourself",
+    "applies_to": "employees and entrepreneurs",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Create a low-maintenance product business generating automatic income.",
+    "argued_against": "high-maintenance ventures",
+    "applies_to": "aspiring entrepreneurs",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Test product demand cheaply before building.",
+    "argued_against": "investing before validation",
+    "applies_to": "entrepreneurs",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Negotiate remote work with your employer.",
+    "argued_against": "office presence",
+    "applies_to": "employees",
+    "centrality": "core"
+   },
+   {
+    "id": "m13",
+    "advice": "Take extended mini-retirements throughout life.",
+    "argued_against": "saving travel for retirement",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m14",
+    "advice": "Be effective rather than merely efficient.",
+    "argued_against": "efficiency on unimportant tasks",
+    "applies_to": "work",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Ask for forgiveness rather than permission.",
+    "argued_against": "waiting for approval",
+    "applies_to": "work",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Fill freed time with learning and service.",
+    "argued_against": "idleness",
+    "applies_to": "people who freed time",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Value relative income over absolute income.",
+    "argued_against": "measuring wealth only by salary",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Set unreasonable goals because competition is less.",
+    "argued_against": "realistic goals",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Fire high-maintenance customers.",
+    "argued_against": "accepting all customers",
+    "applies_to": "business owners",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e12": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Live in day-tight compartments, focusing on today rather than past or future.",
+    "argued_against": "dwelling on past or future",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Ask what the worst outcome is, accept it, then work to improve on it.",
+    "argued_against": "worrying without facing the worst",
+    "applies_to": "people facing problems",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Remember that worry damages health.",
+    "argued_against": "constant worrying",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Analyze worry: get facts, analyze, decide, and act.",
+    "argued_against": "worrying without facts",
+    "applies_to": "business and personal problems",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Keep busy to crowd out worry.",
+    "argued_against": "idleness",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Do not fuss over trifles.",
+    "argued_against": "obsessing over minor matters",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Use probability to reassure yourself that feared events are unlikely.",
+    "argued_against": "irrational fears",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Cooperate with the inevitable.",
+    "argued_against": "resisting unchangeable circumstances",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Limit how much worry you give a matter.",
+    "argued_against": "excessive worry",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Do not try to change the past.",
+    "argued_against": "regret",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Act cheerful to feel cheerful.",
+    "argued_against": "negative thinking",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Never try to get even with enemies.",
+    "argued_against": "revenge",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Do not expect gratitude; give for joy of giving.",
+    "argued_against": "expecting thanks",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Count blessings, not troubles.",
+    "argued_against": "focusing on troubles",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Be yourself; do not imitate others.",
+    "argued_against": "imitation",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Turn misfortune into advantage.",
+    "argued_against": "self-pity",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Help others to forget yourself.",
+    "argued_against": "self-absorption",
+    "applies_to": "people suffering from worry or melancholy",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Turn to prayer and faith for comfort.",
+    "argued_against": "relying only on yourself",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Treat unjust criticism as a disguised compliment and ignore it.",
+    "argued_against": "being hurt by criticism",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Keep a record of your own mistakes and learn from them.",
+    "argued_against": "defensiveness",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m21",
+    "advice": "Rest before you are tired and relax while working.",
+    "argued_against": "tension and fatigue",
+    "applies_to": "workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m22",
+    "advice": "Clear your desk, do important things first, solve problems immediately, and delegate.",
+    "argued_against": "disorganization",
+    "applies_to": "workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m23",
+    "advice": "Put enthusiasm into your work.",
+    "argued_against": "boredom",
+    "applies_to": "workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m24",
+    "advice": "Do not worry about insomnia.",
+    "argued_against": "worrying about sleep",
+    "applies_to": "people with insomnia",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e13": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "If you cannot be both, it is safer to be feared than loved, but avoid being hated.",
+    "argued_against": "relying on love alone",
+    "applies_to": "rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Avoid hatred and contempt; do not seize subjects' property or women.",
+    "argued_against": "rapacious rulers",
+    "applies_to": "rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Rely on your own troops, not mercenaries or auxiliaries.",
+    "argued_against": "mercenary and auxiliary forces",
+    "applies_to": "rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Study war constantly, even in peacetime.",
+    "argued_against": "rulers neglecting war",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Commit necessary cruelties at once, and grant benefits gradually.",
+    "argued_against": "drawn-out cruelty",
+    "applies_to": "rulers seizing power",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Appear virtuous, but be willing to act otherwise when necessary.",
+    "argued_against": "writers imagining ideal states",
+    "applies_to": "rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Combine cunning with force.",
+    "argued_against": "relying on force alone",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Keep promises only when it serves you.",
+    "argued_against": "rigid promise-keeping",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Be frugal rather than lavishly generous.",
+    "argued_against": "lavish generosity",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Live in or settle newly conquered lands.",
+    "argued_against": "ruling remotely",
+    "applies_to": "conquering rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Weaken powerful neighbors and protect weaker ones.",
+    "argued_against": "strengthening rivals",
+    "applies_to": "rulers of conquered territories",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Choose wise ministers and secure their loyalty.",
+    "argued_against": "poor choice of advisers",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Avoid flatterers; let wise counselors speak truth when asked.",
+    "argued_against": "flatterers",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Take sides decisively rather than staying neutral.",
+    "argued_against": "neutrality",
+    "applies_to": "rulers in conflicts",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Act boldly against fortune.",
+    "argued_against": "caution",
+    "applies_to": "rulers",
+    "centrality": "core"
+   },
+   {
+    "id": "m16",
+    "advice": "Adapt your conduct to the times.",
+    "argued_against": "rigid approaches",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Secure the people's favor rather than nobles'.",
+    "argued_against": "relying on nobles",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Imitate great past leaders.",
+    "argued_against": "ignoring examples",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Eliminate the former ruling family in a newly acquired state.",
+    "argued_against": "leaving rivals alive",
+    "applies_to": "conquering rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Do not trust exiles' promises.",
+    "argued_against": "relying on exiles",
+    "applies_to": "rulers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m21",
+    "advice": "Undertake great enterprises and reward merit to build reputation.",
+    "argued_against": "inactivity",
+    "applies_to": "rulers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m22",
+    "advice": "Unite the country and drive out foreign invaders.",
+    "argued_against": "foreign domination",
+    "applies_to": "a ruling house addressed at the end",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e14": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Yield to love even though it wounds as well as gives joy.",
+    "argued_against": "seeking love's pleasure without its pain",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "In marriage, keep space in togetherness.",
+    "argued_against": "possessive closeness",
+    "applies_to": "married couples",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Give children love, not your thoughts; they are not possessions.",
+    "argued_against": "possessive parenting",
+    "applies_to": "parents",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Give of yourself freely without seeking recognition.",
+    "argued_against": "giving for recognition",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Work with love.",
+    "argued_against": "working with distaste",
+    "applies_to": "workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Accept joy and sorrow as inseparable.",
+    "argued_against": "seeking joy without sorrow",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Do not let comfort enslave you.",
+    "argued_against": "lust for comfort",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Exchange goods fairly with love and justice.",
+    "argued_against": "greed",
+    "applies_to": "merchants",
+    "centrality": "passing"
+   },
+   {
+    "id": "m9",
+    "advice": "Recognize wrongdoers are part of the community.",
+    "argued_against": "condemning wrongdoers",
+    "applies_to": "communities",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Seek freedom from chains of your own making.",
+    "argued_against": "seeking external freedom",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Balance reason and passion.",
+    "argued_against": "being ruled by either",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Accept pain as part of growth.",
+    "argued_against": "avoiding pain",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Seek self-knowledge.",
+    "argued_against": "seeking a single truth",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "A teacher should lead students to their own understanding.",
+    "argued_against": "imposing knowledge",
+    "applies_to": "teachers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Seek friendship to deepen the spirit.",
+    "argued_against": "using friends",
+    "applies_to": "friends",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "Avoid empty talk to escape loneliness.",
+    "argued_against": "chatter",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Do not divide time into rigid compartments.",
+    "argued_against": "rigid views of time",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Pray from love, not only from need.",
+    "argued_against": "praying only in distress",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Treat daily life as religion.",
+    "argued_against": "separating religion from daily life",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Accept death as part of life.",
+    "argued_against": "fearing death",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e15": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Pursue your personal destiny, the thing you have always wanted to accomplish.",
+    "argued_against": "giving up dreams for comfort",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Trust that when you truly want something, the universe helps you achieve it.",
+    "argued_against": "doubt",
+    "applies_to": "people pursuing their destiny",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Pay attention to omens guiding you.",
+    "argued_against": "ignoring signs",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Do not let fear of failure stop you.",
+    "argued_against": "fear",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Listen to your heart.",
+    "argued_against": "ignoring your heart",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Do not settle for a comfortable routine that abandons your dream.",
+    "argued_against": "the merchant who never makes his pilgrimage",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Persevere through tests after initial luck.",
+    "argued_against": "giving up",
+    "applies_to": "people pursuing goals",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Learn from experience, not only books.",
+    "argued_against": "bookish learning",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Do not let love stop you from pursuing your destiny.",
+    "argued_against": "love that holds people back",
+    "applies_to": "people in love",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Live in the present.",
+    "argued_against": "dwelling on past or future",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Do not let others' opinions shape your life.",
+    "argued_against": "conformity",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Fear of suffering is worse than suffering itself.",
+    "argued_against": "fear of suffering",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Learn the universal language of the world.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Do not give up when close to your goal.",
+    "argued_against": "giving up",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Value the journey, since treasure may be near where you started.",
+    "argued_against": "focusing only on destination",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e16": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Expect change to happen.",
+    "argued_against": "assuming things stay the same",
+    "applies_to": "everyone, especially workplaces",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Anticipate change.",
+    "argued_against": "complacency",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Monitor change regularly.",
+    "argued_against": "ignoring warning signs",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Adapt quickly to change.",
+    "argued_against": "slow adaptation",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Move with change.",
+    "argued_against": "staying stuck",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Enjoy change.",
+    "argued_against": "resenting change",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Be ready to change again.",
+    "argued_against": "complacency",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m8",
+    "advice": "Ask what you would do if not afraid.",
+    "argued_against": "fear",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Imagine yourself enjoying the new situation.",
+    "argued_against": "negative imagining",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Let go of old beliefs.",
+    "argued_against": "clinging to old beliefs",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Let go of what you had sooner.",
+    "argued_against": "holding on",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Recognize fears are worse than reality.",
+    "argued_against": "fear",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Keep things simple and act rather than overanalyze.",
+    "argued_against": "overanalysis",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Do not become complacent with success.",
+    "argued_against": "arrogance",
+    "applies_to": "people who are successful",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Laugh at yourself.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Write down lessons you learn.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e17": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Accept that you will die and keep it in mind, because learning how to die teaches you how to live.",
+    "argued_against": "people who avoid thinking about death and so sleepwalk through life",
+    "applies_to": "everyone, at any age, not only the dying",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Make loving others and letting yourself be loved the most important thing in your life.",
+    "argued_against": "the belief that love is soft or secondary to achievement",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Build your own set of values instead of accepting the surrounding culture's values when they do not serve you.",
+    "argued_against": "a mainstream culture that teaches people to value money, status and youth",
+    "applies_to": "people living in a consumerist modern society",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Do not chase money, possessions and power; they cannot give you tenderness, comfort or meaning.",
+    "argued_against": "materialism and people who substitute things for human connection",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Find meaning by devoting yourself to your community and to creating something that gives you purpose.",
+    "argued_against": "a self-centered life spent getting rather than giving",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Give your time and attention to others; giving makes you feel alive in a way that acquiring does not.",
+    "argued_against": "people who think acquiring more will satisfy them",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Treat family as the foundation of life and do not let work push it aside.",
+    "argued_against": "careerists who neglect their family",
+    "applies_to": "especially people who work long hours or delay having family",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Forgive yourself and forgive others now, before it is too late to do so.",
+    "argued_against": "holding grudges out of pride",
+    "applies_to": "everyone, especially as time runs out",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Let yourself feel emotions such as fear and grief fully, then detach from them and let them go.",
+    "argued_against": "suppressing feelings out of fear of pain",
+    "applies_to": "moments of fear, grief, loneliness or pain",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Do not be ashamed to show feelings or to cry.",
+    "argued_against": "the idea that men or adults should hide emotion",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Allow a short time for self-pity, then stop and turn to the good things still in your life.",
+    "argued_against": "wallowing in self-pity",
+    "applies_to": "people facing illness or loss",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Accept being dependent on others and let them care for you without shame.",
+    "argued_against": "the cultural shame attached to needing help",
+    "applies_to": "the sick, the old, and anyone who needs care",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Embrace growing older instead of envying the young; aging brings understanding.",
+    "argued_against": "the culture's worship of youth",
+    "applies_to": "people of all ages, especially the middle-aged and old",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Be fully present with whoever you are with, giving them your complete attention.",
+    "argued_against": "distracted people always thinking about the next task",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Slow down and stop overworking; frantic busyness keeps you from what matters.",
+    "argued_against": "workaholism and the chase after career success",
+    "applies_to": "busy professionals like the narrator",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m16",
+    "advice": "In marriage, respect your partner, compromise, talk openly, and share common values.",
+    "argued_against": "none",
+    "applies_to": "married couples and people considering marriage",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Make peace with the people you are estranged from while you still can.",
+    "argued_against": "letting pride keep you apart from friends",
+    "applies_to": "people with broken relationships",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Remember that death ends a life, not a relationship; love lives on in others.",
+    "argued_against": "none",
+    "applies_to": "the dying and the bereaved",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Be compassionate and take responsibility for one another; people need each other.",
+    "argued_against": "selfish individualism and treating others as rivals",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Live amid the tension of opposites, knowing that love usually wins.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e18": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Pursue your childhood dreams, and treat them as a guide to what you value.",
+    "argued_against": "giving up dreams as unrealistic",
+    "applies_to": "everyone, especially the author's young children and students",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Treat obstacles as tests of how badly you want something, not as reasons to quit.",
+    "argued_against": "people who give up when blocked",
+    "applies_to": "anyone pursuing a goal",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Help other people achieve their dreams; enabling others can be more rewarding than reaching your own.",
+    "argued_against": "none",
+    "applies_to": "teachers, mentors and parents especially",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "Decide to have fun and stay optimistic, even when facing death.",
+    "argued_against": "gloomy, complaining pessimists",
+    "applies_to": "everyone, including the terminally ill",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Focus on how you play the hand you are dealt rather than on the cards themselves.",
+    "argued_against": "dwelling on bad luck",
+    "applies_to": "people facing hardship or illness",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Do not complain; spend that energy working harder on the problem.",
+    "argued_against": "complainers",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Work harder than others; hard work is the reliable way to succeed.",
+    "argued_against": "expecting success without effort",
+    "applies_to": "students and professionals",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Welcome criticism, because people who criticize you still care enough to help you improve.",
+    "argued_against": "defensiveness about feedback",
+    "applies_to": "students, workers, anyone learning",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Master the fundamentals first, or the advanced things will not work.",
+    "argued_against": "skipping basics for flashy skills",
+    "applies_to": "learners of any skill",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Teach important lessons indirectly, so people learn things like teamwork while thinking they learn something else.",
+    "argued_against": "none",
+    "applies_to": "teachers, coaches and parents",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Look for the best in everyone; wait long enough and people will show you their good side.",
+    "argued_against": "writing people off quickly",
+    "applies_to": "dealings with colleagues and others",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Tell the truth and keep your integrity.",
+    "argued_against": "dishonesty",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Apologize properly: admit fault, say you are sorry, and ask how to make it right.",
+    "argued_against": "half-hearted or defensive apologies",
+    "applies_to": "anyone who has wronged someone",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Value people over things; do not let possessions matter more than relationships.",
+    "argued_against": "treating objects as precious",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Show gratitude, for example by writing thank-you notes.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Manage your time deliberately: plan, prioritize, delegate and cut time-wasters.",
+    "argued_against": "treating time as if it were unlimited",
+    "applies_to": "busy people, students and workers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Ask for what you want; people often say yes.",
+    "argued_against": "assuming the answer is no",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Be prepared, since luck is when preparation meets opportunity.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Value disappointments as experience, which is what you gain when you do not get what you wanted.",
+    "argued_against": "seeing failure as pure loss",
+    "applies_to": "people facing setbacks",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Be earnest rather than trying to look cool.",
+    "argued_against": "hip, detached cynicism",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m21",
+    "advice": "Do not obsess over what others think of you.",
+    "argued_against": "worrying about appearances",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m22",
+    "advice": "Let children express themselves, such as painting their own bedroom walls.",
+    "argued_against": "parents who prize tidy property over a child's creativity",
+    "applies_to": "parents",
+    "centrality": "passing"
+   },
+   {
+    "id": "m23",
+    "advice": "Judge people by what they do rather than what they say.",
+    "argued_against": "trusting words over actions",
+    "applies_to": "judging suitors and others",
+    "centrality": "passing"
+   },
+   {
+    "id": "m24",
+    "advice": "Treat loyalty as two-way and stand by people who stood by you.",
+    "argued_against": "none",
+    "applies_to": "work and personal relationships",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e19": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Choose consciously what you pay attention to and how you make meaning from experience.",
+    "argued_against": "living on autopilot",
+    "applies_to": "graduates entering adult life",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Recognize your natural default setting, which puts yourself at the center of everything, and work to override it.",
+    "argued_against": "the unexamined self-centered default",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "In tedious moments like traffic or checkout lines, imagine that the people annoying you may have hard lives.",
+    "argued_against": "assuming others exist only to get in your way",
+    "applies_to": "daily frustrating routines of adult life",
+    "centrality": "core"
+   },
+   {
+    "id": "m4",
+    "advice": "See that learning how to think really means learning to choose what to think about.",
+    "argued_against": "the cliche that education just trains intellect",
+    "applies_to": "students and graduates",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "Stay aware of the obvious realities around you that are hardest to see and talk about.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Be less certain and arrogant about your beliefs; question your automatic certainties.",
+    "argued_against": "blind certainty and closed-mindedness",
+    "applies_to": "educated people especially",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Avoid worshipping money, beauty, power or intellect, because they will never feel like enough.",
+    "argued_against": "the culture's default forms of worship",
+    "applies_to": "everyone in adult life",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Since everyone worships something, choose carefully what you worship.",
+    "argued_against": "the idea that there is no worship in secular life",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Value the freedom that comes from attention, discipline and caring for others in small daily sacrifices.",
+    "argued_against": "freedom understood as getting what you want",
+    "applies_to": "adults in ordinary daily life",
+    "centrality": "core"
+   },
+   {
+    "id": "m10",
+    "advice": "Make your mind a servant rather than a master that rules you.",
+    "argued_against": "being controlled by constant inner monologue",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m11",
+    "advice": "Stay conscious and alive through the boring, repetitive parts of adult life.",
+    "argued_against": "unconscious routine",
+    "applies_to": "working adults",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Treat this awareness as a simple, daily practice rather than an abstract intellectual idea.",
+    "argued_against": "grand abstract moralizing",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Avoid an unconscious life of constant gnawing loss in the rat race.",
+    "argued_against": "the rat race",
+    "applies_to": "graduates entering careers",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e20": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Trust that the dots of your life will connect later, even though you can only connect them looking back.",
+    "argued_against": "needing to see the full path ahead before acting",
+    "applies_to": "graduates choosing their path",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Trust in something, such as your gut, destiny or life, to give you confidence to follow your heart.",
+    "argued_against": "none",
+    "applies_to": "people facing uncertain choices",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Follow your curiosity and intuition, even when it leads off the conventional path.",
+    "argued_against": "staying on a path that has no value to you",
+    "applies_to": "students and young people",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Find work you love, because loving what you do is the only way to do great work.",
+    "argued_against": "settling for unloved work",
+    "applies_to": "graduates entering careers",
+    "centrality": "core"
+   },
+   {
+    "id": "m5",
+    "advice": "If you have not found what you love, keep looking and do not settle.",
+    "argued_against": "settling",
+    "applies_to": "people still searching",
+    "centrality": "core"
+   },
+   {
+    "id": "m6",
+    "advice": "Do not lose faith when life hits you hard; setbacks like being fired can be a gift.",
+    "argued_against": "despair after failure",
+    "applies_to": "people after a major setback",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Embrace the lightness of being a beginner again after losing success.",
+    "argued_against": "clinging to the heaviness of past success",
+    "applies_to": "people starting over",
+    "centrality": "passing"
+   },
+   {
+    "id": "m8",
+    "advice": "Remember that you will die soon and use that to make big choices.",
+    "argued_against": "fear of failure and embarrassment",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m9",
+    "advice": "Ask each morning whether you would do today's plans if it were your last day, and change if the answer is often no.",
+    "argued_against": "drifting in an unsatisfying routine",
+    "applies_to": "daily life",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Do not waste your limited time living someone else's life.",
+    "argued_against": "living by others' expectations",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m11",
+    "advice": "Do not get trapped by dogma, meaning living by the results of other people's thinking.",
+    "argued_against": "dogma",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Do not let the noise of others' opinions drown out your inner voice.",
+    "argued_against": "conformity to others' opinions",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Have the courage to follow your heart and intuition, which already know what you want.",
+    "argued_against": "fear and timidity",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m14",
+    "advice": "Realize you are already naked with nothing to lose, so there is no reason not to follow your heart.",
+    "argued_against": "the trap of thinking you have something to lose",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Stay hungry and stay foolish.",
+    "argued_against": "complacency",
+    "applies_to": "graduates beginning anew",
+    "centrality": "core"
+   }
+  ]
+ },
+ "e21": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Go calmly through the noise and haste of life and remember the peace found in silence.",
+    "argued_against": "none",
+    "applies_to": "everyone in a noisy, hurried world",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Be on good terms with all people as far as possible without surrendering yourself.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m3",
+    "advice": "Speak your truth quietly and clearly.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m4",
+    "advice": "Listen to others, even the dull and ignorant, because they also have their story.",
+    "argued_against": "dismissing people as dull or ignorant",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m5",
+    "advice": "Avoid loud and aggressive people, who are vexations to the spirit.",
+    "argued_against": "loud and aggressive persons",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m6",
+    "advice": "Do not compare yourself with others, which makes you vain or bitter.",
+    "argued_against": "comparison with others",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m7",
+    "advice": "Enjoy your achievements as well as your plans.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m8",
+    "advice": "Stay interested in your own career, however humble, since it is a real possession.",
+    "argued_against": "none",
+    "applies_to": "people with humble work",
+    "centrality": "passing"
+   },
+   {
+    "id": "m9",
+    "advice": "Be cautious in business, because the world is full of trickery.",
+    "argued_against": "tricksters in business",
+    "applies_to": "business affairs",
+    "centrality": "passing"
+   },
+   {
+    "id": "m10",
+    "advice": "Do not let caution blind you to the virtue, ideals and heroism that also exist.",
+    "argued_against": "cynicism about others",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m11",
+    "advice": "Be yourself, and especially do not fake affection.",
+    "argued_against": "feigned affection",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "Do not be cynical about love, which endures despite disenchantment.",
+    "argued_against": "cynicism about love",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m13",
+    "advice": "Accept the counsel of the years kindly, gracefully giving up the things of youth.",
+    "argued_against": "clinging to youth",
+    "applies_to": "people growing older",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Nurture strength of spirit to shield you in sudden misfortune.",
+    "argued_against": "none",
+    "applies_to": "times of sudden misfortune",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Do not distress yourself with dark imaginings; many fears come from fatigue and loneliness.",
+    "argued_against": "anxious imagining",
+    "applies_to": "times of fear, tiredness or loneliness",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Beyond healthy discipline, be gentle with yourself.",
+    "argued_against": "harshness toward oneself",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Remember you are a child of the universe with a right to be here.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Trust that the universe is unfolding as it should, whether or not it is clear to you.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m19",
+    "advice": "Be at peace with the deity, however you conceive of it.",
+    "argued_against": "none",
+    "applies_to": "people of any belief",
+    "centrality": "passing"
+   },
+   {
+    "id": "m20",
+    "advice": "Keep peace with your soul amid the noisy confusion of life and your own labors and hopes.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m21",
+    "advice": "Be cheerful and strive to be happy, because despite its sham and drudgery it is still a beautiful world.",
+    "argued_against": "despair at the world's flaws",
+    "applies_to": "everyone",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e22": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Recognize ego, an unhealthy belief in your own importance, as the enemy of learning, success and recovery.",
+    "argued_against": "a culture urging self-promotion and self-belief",
+    "applies_to": "people at every stage: aspiring, succeeding, failing",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Talk less and work more; do not substitute talking about goals for pursuing them.",
+    "argued_against": "people who announce and boast instead of working",
+    "applies_to": "people starting out or aspiring",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Choose to do meaningful work rather than to become someone important.",
+    "argued_against": "chasing status and recognition",
+    "applies_to": "ambitious people choosing a path",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Always be a student: learn from someone better, peers, and someone you teach.",
+    "argued_against": "believing you already know enough",
+    "applies_to": "beginners and successful people alike",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Replace fiery passion with sober purpose and realism.",
+    "argued_against": "the cult of passion",
+    "applies_to": "people pursuing goals",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Help those above you succeed and make others look good, clearing their path.",
+    "argued_against": "seeking credit early in a career",
+    "applies_to": "apprentices and those early in careers",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Restrain yourself and endure slights and humiliations rather than reacting from ego.",
+    "argued_against": "touchy pride",
+    "applies_to": "people early in their careers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m8",
+    "advice": "Get out of your own head and see reality rather than a flattering inner story.",
+    "argued_against": "fantasizing and self-narrating",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Do not let early praise or pride make you celebrate before the work is done.",
+    "argued_against": "premature pride",
+    "applies_to": "people with early success",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Put in the long, unglamorous hours of work and practice.",
+    "argued_against": "seeking shortcuts and glory",
+    "applies_to": "anyone aiming to master something",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "After success, keep learning and do not believe your own legend or story of destiny.",
+    "argued_against": "successful people who stop learning",
+    "applies_to": "people who have achieved success",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Know what is important to you and pursue it, ignoring others' goals and refusing endless comparison.",
+    "argued_against": "envy and chasing more for its own sake",
+    "applies_to": "successful people",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Avoid entitlement, the urge to control everything, and paranoia.",
+    "argued_against": "leaders consumed by these habits",
+    "applies_to": "people with power or success",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "As your responsibilities grow, learn to manage and delegate instead of micromanaging.",
+    "argued_against": "leaders who cannot let go of control",
+    "applies_to": "leaders and managers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m15",
+    "advice": "Reflect on the immensity of the world and time to keep perspective on your smallness.",
+    "argued_against": "self-importance",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Stay sober and balanced, avoiding the intoxication of success.",
+    "argued_against": "excess and arrogance",
+    "applies_to": "successful people",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Use setbacks as alive time to learn and act, not dead time spent waiting.",
+    "argued_against": "passively waiting out hardship",
+    "applies_to": "people in failure or difficult periods",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m18",
+    "advice": "Make doing your best work the goal and detach from recognition or outcome.",
+    "argued_against": "needing external validation",
+    "applies_to": "people whose efforts go unrewarded",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m19",
+    "advice": "Judge yourself by your own internal standards rather than by external scorecards.",
+    "argued_against": "measuring worth by wins and applause",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m20",
+    "advice": "Own your failures and mistakes instead of defending yourself or blaming others.",
+    "argued_against": "defensive ego after failure",
+    "applies_to": "people who have failed",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m21",
+    "advice": "Choose love over hatred and resentment toward those who wronged you.",
+    "argued_against": "holding grudges",
+    "applies_to": "people who have been wronged",
+    "centrality": "passing"
+   },
+   {
+    "id": "m22",
+    "advice": "Be humble, open to feedback, and willing to be a beginner.",
+    "argued_against": "arrogance",
+    "applies_to": "everyone",
+    "centrality": "recurring"
+   }
+  ]
+ },
+ "e23": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Value sustained passion and perseverance toward long-term goals over raw talent.",
+    "argued_against": "the cultural bias toward natural talent",
+    "applies_to": "students, workers, athletes, anyone pursuing achievement",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Remember effort counts twice: it builds skill and turns skill into achievement.",
+    "argued_against": "the belief that talent alone determines success",
+    "applies_to": "not stated",
+    "centrality": "core"
+   },
+   {
+    "id": "m3",
+    "advice": "Develop interests over time by exploring, then deepening them, rather than waiting for passion to strike.",
+    "argued_against": "the idea that passion appears suddenly",
+    "applies_to": "people unsure of their passion, especially the young",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Practice deliberately: set stretch goals, concentrate fully, seek immediate feedback, and refine.",
+    "argued_against": "mindless repetition",
+    "applies_to": "anyone building a skill",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Make practice a habit by doing it at the same time and place each day.",
+    "argued_against": "none",
+    "applies_to": "people building skills",
+    "centrality": "passing"
+   },
+   {
+    "id": "m6",
+    "advice": "Connect your work to a purpose that benefits others.",
+    "argued_against": "purely self-oriented motivation",
+    "applies_to": "workers in any job",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m7",
+    "advice": "Reshape your current job in small ways to align it with your values.",
+    "argued_against": "none",
+    "applies_to": "people in existing jobs",
+    "centrality": "passing"
+   },
+   {
+    "id": "m8",
+    "advice": "Cultivate hope by believing ability can grow and explaining setbacks as temporary and specific.",
+    "argued_against": "fixed mindset and pessimistic explanations",
+    "applies_to": "people facing setbacks",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Organize goals under one top-level goal and drop lower goals that do not serve it.",
+    "argued_against": "scattered, conflicting goals",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Stay committed to your top goal but be flexible about the lower-level means to reach it.",
+    "argued_against": "rigidly clinging to failing tactics",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Follow a family rule: everyone does a hard thing, picks it, and does not quit until a natural stopping point.",
+    "argued_against": "quitting on a bad day",
+    "applies_to": "families with children",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m12",
+    "advice": "Parent in a way that is both warm and supportive and demanding.",
+    "argued_against": "permissive or authoritarian parenting",
+    "applies_to": "parents, teachers and coaches",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Encourage children to stick with extracurricular activities for more than a year.",
+    "argued_against": "none",
+    "applies_to": "children and parents",
+    "centrality": "passing"
+   },
+   {
+    "id": "m14",
+    "advice": "Surround yourself with a gritty culture, because groups shape individual perseverance.",
+    "argued_against": "none",
+    "applies_to": "individuals, teams and organizations",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Praise effort and learning rather than innate talent.",
+    "argued_against": "praising children as gifted",
+    "applies_to": "parents and teachers",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Value consistency over time more than short bursts of intensity.",
+    "argued_against": "constantly switching pursuits",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m17",
+    "advice": "Believe grit can grow; it tends to increase with age and experience.",
+    "argued_against": "seeing grit as fixed",
+    "applies_to": "people of all ages",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Find role models whose work serves a purpose to inspire your own.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   }
+  ]
+ },
+ "e24": {
+  "knowledge_basis": "text",
+  "entries": [
+   {
+    "id": "m1",
+    "advice": "Understand that your mind is divided, a controlled rider on an automatic elephant, and train the elephant gradually.",
+    "argued_against": "the belief that reason simply controls behavior",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m2",
+    "advice": "Change your emotional style through meditation, cognitive therapy, and, where suitable, medication.",
+    "argued_against": "relying on willpower alone",
+    "applies_to": "people prone to anxiety, depression or negativity",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m3",
+    "advice": "Challenge your distorted, negative thoughts as cognitive therapy teaches.",
+    "argued_against": "accepting gloomy automatic thoughts",
+    "applies_to": "people with negative thinking",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m4",
+    "advice": "Look for your own faults and hypocrisy before judging others.",
+    "argued_against": "naive self-righteousness and moralism",
+    "applies_to": "everyone, especially in conflicts",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m5",
+    "advice": "Use reciprocity to build relationships, while guarding against being manipulated by it.",
+    "argued_against": "manipulative sales and influence tactics",
+    "applies_to": "social and economic life",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m6",
+    "advice": "Recognize happiness comes from between: getting relationships with others, work and something larger right.",
+    "argued_against": "the view that happiness comes only from within or only from without",
+    "applies_to": "everyone",
+    "centrality": "core"
+   },
+   {
+    "id": "m7",
+    "advice": "Invest in close relationships and love, because strong social ties are vital to happiness.",
+    "argued_against": "the ancient ideal of detachment from attachments",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m8",
+    "advice": "Change the conditions of life you never adapt to, such as noise, long commutes, lack of control and shame.",
+    "argued_against": "assuming you will adapt to everything",
+    "applies_to": "people shaping their circumstances",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m9",
+    "advice": "Spend money on experiences and time with others rather than possessions and status goods.",
+    "argued_against": "conspicuous consumption",
+    "applies_to": "people choosing how to spend money",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m10",
+    "advice": "Find work and activities that use your strengths and bring absorbed engagement.",
+    "argued_against": "none",
+    "applies_to": "workers and people seeking fulfillment",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m11",
+    "advice": "Enjoy progress toward goals, since pleasure comes more from progress than from attainment.",
+    "argued_against": "expecting lasting joy from reaching goals",
+    "applies_to": "goal-oriented people",
+    "centrality": "passing"
+   },
+   {
+    "id": "m12",
+    "advice": "After adversity, seek meaning and growth, for example by writing about the experience.",
+    "argued_against": "suppressing trauma",
+    "applies_to": "people who have suffered loss or trauma",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m13",
+    "advice": "Cultivate virtue and character strengths as a source of happiness, not just rule-following.",
+    "argued_against": "modern ethics focused narrowly on rules and dilemmas",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m14",
+    "advice": "Seek elevation, awe and a sense of the sacred to lift you above the ordinary.",
+    "argued_against": "a flattened view of life without a spiritual dimension",
+    "applies_to": "not stated",
+    "centrality": "recurring"
+   },
+   {
+    "id": "m15",
+    "advice": "Practice gratitude and acts of kindness to increase happiness.",
+    "argued_against": "none",
+    "applies_to": "not stated",
+    "centrality": "passing"
+   },
+   {
+    "id": "m16",
+    "advice": "Avoid relentless maximizing; settle for good enough in choices.",
+    "argued_against": "maximizers",
+    "applies_to": "people facing many choices",
+    "centrality": "passing"
+   },
+   {
+    "id": "m17",
+    "advice": "Balance competing perspectives and value insight from opposing moral and political views.",
+    "argued_against": "one-sided moral certainty",
+    "applies_to": "people in moral or political disagreements",
+    "centrality": "passing"
+   },
+   {
+    "id": "m18",
+    "advice": "Understand happiness depends on your set point, your conditions, and your voluntary activities.",
+    "argued_against": "none",
+    "applies_to": "everyone",
+    "centrality": "core"
+   }
+  ]
+ }
+}
