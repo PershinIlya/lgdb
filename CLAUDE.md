@@ -37,7 +37,7 @@ Ordinary subagents receive this CLAUDE.md (it states the hypothesis); renaming t
 - Leakage audit: A1 and A2 failed (2 of 3 models guessed "opposed advice"); A2 dropped; A1 used, its exemption is the researcher's call (raw in work_axes/audit_raw). Do not self-mark exemptions.
 - 24 well-known extra titles (work_axes/extra_books.json) recalled with S1 and drawn on the map, excluded from tests. Russian titles and fame tiers: work_axes/display.json (tiers are the analyst's judgment, display only).
 - Results (work_axes/analysis.json): 11 of 12 axes pass keep rules (rater r 0.88 to 0.98, no opposite signs, controls uncoded); K12 (arguing) fails. Era: K01 improve vs accept (eta2 0.29, p 0.001; after 1945 leans to accept) and K02 withdraw vs practice in daily life (0.26, p 0.001; after 1945 leans to daily life). Region: K11 moderation vs renunciation (0.27, p 0.001; South Asia renunciation). Middle positions rare (0 to 9%), but the coding makes "middle" require advising both answers.
-- About 2.3M tokens (work_axes/usage.jsonl). Map: same artifact as before (version 3).
+- About 2.7M tokens incl. audits (work_axes/usage.jsonl). Map: same artifact as before (version 3).
 
 ## Not in git
 Ambedkar text (US copyright), downloaded sources (python run.py fetch restores them), cache/, pilot fragments.
