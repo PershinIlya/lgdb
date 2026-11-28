@@ -271,9 +271,9 @@ def analyze(work: Path) -> dict:
         opp = float(np.mean((r1 * r2) < 0)) if len(both) else None
         vals = np.array([c["v"] for c in mem.values()])
         raw = [x for c in mem.values() for x in (c["r1"], c["r2"]) if x is not None]
-        rows = list(mem)
+        prow = list(mem)
         txt = {key[r]["book"]: r for r in key if key[r]["source"] == "text"}
-        mb = {key[r]["book"]: r for r in rows}
+        mb = {key[r]["book"]: r for r in prow}
         pairs = [(con[(mb[b], k)]["v"], con[(t, k)]["v"]) for b, t in txt.items() if b in mb and (t, k) in con]
         d = {**{x: a[x] for x in ("kid", "question", "x", "y", "x_advice", "y_advice")},
              "placed": len(mem), "both_raters": len(both), "side_x": int((vals >= 1).sum()), "side_y": int((vals <= -1).sum()),
@@ -282,8 +282,8 @@ def analyze(work: Path) -> dict:
              "mean_spread": round(float(np.mean([c["spread"] for c in both])), 3) if both else None,
              "raw_extreme_share": round(float(np.mean(np.abs(raw) == 2)), 3) if raw else None,
              "raw_middle_share": round(float(np.mean(np.array(raw) == 0)), 3) if raw else None,
-             "eta2_period": _eta2(vals, [key[r]["period"] for r in rows]) if len(rows) > 5 else None,
-             "eta2_region": _eta2(vals, [key[r]["region"] for r in rows]) if len(rows) > 5 else None,
+             "eta2_period": _eta2(vals, [key[r]["period"] for r in prow]) if len(prow) > 5 else None,
+             "eta2_region": _eta2(vals, [key[r]["region"] for r in prow]) if len(prow) > 5 else None,
              "text_vs_memory_sign": (round(float(np.mean([np.sign(x) == np.sign(y) for x, y in pairs])), 3), len(pairs)) if pairs else None}
         d["keep"] = bool(d["placed"] >= MIN_PLACED and d["side_x"] >= MIN_SIDE and d["side_y"] >= MIN_SIDE
                          and rr is not None and rr >= MIN_R and opp <= MAX_OPPOSITE and not res["controls_placed"])
