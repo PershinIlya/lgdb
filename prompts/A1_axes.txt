@@ -1,0 +1,19 @@
+You are helping organize advice from many books on how to live.
+
+Below are groups of short records. Each record comes from one book and has the form "ADVICE || INSTEAD OF: what the book argues against". Records in one group are similar. Book titles are not given. Each group shows how many different books it contains.
+
+GROUPS
+{GROUPS}
+
+TASK
+Find practical questions that these records answer in two different ways. A question qualifies only if some records recommend answer X and other records recommend answer Y, so that each answer appears as ADVICE somewhere (not only after INSTEAD OF). Prefer questions that many books touch.
+
+Write between 8 and 12 questions. For each question give:
+- "question": an everyday question a reader could ask, at most 12 words, in plain words, with no jargon.
+- "x" and "y": the two answers, each a short label of at most 6 words, concrete and in plain words.
+- "x_advice" and "y_advice": each answer as one sentence of advice, at most 25 words, that a book giving this answer would sign. Make both sound reasonable; do not write either as a mistake.
+- "x_groups" and "y_groups": ids of groups whose ADVICE side gives answer x, and ids of groups whose ADVICE side gives answer y. Each list must be non-empty.
+Questions must not overlap in meaning.
+
+Return only JSON:
+{"axes": [{"question": "...", "x": "...", "y": "...", "x_advice": "...", "y_advice": "...", "x_groups": ["T003"], "y_groups": ["T017"]}]}

@@ -1,0 +1,25 @@
+You are helping check what different books on how to live advise.
+
+Below are numbered notes on what one book advises. The book's title and author are not given. Then comes a list of questions. Each question has two answers, P and Q. For each question, say what this book would tell a reader, judging only from the notes.
+
+CODES
+P2 = the book clearly recommends answer P
+P1 = the book leans toward answer P
+M = the book recommends both, a balance, or a choice that depends on the situation
+Q1 = the book leans toward answer Q
+Q2 = the book clearly recommends answer Q
+N = the notes do not touch this question
+U = the notes touch it but are not enough to tell
+
+For every code except N and U, give the id of the note that supports it; a code without a valid note id is counted as N.
+
+NOTES
+{DOSSIER}
+
+QUESTIONS
+{QUESTIONS}
+
+Give one line for every question, in the form "<question id> <code> <note id>", for example "K03 P2 m4", "K07 M t2", "K01 N".
+
+Return only JSON:
+{"answers": ["K03 P2 m4"]}

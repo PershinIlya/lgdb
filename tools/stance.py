@@ -25,7 +25,8 @@ from lgdb import stance_full as sf  # noqa: E402
 from lgdb.llm import QueueLLM  # noqa: E402
 
 FULL = os.environ.get("LGDB_FULL") == "1"
-WORK = ROOT / ("work_full" if FULL else "work_stance")
+AXES = os.environ.get("LGDB_AXES") == "1"
+WORK = ROOT / ("work_axes" if AXES else "work_full" if FULL else "work_stance")
 Q = WORK / "queue"
 BATCH_DIR = Path(os.environ.get("LGDB_BATCH_DIR", str(Q)))
 MODELS = {"opus": "claude-opus-5-5", "sonnet": "claude-sonnet-5-5", "haiku": "claude-haiku-5-5"}
@@ -90,7 +91,12 @@ def main():
 
     if a.cmd == "stage":
         name = a.args[0]
-        if FULL and name in ("recall", "pool", "code", "tie"):
+        if AXES:
+            from lgdb import axes as ax
+            out = {"tensions": lambda: ax.tensions(WORK), "axes": lambda: ax.axes(q("opus"), WORK),
+                   "place": lambda: ax.place({r: q(m) for r, m in ax.RATERS.items()}, WORK),
+                   "analyze": lambda: ax.analyze(WORK)}[name]()
+        elif FULL and name in ("recall", "pool", "code", "tie"):
             out = {"recall": lambda: sf.recall(q("opus"), WORK), "pool": lambda: sf.build_pool(WORK),
                    "code": lambda: sf.code({r: q(m) for r, m in RATERS.items()}, WORK),
                    "tie": lambda: sf.tiebreak(q("haiku"), WORK)}[name]()

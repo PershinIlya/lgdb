@@ -1,0 +1,7 @@
+{"label": "axes", "agent": "a99733f76e229f71f", "model": "claude-opus-5-5", "context_tokens": 83724, "output_tokens": 3970, "total": 87694, "note": ""}
+{"label": "audit_A2_opus", "agent": "acb1b88aefe6f7ce1", "model": "claude-opus-5-5", "context_tokens": 56734, "output_tokens": 1089, "total": 57823, "note": "P0 leakage audit"}
+{"label": "audit_A2_sonnet", "agent": "ae9b57ff205306da2", "model": "claude-sonnet-5-5", "context_tokens": 56740, "output_tokens": 1543, "total": 58283, "note": "P0 leakage audit"}
+{"label": "audit_A2_haiku", "agent": "a5cd7ee0298e1dc9b", "model": "claude-haiku-5-5", "context_tokens": 59140, "output_tokens": 3072, "total": 62212, "note": "P0 leakage audit"}
+{"label": "audit_A1_opus", "agent": "ac8cfffd699492870", "model": "claude-opus-5-5", "context_tokens": 78956, "output_tokens": 1241, "total": 80197, "note": "P0 leakage audit"}
+{"label": "audit_A1_sonnet", "agent": "a3d16cbd30ac855e3", "model": "claude-sonnet-5-5", "context_tokens": 78962, "output_tokens": 1639, "total": 80601, "note": "P0 leakage audit"}
+{"label": "audit_A1_haiku", "agent": "a346d0d1d40e72af1", "model": "claude-haiku-5-5", "context_tokens": 79053, "output_tokens": 3049, "total": 82102, "note": "P0 leakage audit"}
